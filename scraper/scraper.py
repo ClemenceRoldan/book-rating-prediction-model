@@ -1,4 +1,4 @@
-## Kheirie : scraper in progress - need to try it on DF
+## Kheirie : scraper in progress - need to try it on full DF
 
 import requests
 from bs4 import BeautifulSoup
@@ -141,7 +141,7 @@ def get_publisher(book_id: int):
 
     return publisher
 
-def get_pagesFormat(book_id: int) -> str: 
+def get_pagesFormat(book_id: int): 
     """Function to get the format of a specific book (e.g. Paperback, CD, Hardcover etc.)
 
     Args:
@@ -161,7 +161,7 @@ def get_pagesFormat(book_id: int) -> str:
 
     return pagesFormat
 
-def get_firstPublished(book_id: int) -> str: 
+def get_firstPublished(book_id: int): 
     """Function to get the first time the book was published (should be the same for all editions)
 
     Args:
