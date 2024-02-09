@@ -222,6 +222,7 @@ def get_publisher_pagesFormat_firstPublished(book_id):
 def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max_throttle_delay=8):
     # Load the last scraped index if it exists
     last_index_file = "last_scraped_index.txt"
+    
     if exists(last_index_file):
         with open(last_index_file, "r") as file:
             start_index = int(file.read())
@@ -240,8 +241,10 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
     
     print("Started Scraping process from index {start_index} ...")
     
+    
     # Iterate over each row in the DataFrame starting from the last scraped index
     for index in range(start_index, len(df), batch_size):
+        breaker = False
         batch_df = df.iloc[index:index+batch_size]
         for batch_index, row in batch_df.iterrows():
             
@@ -261,9 +264,11 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
                     
                     if not val: 
                         print("stopping the process ... Not able to sign in")
+                        breaker = True
                         break
                 if val == -1: 
                     print("stopping the process ... failed to connect because of un expected error")
+                    breaker = True
                     break
                 
             avgR_shelvesA = get_avgRating_shelvesAdded(row['bookID'])
@@ -280,9 +285,11 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
                     
                     if not val: 
                         print("stopping the process ... Not able to sign in")
+                        breaker = True
                         break
                 if val == -1: 
                     print("stopping the process ... failed to connect because of un expected error")
+                    breaker = True
                     break
                 
             pub_pagesF_firstP = get_publisher_pagesFormat_firstPublished(row['bookID'])
@@ -302,6 +309,9 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
             # Set up delays between requests to avoid overwhelming the server
             throttle_delay = random.uniform(min_throttle_delay, max_throttle_delay)
             time.sleep(throttle_delay)
+        
+        if breaker: 
+            break
         
         print(df.sample(3))        
         
