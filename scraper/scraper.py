@@ -46,12 +46,17 @@ def driver_quit():
 
 def getPage(url, timeout=8):
     myprint('Getting Page :', url, ' ...> ', end='')
-    driver.get(url)
+    try:
+        driver.get(url)
+    except:
+        return False
+    
     time.sleep(timeout)
     if len(driver.page_source) == 0:
         # raise ValueError("Page empty")
         print("Page empty")
         return False
+    
     myprint('OK')
     return True
 
@@ -120,7 +125,10 @@ def get_avgRating_shelvesAdded(book_id):
         val = getPage(url)
         
         if not val: 
-            return np.nan
+            return dict({
+                'avg_rating' : np.nan,
+                'added_to_shelves' : np.nan
+            })
         
     
     # myprint(driver.current_url)
@@ -195,7 +203,11 @@ def get_publisher_pagesFormat_firstPublished(book_id):
         val = getPage(url)
         
         if not val: 
-            return np.nan
+            return dict({
+        'publisher': np.nan,
+        'page_format': np.nan,
+        'first_published': np.nan
+        })
     
     # Getting Publisher
     myprint('---> Publisher : ', end='')
@@ -313,7 +325,7 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
         if breaker: 
             break
         
-        print(df.sample(3))        
+        print(batch_df.sample(3))        
         
         
         print("Processed", min(index + batch_size, len(df)), "rows")
