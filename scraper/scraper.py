@@ -1,4 +1,6 @@
-## Kheirie : scraper in progress - need to try it on full DF
+## Kheirie
+# scraper works well - but always after scraping between 100 to 200 books it gets detected and thus returns an error (even though I added several sleep)
+# If returned an error have to wait a little before rerunning (searching for solution in progress)
 
 import json
 import re
@@ -45,13 +47,16 @@ def driver_quit():
     driver.quit()
 
 def getPage(url, timeout=8):
+    
     myprint('Getting Page :', url, ' ...> ', end='')
+    
     try:
         driver.get(url)
     except:
         return False
     
     time.sleep(timeout)
+    
     if len(driver.page_source) == 0:
         # raise ValueError("Page empty")
         print("Page empty")
@@ -120,8 +125,8 @@ def get_avgRating_shelvesAdded(book_id):
     val = getPage(url)
     
     if not val:
-        print(f"Connecting to {url} failed !!! \n try to connect again again ...")
-        time.sleep(3)
+        print(f"Connecting to {url} failed !!! \n try to connect again ...")
+        time.sleep(7)
         val = getPage(url)
         
         if not val: 
@@ -198,8 +203,8 @@ def get_publisher_pagesFormat_firstPublished(book_id):
     val = getPage(url)
     
     if not val:
-        print(f"Connecting to {url} failed !!! \n try to connect again again ...")
-        time.sleep(3)
+        print(f"Connecting to {url} failed !!! \n try to connect again ...")
+        time.sleep(7)
         val = getPage(url)
         
         if not val: 
@@ -231,7 +236,7 @@ def get_publisher_pagesFormat_firstPublished(book_id):
     })
 
 
-def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max_throttle_delay=8):
+def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=5, max_throttle_delay=10):
     # Load the last scraped index if it exists
     last_index_file = "last_scraped_index.txt"
     
@@ -259,7 +264,8 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
         breaker = False
         batch_df = df.iloc[index:index+batch_size]
         for batch_index, row in batch_df.iterrows():
-            
+            throttle_delay = random.uniform(min_throttle_delay, max_throttle_delay)
+
             # Save the index of the last scraped row
             with open(last_index_file, "w") as file:
                 file.write(str(batch_index))
@@ -279,7 +285,7 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
                         breaker = True
                         break
                 if val == -1: 
-                    print("stopping the process ... failed to connect because of un expected error")
+                    print("stopping the process ... failed to connect because of unexpected error")
                     breaker = True
                     break
                 
@@ -300,7 +306,7 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
                         breaker = True
                         break
                 if val == -1: 
-                    print("stopping the process ... failed to connect because of un expected error")
+                    print("stopping the process ... failed to connect because of unexpected error")
                     breaker = True
                     break
                 
@@ -323,6 +329,7 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=2, max
             time.sleep(throttle_delay)
         
         if breaker: 
+            print("!!! process stopped - failed to connect !!!")
             break
         
         print(batch_df.sample(3))        
