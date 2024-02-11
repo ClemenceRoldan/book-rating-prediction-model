@@ -119,7 +119,7 @@ def get_avgRating_shelvesAdded(book_id):
         
         # disconnect then connect again
         driver_quit()
-        time.sleep(random.uniform(10, 20))
+        time.sleep(random.uniform(30, 60))
         
         connect_driver()
         login()
@@ -206,7 +206,7 @@ def get_publisher_pagesFormat_firstPublished(book_id):
         
         # disconnect then connect again
         driver_quit()
-        time.sleep(random.uniform(10, 20))
+        time.sleep(random.uniform(30, 60))
         
         connect_driver()
         login()
