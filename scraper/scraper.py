@@ -1,6 +1,6 @@
 ## Kheirie
-# scraper works well - but always after scraping between 100 to 200 books it gets detected and thus returns an error (even though I added several sleep)
-# If returned an error have to wait a little before rerunning (searching for solution in progress)
+# scraper works well - BUT after couple of 100s scrapes it gets detected, which results in errors or having nan values (even with a lot of timeouts)
+# incase of errors restart of scraping from last index reached, nans can be dealt with later 
 
 import json
 import re
@@ -26,16 +26,6 @@ def myprint(*args, **kwargs):
 
 def connect_driver(): 
     
-    """Function to connect to chrome drive; This will be used to get specific stats of specific book editions
-    Note that chromedriver.exe needs to be downloaded and found on machine
-    
-    Args:
-        creds_path (str): path to yaml file that contain the credentials to login
-        login_url (str): the url where the username and password are entered to login to goodreads
-    Returns: 
-        the driver object
-    """
-    
     global driver
 
     myprint("Setting Driver ...> ", end='')
@@ -47,23 +37,23 @@ def driver_quit():
     driver.quit()
 
 def getPage(url, timeout=8):
-    
     myprint('Getting Page :', url, ' ...> ', end='')
     
     try:
+        driver.set_page_load_timeout(timeout)
         driver.get(url)
-    except:
+        page_source = driver.page_source
+        
+        if not page_source:
+            print("Page empty")
+            return False
+        
+        myprint('OK')
+        return True
+    
+    except Exception as e:
+        print(f"Error occurred: {e}")
         return False
-    
-    time.sleep(timeout)
-    
-    if len(driver.page_source) == 0:
-        # raise ValueError("Page empty")
-        print("Page empty")
-        return False
-    
-    myprint('OK')
-    return True
 
 def driver_pages():
     myprint('browser_pages : ', driver.window_handles)
@@ -93,15 +83,15 @@ def login(creds_path='../private/credentials.yaml'):
             myprint('OK')
         
         myprint('Setting credentials in login page form ...> ', end='')
-        log_email = polling2.poll(lambda: driver.find_element(By.ID, value="ap_email"), step=0.5, timeout=2)
+        log_email = polling2.poll(lambda: driver.find_element(By.ID, value="ap_email"), step=4, timeout=10)
         log_email.send_keys(username)
-        log_pass = polling2.poll(lambda: driver.find_element(By.ID, value="ap_password"), step=0.5, timeout=2)
+        log_pass = polling2.poll(lambda: driver.find_element(By.ID, value="ap_password"), step=3, timeout=10)
         log_pass.send_keys(password)
         log_pass.submit()
         myprint('OK')
         myprint('Connecting to goodreads ...> ', end='')
 
-        time.sleep(2)
+        time.sleep(random.uniform(2, 6))
 
         if is_logged_in():
             myprint(driver.current_url, ' ...> OK')
@@ -112,8 +102,8 @@ def login(creds_path='../private/credentials.yaml'):
             return 0
             
         #print('After : ', driver.get_cookies())
-    except ValueError as err:
-        myprint(err.args)
+    except Exception as e:
+        myprint(f"Error occurred: {e}")
         return -1
 
 def get_avgRating_shelvesAdded(book_id):
@@ -121,15 +111,23 @@ def get_avgRating_shelvesAdded(book_id):
     url = f"https://www.goodreads.com/book/stats?id={book_id}&just_this_edition=yep"
     myprint('Getting AvgRating & ShelvesAdded :')
     
-    time.sleep(2)
+    time.sleep(random.uniform(2, 8))
     val = getPage(url)
     
     if not val:
         print(f"Connecting to {url} failed !!! \n try to connect again ...")
-        time.sleep(7)
+        
+        # disconnect then connect again
+        driver_quit()
+        time.sleep(random.uniform(10, 20))
+        
+        connect_driver()
+        login()
+        
         val = getPage(url)
         
         if not val: 
+            print(f"!!!!! Failed to connect to {url} saving values as nan !!!!!")
             return dict({
                 'avg_rating' : np.nan,
                 'added_to_shelves' : np.nan
@@ -138,13 +136,13 @@ def get_avgRating_shelvesAdded(book_id):
     
     # myprint(driver.current_url)
     myprint('---> AvgRating : ', end='')
-    avg_rating = polling2.poll(lambda: driver.find_element(By.CLASS_NAME, value="infoBoxRowItem.avgRating"), step=3, timeout=4)
+    avg_rating = polling2.poll(lambda: driver.find_element(By.CLASS_NAME, value="infoBoxRowItem.avgRating"), step=6, timeout=15)
     avg_rating = avg_rating.text.strip()
     avg_rating = float(avg_rating)
     myprint(avg_rating)
     
     myprint('---> ShelvesAdded : ', end='')
-    added_to_shelves = polling2.poll(lambda: driver.find_element(By.XPATH, '//div[@class="infoBoxRowTitle" and text()="Added to shelves"]/following-sibling::div[@class="infoBoxRowItem"]'), step=3, timeout=5)
+    added_to_shelves = polling2.poll(lambda: driver.find_element(By.XPATH, '//div[@class="infoBoxRowTitle" and text()="Added to shelves"]/following-sibling::div[@class="infoBoxRowItem"]'), step=8, timeout=15)
     added_to_shelves = added_to_shelves.text.strip().replace(',','')
     added_to_shelves = int(added_to_shelves)
     myprint(added_to_shelves)
@@ -158,7 +156,7 @@ def get_avgRating_shelvesAdded(book_id):
 
 def get_publisher():
     
-    script_element = polling2.poll(lambda: driver.find_element(By.ID,"__NEXT_DATA__"), step=4, timeout=4)
+    script_element = polling2.poll(lambda: driver.find_element(By.ID,"__NEXT_DATA__"), step=4, timeout=10)
     script_content = script_element.get_attribute("innerHTML")
     json_content = json.loads(script_content)
     
@@ -179,7 +177,7 @@ def get_publisher():
 
 def get_pagesFormat():
     
-    pagesFormat = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="pagesFormat"]'), step=4, timeout=4)
+    pagesFormat = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="pagesFormat"]'), step=7, timeout=12)
     pagesFormat = pagesFormat.text.split(',')[-1].strip()
     if pagesFormat:
         return pagesFormat
@@ -188,7 +186,7 @@ def get_pagesFormat():
 
 def get_firstPublished():
     
-    firstPublished = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="publicationInfo"]'), step=4, timeout=4)
+    firstPublished = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="publicationInfo"]'), step=5, timeout=13)
     if firstPublished:
         firstPublished = firstPublished.text.strip("First published ")
         return firstPublished
@@ -203,11 +201,19 @@ def get_publisher_pagesFormat_firstPublished(book_id):
     val = getPage(url)
     
     if not val:
+        
         print(f"Connecting to {url} failed !!! \n try to connect again ...")
-        time.sleep(7)
+        
+        # disconnect then connect again
+        driver_quit()
+        time.sleep(random.uniform(10, 20))
+        
+        connect_driver()
+        login()
         val = getPage(url)
         
         if not val: 
+            print(f"!!!!! Failed to connect to {url} saving values as nan !!!!!")
             return dict({
         'publisher': np.nan,
         'page_format': np.nan,
@@ -269,8 +275,10 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=5, max
             # Save the index of the last scraped row
             with open(last_index_file, "w") as file:
                 file.write(str(batch_index))
-                
+            
+            # make sure it is properly logged in   
             if not is_logged_in:
+                
                 throttle_delay = random.uniform(min_throttle_delay, max_throttle_delay)
                 
                 time.sleep(throttle_delay)
@@ -290,25 +298,6 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=5, max
                     break
                 
             avgR_shelvesA = get_avgRating_shelvesAdded(row['bookID'])
-            
-            if not is_logged_in:
-                throttle_delay = random.uniform(min_throttle_delay, max_throttle_delay)
-                
-                time.sleep(throttle_delay)
-                val = login()
-                if not val: 
-                    driver_quit()
-                    connect_driver()
-                    val = login()
-                    
-                    if not val: 
-                        print("stopping the process ... Not able to sign in")
-                        breaker = True
-                        break
-                if val == -1: 
-                    print("stopping the process ... failed to connect because of unexpected error")
-                    breaker = True
-                    break
                 
             pub_pagesF_firstP = get_publisher_pagesFormat_firstPublished(row['bookID'])
             
