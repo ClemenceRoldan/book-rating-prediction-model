@@ -1,7 +1,3 @@
-## Kheirie
-# scraper works well - BUT after couple of 100s scrapes it gets detected, which results in errors or having nan values (even with a lot of timeouts)
-# incase of errors restart of scraping from last index reached, nans can be dealt with later 
-
 import json
 import re
 from selenium import webdriver
@@ -20,20 +16,24 @@ driver = None
 DEBUG = True
 
 def myprint(*args, **kwargs):
-    global DEBUG
-    if DEBUG:
+    
+    global DEBUG 
+    if DEBUG: # if false does not print
         print(*args, **kwargs)
 
 def connect_driver(): 
+    # connect to driver
     
     global driver
 
     myprint("Setting Driver ...> ", end='')
  
     driver = uc.Chrome(headless=True,use_subprocess=False)
+    
     myprint('OK')
     
 def driver_quit():
+    # quit driver
     driver.quit()
 
 def getPage(url, timeout=8):
@@ -70,9 +70,9 @@ def login(creds_path='../private/credentials.yaml'):
     
     try:
         val = getPage(login_url)
-        #print('Before : ', driver.get_cookies())
         
         if not val: 
+            # was not able to get page
             return 0
         
         myprint('Getting login credentials from config file:', creds_path, ' ...> ', end='')
@@ -96,12 +96,10 @@ def login(creds_path='../private/credentials.yaml'):
         if is_logged_in():
             myprint(driver.current_url, ' ...> OK')
             return 1
-            #driver.close()
         else:
             myprint('Loggin Failed')
             return 0
             
-        #print('After : ', driver.get_cookies())
     except Exception as e:
         myprint(f"Error occurred: {e}")
         return -1
@@ -115,7 +113,7 @@ def get_avgRating_shelvesAdded(book_id):
     val = getPage(url)
     
     if not val:
-        print(f"Connecting to {url} failed !!! \n try to connect again ...")
+        myprint(f"Connecting to {url} failed !!! \n try to connect again ...")
         
         # disconnect then connect again
         driver_quit()
@@ -127,26 +125,36 @@ def get_avgRating_shelvesAdded(book_id):
         val = getPage(url)
         
         if not val: 
-            print(f"!!!!! Failed to connect to {url} saving values as nan !!!!!")
+            myprint(f"!!!!! Failed to connect to {url} saving values as nan !!!!!")
             return dict({
                 'avg_rating' : np.nan,
                 'added_to_shelves' : np.nan
             })
         
     
-    # myprint(driver.current_url)
     myprint('---> AvgRating : ', end='')
-    avg_rating = polling2.poll(lambda: driver.find_element(By.CLASS_NAME, value="infoBoxRowItem.avgRating"), step=6, timeout=15)
-    avg_rating = avg_rating.text.strip()
-    avg_rating = float(avg_rating)
-    myprint(avg_rating)
+    
+    try:
+        avg_rating = polling2.poll(lambda: driver.find_element(By.CLASS_NAME, value="infoBoxRowItem.avgRating"), step=6, timeout=15)
+        avg_rating = avg_rating.text.strip()
+        avg_rating = float(avg_rating)
+        myprint(avg_rating)
+    except Exception as e: 
+        myprint(f"!!!!! Could not get the average ratings due to the following exception: {e} !!!!!")
+        myprint("!!!!! avg_rating will be set to nan !!!!!")
+        avg_rating = np.nan
     
     myprint('---> ShelvesAdded : ', end='')
-    added_to_shelves = polling2.poll(lambda: driver.find_element(By.XPATH, '//div[@class="infoBoxRowTitle" and text()="Added to shelves"]/following-sibling::div[@class="infoBoxRowItem"]'), step=8, timeout=15)
-    added_to_shelves = added_to_shelves.text.strip().replace(',','')
-    added_to_shelves = int(added_to_shelves)
-    myprint(added_to_shelves)
     
+    try:
+        added_to_shelves = polling2.poll(lambda: driver.find_element(By.XPATH, '//div[@class="infoBoxRowTitle" and text()="Added to shelves"]/following-sibling::div[@class="infoBoxRowItem"]'), step=8, timeout=15)
+        added_to_shelves = added_to_shelves.text.strip().replace(',','')
+        added_to_shelves = int(added_to_shelves)
+        myprint(added_to_shelves)
+    except Exception as e: 
+        myprint(f"!!!!! Could not get added to shelves due to the following exception: {e} !!!!!")
+        myprint("!!!!! added_to_shelves will be set to nan !!!!!")
+        added_to_shelves = np.nan
     
     return dict({
         'avg_rating' : avg_rating,
@@ -156,41 +164,51 @@ def get_avgRating_shelvesAdded(book_id):
 
 def get_publisher():
     
-    script_element = polling2.poll(lambda: driver.find_element(By.ID,"__NEXT_DATA__"), step=4, timeout=10)
-    script_content = script_element.get_attribute("innerHTML")
-    json_content = json.loads(script_content)
+    try:
+        script_element = polling2.poll(lambda: driver.find_element(By.ID,"__NEXT_DATA__"), step=4, timeout=10)
+        script_content = script_element.get_attribute("innerHTML")
+        json_content = json.loads(script_content)
     
-    # Find the dynamic key, since the key that homds publisher info changes from book to book in json file
-    pattern = re.compile(r'^Book:kca://book/amzn1.gr.book.v1') # the pattern of the key that holds the publisher information
-    dynamic_key = next((key for key in json_content.get("props", {}).get("pageProps", {}).get("apolloState", {}) if pattern.match(key)), None)
+    
+        # Find the dynamic key, since the key that homds publisher info changes from book to book in json file
+        pattern = re.compile(r'^Book:kca://book/amzn1.gr.book.v1') # the pattern of the key that holds the publisher information
+        dynamic_key = next((key for key in json_content.get("props", {}).get("pageProps", {}).get("apolloState", {}) if pattern.match(key)), None)
 
-    # get the publisher
-    if dynamic_key:
+        # get the publisher
         details = json_content.get("props", {}).get("pageProps", {}).get("apolloState", {}).get(dynamic_key, {}).get("details", {})
         publisher = details.get("publisher", "")
-        
-        if publisher: 
-            return publisher
+    except Exception as e:
+
+        myprint(f"!!!!! Could not get publisher due to the following exception: {e} !!!!!")
+        myprint("!!!!! publisher will be set to nan !!!!!")
+        publisher = np.nan      
    
-    return np.nan
+    return publisher
 
 
 def get_pagesFormat():
     
-    pagesFormat = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="pagesFormat"]'), step=7, timeout=12)
-    pagesFormat = pagesFormat.text.split(',')[-1].strip()
-    if pagesFormat:
-        return pagesFormat
-    return np.nan
+    try:
+        pagesFormat = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="pagesFormat"]'), step=7, timeout=12)
+        pagesFormat = pagesFormat.text.split(',')[-1].strip()
+    except Exception as e: 
+        myprint(f"!!!!! Could not get page format due to the following exception: {e} !!!!!")
+        myprint("!!!!! pagesFormat will be set to nan !!!!!")
+        pagesFormat = np.nan         
+    
+    return pagesFormat
 
 
 def get_firstPublished():
     
-    firstPublished = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="publicationInfo"]'), step=5, timeout=13)
-    if firstPublished:
+    try:
+        firstPublished = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="publicationInfo"]'), step=5, timeout=13)
         firstPublished = firstPublished.text.strip("First published ")
-        return firstPublished
-    return np.nan
+    except Exception as e: 
+        myprint(f"!!!!! Could not get first published due to the following exception: {e} !!!!!")
+        myprint("!!!!! firstPublished will be set to nan !!!!!")
+        firstPublished = np.nan         
+    return firstPublished
 
 def get_publisher_pagesFormat_firstPublished(book_id):
     
