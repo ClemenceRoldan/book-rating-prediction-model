@@ -28,7 +28,7 @@ def connect_driver():
 
     myprint("Setting Driver ...> ", end='')
  
-    driver = uc.Chrome(headless=True,use_subprocess=False)
+    driver = uc.Chrome(headless=True,use_subprocess=False, version_main = 120)
     
     myprint('OK')
     
