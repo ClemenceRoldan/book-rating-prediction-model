@@ -152,7 +152,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 337,El perfume: Historia de un asesino,Patrick Süskind,4.02,8432216062,9788432216060,spa,239,4136,255,2002-06-01,Booket,"January 1, 1985",Paperback,,4.08,26834.0
 348,The Door Into Summer,Robert A. Heinlein,4.01,0345413997,9780345413994,eng,304,17232,649,1997-06-17,Del Rey,"January 1, 1957",Paperback,Del Rey,4.01,33337.0
 350,Stranger in a Strange Land,Robert A. Heinlein,3.92,0441788386,9780441788385,eng,528,251872,6241,1991-10-01,Ace,"July 1, 1961",Paperback,Ace,3.93,523999.0
-354,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,0441748600,9780441748600,en-US,434,10293,193,1988-06-01,Ace Books,,,,,
+354,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,0441748600,9780441748600,en-US,434,10293,193,1988-06-01,Ace Books,"July 1, 1987",Mass Market Paperback,Ace Books,3.88,16231.0
 355,Job: A Comedy of Justice,Robert A. Heinlein,3.78,0345316509,9780345316509,en-US,439,15970,438,1985-10-12,Del Rey,"September 1, 1984",Mass Market Paperback,Random House Inc,3.79,25195.0
 356,Time for the Stars (Heinlein's Juveniles  #10),Robert A. Heinlein,3.97,0765314932,9780765314932,eng,256,6898,200,2006-08-08,Tor Books,"August 1, 1956",Hardcover,Tor Books,3.96,11555.0
 357,The Long Dark Tea-Time of the Soul (Dirk Gently  #2),Douglas Adams,4.06,0671742515,9780671742515,en-US,307,67803,1401,1991-02-15,Pocket Books,"October 10, 1988",Mass Market Paperback,Pocket Books,4.05,117219.0
@@ -1586,8 +1586,8 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 5471,Nineteen Eighty-Four,George Orwell/Thomas Pynchon,4.18,0452284236,9780452284234,eng,339,9910,748,2003-05-06,Plume,"June 8, 1949",Paperback,Plume,4.22,30096.0
 5472,Animal Farm / 1984,George Orwell/Christopher Hitchens,4.28,0151010269,9780151010264,eng,400,146659,1625,2003-06-01,Houghton Mifflin Harcourt,"January 1, 1949",Hardcover,Houghton Mifflin Harcourt,4.29,317099.0
 5477,1984,George Orwell/Erich Fromm,4.18,0451516753,9780451516756,eng,268,1322,121,1981-07-01,Signet Classics,"June 8, 1949",Mass Market Paperback,Signet Classics,4.08,2118.0
-5478,Nineteen Eighty-Four,George Orwell,4.18,1421808323,9781421808321,eng,387,215,17,2005-07-01,1st World Library,,,,4.06,324.0
-5479,Brave New World / Brave New World Revisited,Aldous Huxley/Christopher Hitchens,4.16,0060776099,9780060776091,eng,340,129179,1047,2005-07-05,Harper Perennial Modern Classics,,,,,
+5478,Nineteen Eighty-Four,George Orwell,4.18,1421808323,9781421808321,eng,387,215,17,2005-07-01,1st World Library,"June 8, 1949",Hardcover,1st World Library,4.06,324.0
+5479,Brave New World / Brave New World Revisited,Aldous Huxley/Christopher Hitchens,4.16,0060776099,9780060776091,eng,340,129179,1047,2005-07-05,Harper Perennial Modern Classics,"January 1, 1958",Paperback,Harper Perennial Modern Classics,4.17,328788.0
 5480,Brave New World and Brave New World Revisited,Aldous Huxley/Christopher Hitchens,4.16,0060535261,9780060535261,eng,340,421,53,2004-06-01,HarperCollins,"January 1, 1958",Hardcover,,4.06,942.0
 5481,Brave New World Revisited,Aldous Huxley,3.95,0060898526,9780060898526,eng,123,12989,740,2006-09-05,Harper Perennial Modern Classics,"November 1, 1958",Paperback,Harper Perennial Modern Classics,3.95,34416.0
 5485,Brave New World,Aldous Huxley,3.99,0060850523,9780060850524,eng,259,13353,1286,2006-10-17,HarperCollins,"January 1, 1932",Paperback,,3.87,33578.0
@@ -1700,7 +1700,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 5910,The Annotated Hobbit,J.R.R. Tolkien/Douglas A. Anderson,4.27,0007137273,9780007137275,eng,411,121,16,2003-04-07,HarperCollins,"September 21, 1937",Hardcover,,4.55,223.0
 5911,Poems From The Hobbit,J.R.R. Tolkien,4.3,0618009345,9780618009343,eng,57,169,5,1999-12-13,Houghton Mifflin Harcourt,"October 4, 1999",Hardcover,Houghton Mifflin Harcourt,4.33,1090.0
 5912,The Hobbit: Or There and Back Again,J.R.R. Tolkien,4.27,1594130051,9781594130052,eng,481,276,43,2003-09-01,Large Print Press,"September 21, 1937",Paperback,,4.22,374.0
-5915,The Hobbit,J.R.R. Tolkien,4.27,0261103288,9780261103283,eng,277,3213,329,2007-09-17,HarperCollins,,,,4.39,6394.0
+5915,The Hobbit,J.R.R. Tolkien,4.27,0261103288,9780261103283,eng,277,3213,329,2007-09-17,HarperCollins,"September 21, 1937",Hardcover,,4.39,6394.0
 5918,Ruthless Rhymes for Heartless Homes and More Ruthless Rhymes,Harry Graham/Frank J. Moore/D. Streamer,3.86,0486402185,9780486402185,eng,64,44,10,2013-06-19,Dover Publications,"January 1, 1961",Paperback,Dover Publications,3.89,113.0
 5931,The Essential Neruda: Selected Poems,Pablo Neruda/Mark Eisner/Lawrence Ferlinghetti/Robert Hass/Stephen Mitchell/Alastair Reid/Forrest Gander/Jack Hirschman/Stephen Kessler/John Felstiner,4.46,0872864286,9780872864283,eng,200,5149,210,2004-04-01,City Lights Publishers,"January 1, 1979",Paperback,City Lights Publishers,4.43,15270.0
 5932,Twenty Love Poems and a Song of Despair,Pablo Neruda/W.S. Merwin/Cristina García,4.3,0143039962,9780143039969,eng,70,37942,1105,2006-12-26,Penguin Classics,"January 1, 1924",Paperback,Penguin Classics,4.29,171248.0
@@ -1713,21 +1713,21 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 5969,A Sparrow Falls (Courtney #3),Wilbur Smith,4.19,0312940688,9780312940683,eng,640,5019,91,2007-01-02,St. Martin's Paperbacks,"January 1, 1977",Mass Market Paperback,St. Martin's Paperbacks,4.15,9769.0
 5970,Providence of a Sparrow: Lessons from a Life Gone to the Birds,Chris Chester,4.33,1400033853,9781400033850,eng,304,228,44,2004-04-13,Anchor,"September 3, 2002",Paperback,Anchor,4.33,779.0
 5974,Sparrow Hawk Red,Ben Mikaelsen,3.79,0786811056,9780786811052,eng,185,1,0,1995-04-01,Little  Brown Books for Young Readers,"March 1, 1993",Paperback,,3.0,13.0
-5975,The Fall of a Sparrow,Robert Hellenga,3.69,0684850273,9780684850276,eng,464,824,89,1999-07-06,Scribner,,,,3.66,1663.0
+5975,The Fall of a Sparrow,Robert Hellenga,3.69,0684850273,9780684850276,eng,464,824,89,1999-07-06,Scribner,"January 1, 1998",Paperback,Scribner,3.66,1663.0
 5976,The Bluebird and the Sparrow (Women of the West  #10),Janette Oke,3.83,0764202537,9780764202537,en-US,251,78,9,2006-08-01,Bethany House Publishers,"January 1, 1995",Paperback,,3.72,153.0
 5981,Journey of the Sparrows,Fran Leeper Buss/Daisy Cubias,3.69,0142302090,9780142302095,eng,160,205,25,2002-12-30,Puffin Books,"September 30, 1991",Paperback,Puffin Books,3.7,660.0
 5984,Aleutian Sparrow,Karen Hesse/Evon Zerbetz/Kim McGillivray,3.78,1416903275,9781416903277,eng,160,710,146,2005-06-01,Margaret K. McElderry Books,"October 1, 2003",Paperback,Margaret K. McElderry Books,3.81,1846.0
 5985,An Episode of Sparrows,Rumer Godden,4.21,1590171241,9781590171240,en-GB,247,900,126,2004-10-31,The New York Review Children's Collection,"January 1, 1955",Hardcover,The New York Review Children's Collection,4.21,2824.0
-5989,Li Po and Tu Fu: Poems,Li Bai/Du Fu/Arthur Cooper/Shui Chien-Tung,4.14,0140442723,9780140442724,eng,256,389,28,1973-04-26,Penguin Classics,,,,4.11,2438.0
+5989,Li Po and Tu Fu: Poems,Li Bai/Du Fu/Arthur Cooper/Shui Chien-Tung,4.14,0140442723,9780140442724,eng,256,389,28,1973-04-26,Penguin Classics,"January 1, 770",Paperback,Penguin Books,4.11,2438.0
 5991,混血王子的背叛 (哈利波特  #6),J.K. Rowling/J.K.羅琳/皇冠編譯組/張定綺/彭倩文/趙丕慧/林靜華,4.57,9573321742,9789573321743,zho,735,75,0,2005-10-01,皇冠文化出版有限公司,"July 16, 2005",Paperback,,4.1,230.0
 6003,火盃的考驗 (哈利波特  #4),J.K. Rowling/J.K.羅琳/彭倩文,4.56,9573318318,9789573318316,zho,768,91,2,2001-12-08,皇冠文化出版有限公司,"July 8, 2000",Paperback,,4.38,253.0
 6008,Five T'ang Poets,Wang Wei/Li Bai/Li Ho/Li Shang-yin/David        Young,4.3,093244055X,9780932440556,eng,184,169,21,1990-10-08,Oberlin College Press,"January 1, 859",Paperback,Oberlin College Press,4.3,780.0
 6038,The End of Obscenity: The Trials of Lady Chatterley  Tropic of Cancer  and Fanny Hill,Charles Rembar,3.88,0060970618,9780060970611,eng,528,11,0,1986-12-01,HarperCollins Publishers,"January 1, 1968",Paperback,Olympic Marketing Corp,4.0,107.0
 6048,Juniper,Monica Furlong,4.16,0394832205,9780394832203,eng,198,112,7,2004-02-24,Random House Children's Books,"May 1, 1990",Hardcover,,4.17,192.0
 6057,The Long Road Back: A Survivor's Guide to Anorexia,Judy Tam Sargent/Sonia Nordenson,3.2,1880823195,9781880823194,en-GB,194,30,3,1998-10-01,North Star Publications (MA),"October 1, 1998",Hardcover,North Star Publications (MA),3.25,86.0
-6058,The Road Back,Erich Maria Remarque,4.32,1931541744,9781931541749,eng,352,3146,99,2001-12-01,Simon Publications,,,,4.26,13211.0
-6066,Robinson Crusoe,Daniel Defoe/L.J. Swingle,3.67,1593080115,9781593080112,eng,312,350,49,2003-04-01,Barnes & Noble Classics,,,,3.37,956.0
-6069,Achilles in Vietnam: Combat Trauma and the Undoing of Character,Jonathan Shay,4.25,0684813211,9780684813219,en-US,272,1130,110,1995-10-01,Scribner,,,,4.29,5750.0
+6058,The Road Back,Erich Maria Remarque,4.32,1931541744,9781931541749,eng,352,3146,99,2001-12-01,Simon Publications,"April 1, 1931",Paperback,Simon Publications,4.26,13211.0
+6066,Robinson Crusoe,Daniel Defoe/L.J. Swingle,3.67,1593080115,9781593080112,eng,312,350,49,2003-04-01,Barnes & Noble Classics,"April 25, 1719",Mass Market Paperback,,3.37,956.0
+6069,Achilles in Vietnam: Combat Trauma and the Undoing of Character,Jonathan Shay,4.25,0684813211,9780684813219,en-US,272,1130,110,1995-10-01,Scribner,"January 1, 1994",Paperback,Simon & Schuster,4.29,5750.0
 6076,The Work of Mourning,Jacques Derrida/Pascale-Anne Brault/Michael Naas,4.2,0226142817,9780226142814,eng,272,167,7,2003-09-15,University of Chicago Press,"January 1, 2001",Paperback,University of Chicago Press,4.2,895.0
 6089,Transform Your Life: A step-by-step programme for change,Diana Cooper,4.0,0749919442,9780749919443,eng,176,6,0,1998-10-29,Little  Brown Book Group,"January 1, 1993",Paperback,,4.17,16.0
 6106,A Short History of Byzantium,John Julius Norwich,4.09,0679772693,9780679772699,eng,496,1772,142,1998-12-29,Vintage,"January 1, 1997",Paperback,Vintage,4.11,6699.0
@@ -1741,21 +1741,21 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 6140,The Moonstone,Wilkie Collins,3.91,0140620133,9780140620139,en-GB,464,349,44,1998-10-24,Penguin Books,"August 1, 1868",Mass Market Paperback,,3.98,715.0
 6144,The Moonstone,Wilkie Collins/P.D. James,3.91,0192100289,9780192100283,eng,576,74,6,1999-06-10,Oxford University Press  USA,"August 1, 1868",Hardcover,,3.93,154.0
 6148,Ride of the Second Horseman: The Birth and Death of War,Robert L. O'Connell,4.29,0195119207,9780195119206,eng,320,13,0,1997-10-19,Oxford University Press  USA,"September 21, 1995",Paperback,Oxford University Press,4.16,102.0
-6149,Beloved,Toni Morrison,3.83,1400033411,9781400033416,eng,324,282045,9004,2004-06-08,Vintage,,,,3.94,934922.0
+6149,Beloved,Toni Morrison,3.83,1400033411,9781400033416,eng,324,282045,9004,2004-06-08,Vintage,"September 16, 1987",Paperback,Vintage,3.94,934922.0
 6150,Cry  the Beloved Country,Alan Paton,3.9,074326195X,9780743261951,eng,316,54558,2937,2003-11-25,Scribner,"ary 1, 1948",Hardcover,Scribner,3.9,124857.0
 6151,Life of the Beloved: Spiritual Living in a Secular World,Henri J.M. Nouwen,4.28,0824519868,9780824519865,eng,160,7551,498,2002-10-01,Crossroad,"January 1, 1992",Paperback,PublishDrive,4.22,27121.0
-6152,Come Away My Beloved,Frances J. Roberts,4.58,1593109156,9781593109158,eng,192,8,0,2005-10-01,Barbour Books,,,,4.4,28.0
+6152,Come Away My Beloved,Frances J. Roberts,4.58,1593109156,9781593109158,eng,192,8,0,2005-10-01,Barbour Books,"January 1, 1970",Hardcover,,4.4,28.0
 6155,Israel  My Beloved,Kay Arthur,4.16,0736903704,9780736903707,eng,448,681,83,2001-03-15,Harvest House Publishers,"January 1, 1996",Paperback,Harvest House Publishers,4.13,1854.0
 6156,Beloved Bride: The Letters of Stonewall Jackson to His Wife,Bill Potter/Stephen Lang,4.1,1929241631,9781929241637,eng,156,137,18,2003-04-10,Vision Forum,"November 1, 2002",Paperback,Vision Forum,4.08,509.0
 6157,The Search for the Beloved: Journeys in Mythology and Sacred Psychology (Inner Workbook),Jean Houston,3.95,0874778719,9780874778717,en-US,272,18,2,1997-06-30,TarcherPerigee,"October 1, 1987",Paperback,,3.88,58.0
 6159,Reservation Blues,Sherman Alexie,3.98,0802141900,9780802141903,eng,306,11163,772,2005-02-07,Grove Press,"May 1, 1995",Paperback,Grove Press,3.98,22913.0
-6163,The Border Trilogy: All the Pretty Horses  The Crossing  Cities of the Plain,Cormac McCarthy,4.44,0375407936,9780375407932,eng,1040,4589,252,1999-09-28,Everyman's Library,,,,4.48,13409.0
-6167,Music & Silence,Rose Tremain,3.95,0743418263,9780743418263,eng,485,2923,214,2001-05-01,Washington Square Press,,,,3.98,7392.0
+6163,The Border Trilogy: All the Pretty Horses  The Crossing  Cities of the Plain,Cormac McCarthy,4.44,0375407936,9780375407932,eng,1040,4589,252,1999-09-28,Everyman's Library,"January 1, 1998",Hardcover,Everyman's Library,4.48,13409.0
+6167,Music & Silence,Rose Tremain,3.95,0743418263,9780743418263,eng,485,2923,214,2001-05-01,Washington Square Press,"January 1, 1999",Paperback,Washington Square Press,3.98,7392.0
 6173,The Periodic Table,Primo Levi,4.21,0140296611,9780140296617,en-GB,194,101,10,2009-01-01,Penguin Group(CA),"January 1, 1975",Paperback,,4.14,195.0
 6174,Survival in Auschwitz,Primo Levi/Stuart J. Woolf/Philip Roth,4.32,0684826801,9780684826806,eng,187,29099,900,1995-09-01,Simon  Schuster,"January 1, 1947",Paperback,Simon & Schuster,4.19,99268.0
 6175,The Reawakening,Primo Levi/Stuart J. Woolf,4.29,0684826356,9780684826356,eng,230,1269,67,1995-12-01,Touchstone,"January 1, 1963",Paperback,,4.31,4459.0
 6176,The Drowned and the Saved,Primo Levi,4.4,0349100470,9780349100470,eng,170,3542,169,1989-02-01,Abacus,"January 1, 1986",Paperback,Abacus,4.41,14310.0
-6180,The Monkey's Wrench,Primo Levi/William Weaver/Ruth Feldman/Ruth Tenzer Feldman,3.92,0140188924,9780140188929,eng,192,601,34,1995-07-01,Penguin,,,,3.95,1892.0
+6180,The Monkey's Wrench,Primo Levi/William Weaver/Ruth Feldman/Ruth Tenzer Feldman,3.92,0140188924,9780140188929,eng,192,601,34,1995-07-01,Penguin,"January 1, 1978",Paperback,Penguin,3.95,1892.0
 6182,Primo Levi: A Life,Ian Thomson,4.11,0312423675,9780312423674,eng,640,104,5,2004-12-01,Picador,"December 30, 1999",Paperback,Picador,4.14,371.0
 6184,Wuthering Heights,Emily Brontë,3.85,0140620125,9780140620122,eng,279,2155,182,2007-01-13,Penguin Books,"December 1, 1847",Paperback,,3.75,4924.0
 6192,Disgrace,J.M. Coetzee,3.84,0143036378,9780143036371,eng,220,61545,3916,2005-08-30,Penguin Books,"January 1, 1999",Paperback,Penguin Books,3.85,147810.0
@@ -1763,12 +1763,12 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 6197,The Lives of Animals,J.M. Coetzee/Amy Gutmann/Peter Singer/Wendy Doniger/Barbara Smuts/Marjorie Garber,3.69,069107089X,9780691070896,eng,136,1930,139,2001-05-06,Princeton University Press,"January 1, 1999",Paperback,Princeton University Press,3.72,5697.0
 6198,Boyhood: Scenes from Provincial Life,J.M. Coetzee,3.79,014026566X,9780140265668,eng,166,3162,183,1998-09-01,Penguin Books,"September 1, 1997",Paperback,Penguin Books,3.81,8267.0
 6200,Youth,J.M. Coetzee,3.79,0142002003,9780142002001,eng,176,4931,261,2003-10-07,Penguin Books,"January 1, 2002",Paperback,Penguin Books,3.8,11100.0
-6207,Age of Iron,J.M. Coetzee,3.84,0140275657,9780140275650,eng,198,2976,207,1998-09-01,Penguin Books,,,,3.84,6969.0
+6207,Age of Iron,J.M. Coetzee,3.84,0140275657,9780140275650,eng,198,2976,207,1998-09-01,Penguin Books,"January 1, 1990",Paperback,Penguin Books,3.84,6969.0
 6216,The Wife (Kristin Lavransdatter  #2),Sigrid Undset/Tiina Nunnally/Sherrill Harbison,4.15,0141181281,9780141181288,eng,402,2116,164,1999-11-01,Penguin Classics,"January 1, 1921",Paperback,Penguin Classics,4.2,6588.0
 6217,Kristin Lavransdatter (Kristin Lavransdatter  #1-3),Sigrid Undset/Tiina Nunnally/Brad Leithauser,4.28,0143039164,9780143039167,eng,1144,7210,926,2005-09-27,Penguin Books,"January 1, 1920",Paperback,Penguin Books,4.31,42175.0
 6218,The Axe (The Master of Hestviken  #1),Sigrid Undset/Arthur G. Chater,4.21,0679752730,9780679752738,eng,304,496,51,1994-11-29,Vintage,"January 1, 1925",Paperback,Knopf Doubleday Publishing Group,4.24,2044.0
 6219,The Cross (Kristin Lavransdatter  #3),Sigrid Undset/Tiina Nunnally/Sherrill Harbison,4.29,0141182350,9780141182353,eng,366,1803,146,2000-04-01,Penguin Classics,"January 1, 1922",Paperback,Penguin Classics,4.33,5983.0
-6220,The Wreath (Kristin Lavransdatter  #1),Sigrid Undset/Tiina Nunnally,4.02,0141180412,9780141180410,eng,305,3831,473,1997-12-01,Penguin Classics,,,,4.08,16676.0
+6220,The Wreath (Kristin Lavransdatter  #1),Sigrid Undset/Tiina Nunnally,4.02,0141180412,9780141180410,eng,305,3831,473,1997-12-01,Penguin Classics,"January 1, 1920",Paperback,Penguin Classics,4.08,16676.0
 6221,The Mistress of Husaby (Kristin Lavransdatter  #2),Sigrid Undset,4.15,0394752937,9780394752938,en-US,384,167,30,1987-05-12,Vintage,"January 1, 1921",Paperback,,4.03,501.0
 6222,Jenny,Sigrid Undset/Tiina Nunnally,3.79,158642050X,9781586420505,eng,330,549,42,1998-06-01,Steerforth,"January 1, 1911",Paperback,Steerforth,3.87,2811.0
 6224,The Unknown Sigrid Undset: Jenny and Other Works,Sigrid Undset/Tim Page/Tiina Nunnally/Naomi Walford,4.19,1586420216,9781586420215,eng,406,48,9,2001-12-31,Steerforth Press,"May 10, 2001",Hardcover,Steerforth Pr,4.16,251.0
@@ -3014,7 +3014,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 11095,The Working Poor: Invisible in America,David K. Shipler,4.03,0375708219,9780375708213,eng,352,4929,369,2005-01-04,Vintage,"January 4, 2004",Paperback,Vintage,4.03,16700.0
 11101,First Comes Love (Hot Water  California #1),Christie Ridgway,3.81,0380818957,9780380818952,en-US,384,1051,47,2002-01-01,Avon Books,"January 1, 2002",Mass Market Paperback,Avon,3.82,2100.0
 11106,Eat Right 4 Your Type,Peter J. D'Adamo/Catherine Whitney,3.57,071267716X,9780712677165,en-US,375,186,16,1998-04-02,Century,"May 1, 1991",Paperback,,3.45,371.0
-11119,The Annotated Gulliver's Travels,Jonathan Swift/Isaac Asimov,3.57,0517539497,9780517539491,eng,298,57,9,1980-10-29,Random House Value Publishing,,,,4.14,133.0
+11119,The Annotated Gulliver's Travels,Jonathan Swift/Isaac Asimov,3.57,0517539497,9780517539491,eng,298,57,9,1980-10-29,Random House Value Publishing,"January 1, 1726",Hardcover,,4.14,133.0
 11121,Gulliver's Travels,Jonathan Swift/Robert A. Greenberg,3.57,0393099415,9780393099416,eng,432,174,9,1980-03-01,W. W. Norton & Company,"January 1, 1726",Paperback,,3.75,318.0
 11130,The Chronicles of Narnia CD Box Set,C.S. Lewis/Kenneth Branagh,4.26,0694524751,9780694524754,eng,31,202,24,2004-10-26,HarperFestival,"January 1, 1956",Audio CD,,4.52,314.0
 11136,The Chronicles of Narnia (The Chronicles of Narnia  #1-7),C.S. Lewis/Pauline Baynes,4.26,0060765453,9780060765453,eng,766,1131,53,2005-10-15,HarperEntertainment,"January 1, 1956",Paperback,,4.26,3549.0
@@ -3407,7 +3407,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 12445,The Girl in a Swing,Richard  Adams,3.52,0517391732,9780517391730,eng,339,24,3,1982-10-01,Random House,"January 1, 1980",Hardcover,,3.5,46.0
 12447,You Can't Go Home Again,Thomas Wolfe,4.04,0060930055,9780060930059,eng,711,4025,265,1998-08-05,Harper Perennial,"January 1, 1940",Paperback,HarpPerenM,4.05,16436.0
 12448,Look Homeward  Angel,Thomas Wolfe,3.93,0743297318,9780743297318,eng,644,11131,751,2006-10-10,Scribner,"January 1, 1929",Paperback,Scribner,3.92,43274.0
-12451,Of Time and the River: A Legend of Man's Hunger in His Youth,Thomas Wolfe/Pat Conroy,4.2,0684867850,9780684867854,eng,896,777,45,1999-09-08,Scribner,,,,4.25,5359.0
+12451,Of Time and the River: A Legend of Man's Hunger in His Youth,Thomas Wolfe/Pat Conroy,4.2,0684867850,9780684867854,eng,896,777,45,1999-09-08,Scribner,"January 1, 1935",Hardcover,Scribner,4.25,5359.0
 12457,Boys' Life & Search and Destroy,Howard Korder,3.76,0413712001,9780413712004,en-GB,160,17,0,2006-12-01,Methuen Publishing,"January 1, 1988",Paperback,Methuen Publishing Ltd,3.72,32.0
 12458,Complete Plays 1920–1931,Eugene O'Neill/Travis Bogard,4.18,0940450496,9780940450493,eng,1092,90,9,1988-10-01,Library of America,"October 1, 1988",Hardcover,Library of America,4.14,293.0
 12461,Complete Plays 1913–1920,Eugene O'Neill/Travis Bogard,4.1,0940450488,9780940450486,eng,1107,87,5,1988-10-01,Library of America,"October 1, 1988",Hardcover,Library of America,4.05,301.0
@@ -3661,7 +3661,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 13210,Wouldn't Take Nothing for My Journey Now,Maya Angelou,4.27,0553380176,9780553380170,eng,127,7423,319,1997-05-12,Bantam,"September 21, 1993",Paperback,Bantam,4.31,18434.0
 13211,And Still I Rise,Maya Angelou/Linda Sunshine/Diego Rivera,4.42,0375505962,9780375505966,eng,54,3720,240,2001-08-07,Random House,"January 1, 1978",Hardcover,,4.46,17879.0
 13215,Life Doesn't Frighten Me,Maya Angelou/Jean-Michel Basquiat/Sara Jane Boyers,4.41,1556702884,9781556702884,eng,32,1246,164,1996-02-06,Harry N. Abrams,"ary 6, 1993",Hardcover,Abrams Books for Young Readers,4.42,5908.0
-13228,Cumbres borrascosas,Emily Brontë,3.85,8497644743,9788497644747,spa,384,156,28,2006-05-28,Edimat Libros,,,,3.82,320.0
+13228,Cumbres borrascosas,Emily Brontë,3.85,8497644743,9788497644747,spa,384,156,28,2006-05-28,Edimat Libros,"December 1, 1847",Paperback,,3.82,320.0
 13237,Dreaming in Pictures: The Photography,Lewis Carroll/Douglas R. Nickel,4.01,0300091699,9780300091694,eng,172,104,6,2002-08-11,Yale University Press,"January 1, 2001",Hardcover,Yale University Press,4.04,355.0
 13238,Lewis Carroll's Jabberwocky: A Book of Brillig Dioramas,Lewis Carroll/Graeme Base,4.14,0810935201,9780810935204,eng,14,31,2,1996-03-30,Harry N. Abrams,"January 1, 1872",Hardcover,,4.44,73.0
 13241,The Collected Short Stories of Maxim Gorky,Maxim Gorky/Avrahm Yarmolinsky/Moura Budberg,3.96,0806510757,9780806510750,eng,404,883,16,1988-08-18,Citadel Press,"January 1, 1909",Paperback,Citadel Press,3.98,2745.0
@@ -3972,7 +3972,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 14092,Prétear  Vol. 2 (Prétear  #2),Junichi Satō/Kaori Naruse,4.0,141390145X,9781413901450,eng,182,347,17,2004-08-24,ADV Manga,"January 1, 2001",Paperback,Adv Manga,4.03,679.0
 14093,Zinn & the Art of Road Bike Maintenance,Lennard Zinn/Todd Telander,4.29,1931382697,9781931382694,eng,356,282,24,2005-10-25,VeloPress,"January 1, 2000",Paperback,Velo Press,4.26,897.0
 14095,A Power Governments Cannot Suppress,Howard Zinn,4.27,0872864758,9780872864757,eng,293,873,78,2006-12-01,City Lights Publishers,"November 30, 2006",Paperback,City Lights Publishers,4.26,3148.0
-14096,Wherever You Go  There You Are: Mindfulness Meditation in Everyday Life,Jon Kabat-Zinn,4.12,1401307787,9781401307783,eng,304,30333,1293,2005-01-05,Hachette Books,,,,4.12,141427.0
+14096,Wherever You Go  There You Are: Mindfulness Meditation in Everyday Life,Jon Kabat-Zinn,4.12,1401307787,9781401307783,eng,304,30333,1293,2005-01-05,Hachette Books,"January 1, 1994",Paperback,Hachette Books,4.12,141427.0
 14098,Mindfulness for Beginners,Jon Kabat-Zinn,3.82,1591794641,9781591794646,eng,3,2913,245,2006-07-01,Sounds True,"January 1, 2006",ebook,Sounds True,3.72,14938.0
 14106,Grammar Snobs Are Great Big Meanies: A Guide to Language for Fun and Spite,June Casagrande,3.78,0143036831,9780143036838,eng,199,774,157,2006-03-28,Penguin Books,"March 28, 2006",Paperback,Penguin Publishing Group,3.8,2544.0
 14107,Death of a Snob (Hamish Macbeth  #6),M.C. Beaton,3.78,0553409689,9780553409680,eng,192,17,1,2000-06-01,Transworld Publishers,"January 1, 1988",Paperback,,3.83,25.0
@@ -4747,7 +4747,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 17039,Flatterland,Ian Stewart,3.71,0330393774,9780330393775,eng,295,24,3,2003-03-07,Pan Publishing,"January 1, 2001",Paperback,,3.68,50.0
 17040,American Government: Continuity and Change,Karen  O'Connor/Larry J. Sabato,2.83,0321209184,9780321209184,eng,792,1,0,2005-03-04,Longman Publishing Group,"December 1, 1996",Paperback,,3.0,4.0
 17043,Essentials of American Government: Continuity and Change,Karen  O'Connor/Larry J. Sabato,3.5,032127623X,9780321276230,eng,604,4,0,2005-04-01,Longman Publishing Group,"December 29, 2000",Paperback,Longman,3.25,21.0
-17045,American Government: Continuity and Change  Texas Edition,Karen  O'Connor/Larry J. Sabato,2.83,0321365607,9780321365606,eng,1088,0,0,2005-05-26,Longman Publishing Group,,,,3.0,3.0
+17045,American Government: Continuity and Change  Texas Edition,Karen  O'Connor/Larry J. Sabato,2.83,0321365607,9780321365606,eng,1088,0,0,2005-05-26,Longman Publishing Group,"December 1, 1996",Unbound,,3.0,3.0
 17054,Stardust of Yesterday (de Piaget  #9; de Paiget/MacLeod  #1),Lynn Kurland,4.09,042518238X,9780425182383,eng,368,3709,169,2001-04-01,Berkley Publishing,"April 1, 1996",Mass Market Paperback,Berkley Publishing,4.08,7222.0
 17056,Moonage Daydream: The Life & Times of Ziggy Stardust,David Bowie/Mick Rock,4.3,0789313502,9780789313508,eng,320,450,17,2005-09-20,Universe,"January 1, 2002",Hardcover,Universe,4.32,4051.0
 17057,From Sawdust to Stardust: The Biography of DeForest Kelley,Terry Lee Rioux,4.08,0743457625,9780743457620,eng,362,185,36,2005-02-01,Gallery Books,"January 1, 2005",Paperback,Gallery Books,4.08,973.0
@@ -4783,7 +4783,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 17188,Invisible Man,Ralph Ellison,3.86,0679723137,9780679723134,eng,581,334,44,1990-01-12,Vintage,"April 14, 1952",Paperback,,4.06,965.0
 17189,The Invisible Man,H.G. Wells/Christopher Priest,3.64,014143998X,9780141439983,eng,161,871,84,2005-03-31,Penguin Classics,"ary 2, 1897",Paperback,,3.59,4790.0
 17202,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,0399132678,9780399132674,eng,416,98,6,1987-07-07,G.P. Putnam's Sons,"July 1, 1987",Hardcover,,3.67,264.0
-17204,The Friday Night Knitting Club (Friday Night Knitting Club  #1),Kate Jacobs,3.42,0399154094,9780399154096,eng,352,64473,7744,2007-01-18,G.P. Putnam's Sons,"January 1, 2006",Hardcover,G.P. Putnam's Sons,,
+17204,The Friday Night Knitting Club (Friday Night Knitting Club  #1),Kate Jacobs,3.42,0399154094,9780399154096,eng,352,64473,7744,2007-01-18,G.P. Putnam's Sons,"January 1, 2006",Hardcover,G.P. Putnam's Sons,3.43,106734.0
 17206,Lady Friday (The Keys to the Kingdom  #5),Garth Nix,3.92,0439700884,9780439700887,eng,320,19436,267,2007-03-01,Scholastic,"March 1, 2007",Hardcover,Scholastic,3.93,31560.0
 17208,Friday,Robert A. Heinlein,3.84,0345414004,9780345414007,eng,384,23064,476,1997-06-17,Del Rey,"June 1, 1982",Paperback,Del Rey,3.84,36618.0
 17214,Starship Troopers,Robert A. Heinlein,4.01,0441783589,9780441783588,eng,335,164740,3962,1987-05-15,Ace Book,"December 1, 1959",Mass Market Paperback,Ace Books,4.01,318065.0
@@ -4796,13 +4796,13 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 17236,Dracula,Bram Stoker/Jan Needle/Gary Blythe,3.99,0744586534,9780744586534,eng,336,73,8,2004-10-04,Walker Books Ltd,"Published October 4, 2004",Paperback,,3.76,100.0
 17238,Dracula,Bram Stoker/Joseph Valente,3.99,0743477367,9780743477369,eng,528,9871,431,2003-10-01,Pocket Books,"May 26, 1897",Mass Market Paperback,,3.96,31714.0
 17241,Dracula,Bram Stoker/Robert Whitfield,3.99,0786180404,9780786180400,eng,15,53,12,1998-12-01,Blackstone Audiobooks,"May 26, 1897",Audio CD,,3.98,90.0
-17243,The Bram Stoker Bedside Companion: 10 Stories by the Author of Dracula,Bram Stoker/Charles Osborne,3.44,0800809637,9780800809638,eng,224,21,2,1973-06-01,Taplinger Publ. Company,"January 1, 1973",Hardcover,Taplinger Publ. Company,,
+17243,The Bram Stoker Bedside Companion: 10 Stories by the Author of Dracula,Bram Stoker/Charles Osborne,3.44,0800809637,9780800809638,eng,224,21,2,1973-06-01,Taplinger Publ. Company,"January 1, 1973",Hardcover,Taplinger Publ. Company,3.48,80.0
 17245,Dracula,Bram Stoker/Nina Auerbach/David J. Skal,3.99,0393970124,9780393970128,eng,488,774987,14944,1986-05-12,Norton,"May 26, 1897",Paperback,Norton,4.02,2115507.0
 17246,Macbeth,William Shakespeare/Paul Werstine/Barbara A. Mowat,3.9,0743482794,9780743482790,eng,272,522,35,2004-08-01,Simon  Schuster,"January 1, 1606",Paperback,,3.95,1154.0
 17247,Macbeth (No Fear Shakespeare),William Shakespeare/SparkNotes/John Crowther,3.9,1586638467,9781586638467,eng,219,1292,138,2003-04-15,SparkNotes,"January 1, 1606",Paperback,,3.78,4830.0
 17248,Death of a Dreamer (Hamish Macbeth  #22),M.C. Beaton,3.83,0892967897,9780892967896,eng,247,73,12,2006-02-01,Mysterious Press,"ary 1, 2006",Hardcover,,3.85,150.0
 17250,The Crucible,Arthur  Miller/Christopher Bigsby,3.58,0142437336,9780142437339,eng,143,293374,6037,2003-03-25,Penguin Books,"May 1, 1946",Paperback,Penguin Books,3.59,670454.0
-17252,Crucible of War: The Seven Years' War and the Fate of Empire in British North America  1754 - 1766,Fred Anderson,4.16,0375706364,9780375706363,eng,912,3103,114,2001-01-23,Vintage,"ary 15, 2000",Paperback,Vintage,,
+17252,Crucible of War: The Seven Years' War and the Fate of Empire in British North America  1754 - 1766,Fred Anderson,4.16,0375706364,9780375706363,eng,912,3103,114,2001-01-23,Vintage,"ary 15, 2000",Paperback,Vintage,4.16,9414.0
 17253,Spock: The Fire and the Rose (Star Trek: Crucible  #2),David R. George III,3.96,0743491696,9780743491693,eng,390,206,14,2006-11-28,Pocket Books,"November 28, 2006",Paperback,Star Trek,3.96,735.0
 17255,McCoy: The Provenance Of Shadows (Star Trek: Crucible  #1),David R. George III,4.14,0743491688,9780743491686,eng,640,332,38,2006-08-29,Pocket Books,"January 1, 2006",Paperback,Pocket Books,4.15,1055.0
 17259,Kirk: The Star to Every Wandering (Star Trek: Crucible  #3),David R. George III,3.69,074349170X,9780743491709,eng,320,183,16,2007-02-27,Star Trek,"ary 27, 2007",Mass Market Paperback,Pocket Books,3.7,648.0
@@ -4813,52 +4813,52 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 17275,The Very Best of the Feynman Lectures,Richard P. Feynman,4.18,0465099009,9780465099009,eng,180,123,21,2005-10-04,Basic Books,"October 3, 2005",Audio CD,,4.15,555.0
 17276,The Feynman Lectures on Physics Vols 3-4,Richard P. Feynman,4.71,0738209252,9780738209258,en-US,0,21,0,2004-05-12,Basic Books,"January 1, 2004",Audio CD,Basic Books,4.74,146.0
 17277,The Feynman Lectures on Physics Vols 7-8,Richard P. Feynman,4.8,0738209279,9780738209272,en-US,0,20,0,2006-01-03,Basic Books,"January 1, 2006",Audio CD,Basic Books,4.81,139.0
-17279,The Feynman Lectures on Physics Vols 5-6,Richard P. Feynman,4.59,0738202835,9780738202839,en-US,12,22,0,2004-11-03,Basic Books,"January 1, 2004",Audio CD,Basic Books,,
-17280,The Feynman Lectures on Physics Vol 3,Richard P. Feynman/Robert B. Leighton/Matthew L. Sands,4.63,0805390499,9780805390490,eng,384,716,15,2005-09-01,Addison Wesley Publishing Company,"January 1, 1966",Hardcover,Addison-Wesley,,
-17289,Galactic Goodnight (Disney's Little Einsteins),Susan Ring/Kirk Albert Etienne,4.42,0786849738,9780786849734,eng,20,12,2,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,,
-17290,What Einstein Told His Cook: Kitchen Science Explained,Robert L. Wolke/Marlene Parrish,3.86,0393011836,9780393011838,eng,320,3176,366,2002-05-17,W. W. Norton  Company,"January 1, 2002",Paperback,Norton,,
-17292,Mission: Where's June? (Disney's Little Einstein),Susan Ring/Kirk Albert Etienne/Kirk Etienne Albert/Michael James Luzzi,4.5,0786855398,9780786855391,eng,24,12,1,2006-04-05,Disney Press,"April 5, 2006",Hardcover,Disney Press,,
-17293,Babies (Baby Einstein),Julie Aigner-Clark,4.0,0786808381,9780786808380,eng,20,31,2,2002-04-02,Disney Press,"April 2, 2002",Board Book,Disney Press,,
-17294,Butterfly Suits (Disney's Little Einsteins),Marcy Kelman/Nadeem Zaidi/Andy Mastrocinque,3.68,078685538X,9780786855384,eng,32,26,4,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,,
-17295,Birthday Machine (Disney's Little Einsteins Early Reader),Susan Ring/Anna Okabe,4.29,0786849711,9780786849710,eng,12,21,2,2006-09-01,Disney Press,"September 1, 2006",Board Book,Disney Press,,
-17296,Music of the Meadow (Little Einsteins Early Reader),Susan Ring/Kelly Preston/Katie Nix,3.7,0786855371,9780786855377,eng,28,26,1,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,,
-17297,1912 Manuscript on the Special Theory of Relativity,Albert Einstein/Hanoch Gutfreund,4.41,0807615323,9780807615324,eng,174,17,0,2004-05-17,George Braziller Inc.,"January 1, 2000",Paperback,George Braziller Inc.,,
-17303,Piercing the Darkness (Darkness  #2),Frank E. Peretti,4.32,1581345275,9781581345278,eng,448,50573,588,2003-06-26,Crossway Books,"January 1, 1989",Paperback,Crossway Books,,
-17309,This Present Darkness (Darkness  #1),Frank E. Peretti,4.22,1581345283,9781581345285,eng,376,86548,1637,2003-06-26,Crossway Books,"January 1, 1986",Paperback,Crossway Books,,
-17313,The Oath,Frank E. Peretti,4.07,1595540458,9781595540454,eng,576,32,4,2005-08-28,Thomas Nelson,"January 1, 1995",Hardcover,,,
-17315,Oath of Swords (War God  #1),David Weber,4.01,1416520864,9781416520863,en-US,576,5582,128,2006-12-26,Baen,"ary 1, 1995",Paperback,Baen,,
-17316,Oath of Gold (The Deed of Paksenarrion  #3),Elizabeth Moon,4.27,0671697986,9780671697983,eng,501,6200,183,1989-01-02,Baen,"January 1, 1989",Mass Market Paperback,Baen,,
-17319,The Oath (Dismas Hardy  #8),John Lescroart,4.02,0451207645,9780451207647,eng,468,2781,133,2003-01-07,Signet,"January 14, 2002",Mass Market Paperback,Berkley,,
-17320,Wind Rider's Oath (War God  #3),David Weber,4.02,1416508953,9781416508953,eng,570,2774,42,2005-08-01,Baen,"May 1, 2004",Mass Market Paperback,Baen,,
-17323,A Visitation of Spirits,Randall Kenan,3.76,0375703977,9780375703973,eng,272,449,38,2000-01-25,Vintage,"January 1, 1989",Paperback,,,
-17328,Open My Eyes  Lord: A Practical Guide to Angelic Visitations and Heavenly Experiences,Gary Oates/Robert Paul Lamb/Randy Clark,4.31,0975262203,9780975262207,eng,148,126,7,2004-01-01,Open Heaven Publications,"January 1, 2004",Paperback,Open Heaven Publications,,
-17334,The Complete C.S. Lewis Signature Classics,C.S. Lewis,4.61,0061208493,9780061208492,eng,746,925,40,2007-02-06,HarperOne,"January 1, 2001",Paperback,,,
-17341,The Collected Letters of C.S. Lewis  Volume 3: Narnia  Cambridge  and Joy  1950 - 1963,C.S. Lewis/Walter Hooper,4.47,0060819227,9780060819224,eng,1840,144,16,2007-01-09,HarperOne,"December 1, 2005",Hardcover,HarperOne,,
-17344,Till We Have Faces: A Myth Retold,C.S. Lewis/Nadia May,4.19,0786198389,9780786198382,eng,9,60,17,2000-09-01,Blackstone Publishing,"January 1, 1956",Audio CD,,,
-17349,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan/Ann Druyan,4.27,0345409469,9780345409461,eng,459,50343,2084,1997-02-25,Ballantine Books,"ary 1, 1996",Paperback,Ballantine Books,,
-17352,Stephen Hawking's a Brief History of Time: A Reader's Companion,Stephen Hawking/Gene  Stone,4.08,0553077724,9780553077728,eng,194,351,18,1992-05-01,Bantam Books,"November 14, 1991",Hardcover,Bantam Books,,
-17355,The Illustrated A Brief History of Time,Stephen Hawking,4.17,0593040597,9780593040591,eng,259,317,38,1997-10-01,Bantam,"September 1, 1988",Hardcover,,,
-17356,Brevísima historia del tiempo,Stephen Hawking/Leonard Mlodinow/David Jou i Mirabent,4.22,8484326373,9788484326373,spa,198,64,4,2005-03-08,Critica (Grijalbo Mondadori),"September 1, 2005",Hardcover,,,
-17360,A First Course in String Theory,Barton Zwiebach,4.16,0521831431,9780521831437,eng,578,189,8,2004-06-28,Cambridge University Press,"January 1, 2004",Hardcover,Cambridge University Press,,
-17362,Black Holes & Time Warps: Einstein's Outrageous Legacy,Kip S. Thorne/Stephen Hawking/Frederick Seitz,4.18,0393312763,9780393312768,eng,624,10216,165,1995-01-17,W. W. Norton  Company,"September 22, 1994",Paperback,W. W. Norton & Company,,
-17364,Surely You're Joking  Mr. Feynman!,Richard P. Feynman,4.28,009917331X,9780099173311,eng,350,1837,178,2006-12-17,Vintage,"January 1, 1985",Paperback,,,
-17366,Surely You're Joking  Mr. Feynman!: Adventures of a Curious Character,Richard P. Feynman/Raymond Todd,4.28,0786177284,9780786177288,eng,356,74,16,1997-01-01,Blackstone Audiobooks,"January 1, 1985",Audio CD,,,
-17375,The Meaning of It All: Thoughts of a Citizen-Scientist,Richard P. Feynman,4.05,0465023940,9780465023943,eng,144,5907,290,2005-04-06,Basic Books,"January 1, 1998",Paperback,Basic Books,,
-17384,Amor Y Respeto/love And Respect: El Respeto Que El Desesperadamente Necesita/ The Love She Most Desires And The Respect He Desperately Needs,Emerson Eggerichs,4.18,1591855101,9781591855101,spa,292,13,0,2005-05-06,Casa Creacion,"January 1, 2004",Paperback,,,
-17412,Chemistry: The Central Science,Theodore L. Brown/H. Eugene LeMay Jr./Bruce E. Bursten,3.88,0130669970,9780130669971,eng,1046,539,16,2002-05-17,Prentice Hall,"January 1, 1977",Hardcover,Prentice Hall,,
-17426,Introduction to Linear Algebra and Differential Equations,John W. Dettman,3.5,0486651916,9780486651910,eng,404,17,0,1986-12-01,Dover Publications,"March 1, 1974",Paperback,,,
-17435,Physics for Scientists and Engineers,Douglas C. Giancoli,4.01,0132431068,9780132431064,en-US,976,110,10,2000-01-20,Prentice Hall,"March 28, 1988",Hardcover,,,
-17437,Physics: for Scientists and Engineers with Modern Physics,Paul M. Fishbane/Stephen Gasiorowicz/Stephen T. Thornton,3.78,0130352993,9780130352996,eng,1440,9,1,2004-06-09,Benjamin-Cummings Publishing Company,"June 19, 2004",Hardcover,Benjamin-Cummings Pub Co,,
-17461,Misty of Chincoteague (Misty  #1),Marguerite Henry/Wesley Dennis,4.05,1416927832,9781416927839,eng,176,38024,907,2006-12-26,Aladdin,"January 1, 1947",Paperback,Aladdin,,
-17468,Black Beauty,Anna Sewell/Scott McKowen,3.96,1402714521,9781402714528,en-US,208,738,74,2004-10-01,Sterling,"November 24, 1877",Hardcover,,,
-17473,Black Beauty (Coloring Book),Anna Sewell/John         Green,3.96,048629272X,9780486292724,eng,48,68,3,1996-09-13,Dover Publications,"Published September 13, 1996",Paperback,Dover Publications,,
-17488,Five on a Treasure Island (Famous Five  #1),Enid Blyton,4.09,0340796146,9780340796146,eng,256,19173,658,2001-06-14,Hodder,"January 1, 1942",Paperback,Hodder,,
-17496,The Secret Seven (The Secret Seven  #1),Enid Blyton,3.87,0340917547,9780340917541,eng,144,6881,187,2006-04-20,Hodder,"March 1, 1949",Paperback,Hodder,,
-17503,The Circus of Adventure,Enid Blyton,4.11,0330244779,9780330244770,eng,192,12,0,1975-08-22,Pan,"January 1, 1952",Paperback,,,
-17506,La gata perdida = The Missing Cat (Las Aventuras de Nicolas = Adventures with Nicholas),Chris L. Demarest/Berlitz Publishing Company,4.14,9812468234,9789812468239,spa,64,0,0,2006-08-15,Berlitz Kids,"October 1, 1996",Hardcover,,,
-17510,La Chatte Perdue = The Missing Cat (Les Aventures avec Nicolas = Adventures with Nicholas),Chris L. Demarest,4.14,981246820X,9789812468208,fre,64,1,0,2006-08-15,Berlitz Kids,"October 1, 1996",Hardcover,,,
-17511,The Mystery of the Missing Cat,Gertrude Chandler Warner/Charles Tang,3.82,0785759379,9780785759379,eng,119,5,0,1994-01-01,Turtleback Books,,,,,
-17513,Die Verschwundene Katze = The Missing Cat,Chris L. Demarest,4.14,2831557437,9782831557434,ger,64,1,0,1996-01-01,Berlitz Kids,"October 1, 1996",Paperback,,,
+17279,The Feynman Lectures on Physics Vols 5-6,Richard P. Feynman,4.59,0738202835,9780738202839,en-US,12,22,0,2004-11-03,Basic Books,"January 1, 2004",Audio CD,Basic Books,4.63,152.0
+17280,The Feynman Lectures on Physics Vol 3,Richard P. Feynman/Robert B. Leighton/Matthew L. Sands,4.63,0805390499,9780805390490,eng,384,716,15,2005-09-01,Addison Wesley Publishing Company,"January 1, 1966",Hardcover,Addison-Wesley,4.66,3312.0
+17289,Galactic Goodnight (Disney's Little Einsteins),Susan Ring/Kirk Albert Etienne,4.42,0786849738,9780786849734,eng,20,12,2,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,4.27,35.0
+17290,What Einstein Told His Cook: Kitchen Science Explained,Robert L. Wolke/Marlene Parrish,3.86,0393011836,9780393011838,eng,320,3176,366,2002-05-17,W. W. Norton  Company,"January 1, 2002",Paperback,Norton,3.84,8992.0
+17292,Mission: Where's June? (Disney's Little Einstein),Susan Ring/Kirk Albert Etienne/Kirk Etienne Albert/Michael James Luzzi,4.5,0786855398,9780786855391,eng,24,12,1,2006-04-05,Disney Press,"April 5, 2006",Hardcover,Disney Press,4.47,46.0
+17293,Babies (Baby Einstein),Julie Aigner-Clark,4.0,0786808381,9780786808380,eng,20,31,2,2002-04-02,Disney Press,"April 2, 2002",Board Book,Disney Press,3.79,59.0
+17294,Butterfly Suits (Disney's Little Einsteins),Marcy Kelman/Nadeem Zaidi/Andy Mastrocinque,3.68,078685538X,9780786855384,eng,32,26,4,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,3.58,52.0
+17295,Birthday Machine (Disney's Little Einsteins Early Reader),Susan Ring/Anna Okabe,4.29,0786849711,9780786849710,eng,12,21,2,2006-09-01,Disney Press,"September 1, 2006",Board Book,Disney Press,4.04,40.0
+17296,Music of the Meadow (Little Einsteins Early Reader),Susan Ring/Kelly Preston/Katie Nix,3.7,0786855371,9780786855377,eng,28,26,1,2006-09-01,Disney Press,"September 1, 2006",Hardcover,Disney Press,3.53,64.0
+17297,1912 Manuscript on the Special Theory of Relativity,Albert Einstein/Hanoch Gutfreund,4.41,0807615323,9780807615324,eng,174,17,0,2004-05-17,George Braziller Inc.,"January 1, 2000",Paperback,George Braziller Inc.,4.52,143.0
+17303,Piercing the Darkness (Darkness  #2),Frank E. Peretti,4.32,1581345275,9781581345278,eng,448,50573,588,2003-06-26,Crossway Books,"January 1, 1989",Paperback,Crossway Books,4.32,80493.0
+17309,This Present Darkness (Darkness  #1),Frank E. Peretti,4.22,1581345283,9781581345285,eng,376,86548,1637,2003-06-26,Crossway Books,"January 1, 1986",Paperback,Crossway Books,4.23,160028.0
+17313,The Oath,Frank E. Peretti,4.07,1595540458,9781595540454,eng,576,32,4,2005-08-28,Thomas Nelson,"January 1, 1995",Hardcover,,4.15,81.0
+17315,Oath of Swords (War God  #1),David Weber,4.01,1416520864,9781416520863,en-US,576,5582,128,2006-12-26,Baen,"ary 1, 1995",Paperback,Baen,4.02,9398.0
+17316,Oath of Gold (The Deed of Paksenarrion  #3),Elizabeth Moon,4.27,0671697986,9780671697983,eng,501,6200,183,1989-01-02,Baen,"January 1, 1989",Mass Market Paperback,Baen,4.26,9967.0
+17319,The Oath (Dismas Hardy  #8),John Lescroart,4.02,0451207645,9780451207647,eng,468,2781,133,2003-01-07,Signet,"January 14, 2002",Mass Market Paperback,Berkley,4.0,5438.0
+17320,Wind Rider's Oath (War God  #3),David Weber,4.02,1416508953,9781416508953,eng,570,2774,42,2005-08-01,Baen,"May 1, 2004",Mass Market Paperback,Baen,4.02,4073.0
+17323,A Visitation of Spirits,Randall Kenan,3.76,0375703977,9780375703973,eng,272,449,38,2000-01-25,Vintage,"January 1, 1989",Paperback,,3.83,3015.0
+17328,Open My Eyes  Lord: A Practical Guide to Angelic Visitations and Heavenly Experiences,Gary Oates/Robert Paul Lamb/Randy Clark,4.31,0975262203,9780975262207,eng,148,126,7,2004-01-01,Open Heaven Publications,"January 1, 2004",Paperback,Open Heaven Publications,4.28,833.0
+17334,The Complete C.S. Lewis Signature Classics,C.S. Lewis,4.61,0061208493,9780061208492,eng,746,925,40,2007-02-06,HarperOne,"January 1, 2001",Paperback,,4.61,3061.0
+17341,The Collected Letters of C.S. Lewis  Volume 3: Narnia  Cambridge  and Joy  1950 - 1963,C.S. Lewis/Walter Hooper,4.47,0060819227,9780060819224,eng,1840,144,16,2007-01-09,HarperOne,"December 1, 2005",Hardcover,HarperOne,4.47,788.0
+17344,Till We Have Faces: A Myth Retold,C.S. Lewis/Nadia May,4.19,0786198389,9780786198382,eng,9,60,17,2000-09-01,Blackstone Publishing,"January 1, 1956",Audio CD,,4.15,102.0
+17349,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan/Ann Druyan,4.27,0345409469,9780345409461,eng,459,50343,2084,1997-02-25,Ballantine Books,"ary 1, 1996",Paperback,Ballantine Books,4.28,205680.0
+17352,Stephen Hawking's a Brief History of Time: A Reader's Companion,Stephen Hawking/Gene  Stone,4.08,0553077724,9780553077728,eng,194,351,18,1992-05-01,Bantam Books,"November 14, 1991",Hardcover,Bantam Books,4.13,1617.0
+17355,The Illustrated A Brief History of Time,Stephen Hawking,4.17,0593040597,9780593040591,eng,259,317,38,1997-10-01,Bantam,"September 1, 1988",Hardcover,,4.28,552.0
+17356,Brevísima historia del tiempo,Stephen Hawking/Leonard Mlodinow/David Jou i Mirabent,4.22,8484326373,9788484326373,spa,198,64,4,2005-03-08,Critica (Grijalbo Mondadori),"September 1, 2005",Hardcover,,4.18,152.0
+17360,A First Course in String Theory,Barton Zwiebach,4.16,0521831431,9780521831437,eng,578,189,8,2004-06-28,Cambridge University Press,"January 1, 2004",Hardcover,Cambridge University Press,4.16,990.0
+17362,Black Holes & Time Warps: Einstein's Outrageous Legacy,Kip S. Thorne/Stephen Hawking/Frederick Seitz,4.18,0393312763,9780393312768,eng,624,10216,165,1995-01-17,W. W. Norton  Company,"September 22, 1994",Paperback,W. W. Norton & Company,4.21,29025.0
+17364,Surely You're Joking  Mr. Feynman!,Richard P. Feynman,4.28,009917331X,9780099173311,eng,350,1837,178,2006-12-17,Vintage,"January 1, 1985",Paperback,,4.3,6835.0
+17366,Surely You're Joking  Mr. Feynman!: Adventures of a Curious Character,Richard P. Feynman/Raymond Todd,4.28,0786177284,9780786177288,eng,356,74,16,1997-01-01,Blackstone Audiobooks,"January 1, 1985",Audio CD,,4.1,106.0
+17375,The Meaning of It All: Thoughts of a Citizen-Scientist,Richard P. Feynman,4.05,0465023940,9780465023943,eng,144,5907,290,2005-04-06,Basic Books,"January 1, 1998",Paperback,Basic Books,4.03,21354.0
+17384,Amor Y Respeto/love And Respect: El Respeto Que El Desesperadamente Necesita/ The Love She Most Desires And The Respect He Desperately Needs,Emerson Eggerichs,4.18,1591855101,9781591855101,spa,292,13,0,2005-05-06,Casa Creacion,"January 1, 2004",Paperback,,4.23,29.0
+17412,Chemistry: The Central Science,Theodore L. Brown/H. Eugene LeMay Jr./Bruce E. Bursten,3.88,0130669970,9780130669971,eng,1046,539,16,2002-05-17,Prentice Hall,"January 1, 1977",Hardcover,Prentice Hall,4.0,1862.0
+17426,Introduction to Linear Algebra and Differential Equations,John W. Dettman,3.5,0486651916,9780486651910,eng,404,17,0,1986-12-01,Dover Publications,"March 1, 1974",Paperback,,3.4,87.0
+17435,Physics for Scientists and Engineers,Douglas C. Giancoli,4.01,0132431068,9780132431064,en-US,976,110,10,2000-01-20,Prentice Hall,"March 28, 1988",Hardcover,,4.01,427.0
+17437,Physics: for Scientists and Engineers with Modern Physics,Paul M. Fishbane/Stephen Gasiorowicz/Stephen T. Thornton,3.78,0130352993,9780130352996,eng,1440,9,1,2004-06-09,Benjamin-Cummings Publishing Company,"June 19, 2004",Hardcover,Benjamin-Cummings Pub Co,3.55,53.0
+17461,Misty of Chincoteague (Misty  #1),Marguerite Henry/Wesley Dennis,4.05,1416927832,9781416927839,eng,176,38024,907,2006-12-26,Aladdin,"January 1, 1947",Paperback,Aladdin,4.06,62493.0
+17468,Black Beauty,Anna Sewell/Scott McKowen,3.96,1402714521,9781402714528,en-US,208,738,74,2004-10-01,Sterling,"November 24, 1877",Hardcover,,3.93,1608.0
+17473,Black Beauty (Coloring Book),Anna Sewell/John         Green,3.96,048629272X,9780486292724,eng,48,68,3,1996-09-13,Dover Publications,"Published September 13, 1996",Paperback,Dover Publications,4.13,151.0
+17488,Five on a Treasure Island (Famous Five  #1),Enid Blyton,4.09,0340796146,9780340796146,eng,256,19173,658,2001-06-14,Hodder,"January 1, 1942",Paperback,Hodder,4.12,52010.0
+17496,The Secret Seven (The Secret Seven  #1),Enid Blyton,3.87,0340917547,9780340917541,eng,144,6881,187,2006-04-20,Hodder,"March 1, 1949",Paperback,Hodder,3.9,21629.0
+17503,The Circus of Adventure,Enid Blyton,4.11,0330244779,9780330244770,eng,192,12,0,1975-08-22,Pan,"January 1, 1952",Paperback,,3.67,38.0
+17506,La gata perdida = The Missing Cat (Las Aventuras de Nicolas = Adventures with Nicholas),Chris L. Demarest/Berlitz Publishing Company,4.14,9812468234,9789812468239,spa,64,0,0,2006-08-15,Berlitz Kids,"October 1, 1996",Hardcover,,0.0,5.0
+17510,La Chatte Perdue = The Missing Cat (Les Aventures avec Nicolas = Adventures with Nicholas),Chris L. Demarest,4.14,981246820X,9789812468208,fre,64,1,0,2006-08-15,Berlitz Kids,"October 1, 1996",Hardcover,,3.0,7.0
+17511,The Mystery of the Missing Cat,Gertrude Chandler Warner/Charles Tang,3.82,0785759379,9780785759379,eng,119,5,0,1994-01-01,Turtleback Books,"January 1, 1994",School & Library Binding,,3.0,13.0
+17513,Die Verschwundene Katze = The Missing Cat,Chris L. Demarest,4.14,2831557437,9782831557434,ger,64,1,0,1996-01-01,Berlitz Kids,"October 1, 1996",Paperback,,5.0,4.0
 17518,The Trolley Car Family,Eleanor Clymer/Ursula Koering,4.14,0590407325,9780590407328,eng,256,314,46,1987-07-01,Scholastic,"January 1, 1947",Paperback,Scholastic,4.19,937.0
 17533,Rose in Bloom (Eight Cousins  #2),Louisa May Alcott,4.04,0316030899,9780316030892,eng,302,19389,382,1995-09-01,Little  Brown Books for Young Readers,"January 1, 1876",Paperback,"Little, Brown Books for Young Readers",4.04,33271.0
 17544,The Quiet Little Woman: A Christmas Story,Louisa May Alcott/C. Michael Dudash/Stephen W. Hines,3.67,1562926160,9781562926168,eng,122,1195,191,2009-04-21,Honor Books,"September 1, 1999",Hardcover,Honor Books,3.77,3964.0
@@ -4936,7 +4936,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 17828,The Master and Margarita,Mikhail Bulgakov/Michael Karpelson,4.3,1411683056,9781411683051,eng,332,493,47,2006-04-01,Lulu Press,"January 1, 1967",Paperback,,4.26,1036.0
 17830,Bulgakov's the Master and Margarita: The Text as a Cipher,Elena N. Mahlow,5.0,0533017424,9780533017423,eng,202,4,0,1975-01-01,Vantage Press,"January 1, 1975",Hardcover,Vantage Press,5.0,27.0
 17837,Мастер и Маргарита,Mikhail Bulgakov/Михаил Булгаков,4.3,5040019521,9785040019526,rus,640,10,1,2004-09-28,Эксмо,"January 1, 1967",Hardcover,,4.4,21.0
-17841,Foucault's Pendulum,Umberto Eco/William Weaver,3.89,015603297X,9780156032971,eng,623,46598,2074,2007-03-05,Mariner Books,,,,3.92,129246.0
+17841,Foucault's Pendulum,Umberto Eco/William Weaver,3.89,015603297X,9780156032971,eng,623,46598,2074,2007-03-05,Mariner Books,"January 1, 1988",Paperback,Mariner Books,3.92,129246.0
 17845,Pendulum: Leon Foucault and the Triumph of Science,Amir D. Aczel,3.72,0743464796,9780743464796,eng,288,183,25,2004-09-14,Washington Square Press,"January 1, 2000",Paperback,Atria Books,3.74,583.0
 17846,The House of Mirth,Edith Wharton/Jeffrey Meyers,3.95,1593081537,9781593081539,eng,348,360,67,2004-08-26,Barnes  Noble Classics,"October 14, 1905",Paperback,,4.01,1113.0
 17850,The House of Mirth,Edith Wharton/R.W.B. Lewis,3.95,0814749763,9780814749760,eng,335,10,0,1977-01-01,New York University Press,"October 14, 1905",Hardcover,,3.89,10.0
@@ -5074,7 +5074,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 18337,No Heroes: A Memoir of Coming Home,Chris Offutt,3.87,0684865521,9780684865522,eng,272,193,34,2003-04-02,Simon  Schuster,"January 1, 2002",Paperback,Simon & Schuster,3.89,489.0
 18338,The Castle Keeps,Andrew J. Offutt,3.57,0425021874,9780425021873,en-US,191,19,3,1972-07-30,Berkley,"July 30, 1972",Paperback,Berkley Books,3.68,71.0
 18341,Conan: Sword of Skelos,Andrew J. Offutt,3.94,0765340216,9780765340214,eng,224,1427,5,2002-02-18,Tor Fantasy,"January 1, 1979",Mass Market Paperback,Tor Fantasy,3.97,2010.0
-18348,"Incest: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1932-1934",Anaïs Nin/Rupert Pole/Gunther Stuhlmann,3.99,0151443661,9780151443666,eng,418,908,54,1992-10-01,Houghton Mifflin Harcourt,,,,3.95,3979.0
+18348,"Incest: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1932-1934",Anaïs Nin/Rupert Pole/Gunther Stuhlmann,3.99,0151443661,9780151443666,eng,418,908,54,1992-10-01,Houghton Mifflin Harcourt,"January 1, 1992",Hardcover,Houghton Mifflin Harcourt,3.95,3979.0
 18349,"Fire: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1934-1937",Anaïs Nin,4.13,0156003902,9780156003902,eng,448,585,31,1996-07-22,Mariner Books,"January 1, 1987",Paperback,Mariner Books,4.13,2525.0
 18350,In Favor of the Sensitive Man and Other Essays,Anaïs Nin,4.02,0156444453,9780156444453,eng,180,520,40,1976-04-01,Mariner Books,"January 1, 1966",Paperback,Mariner Books,4.0,2888.0
 18353,Anaïs Nin: A Biography,Deirdre Bair,3.99,0140255257,9780140255256,eng,672,632,37,1996-07-01,Penguin Books,"January 1, 1995",Paperback,Penguin Books,3.97,2853.0
@@ -5207,7 +5207,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 18829,Yellow Dog,Martin Amis,2.79,1400077273,9781400077274,eng,352,1449,94,2005-01-04,Vintage,"January 1, 2003",Paperback,Vintage,2.8,2651.0
 18831,Success,Martin Amis,3.66,0679734481,9780679734482,eng,224,2191,101,1991-04-03,Vintage,"January 1, 1978",Paperback,Vintage,3.67,4515.0
 18832,Koba the Dread: Laughter and the Twenty Million,Martin Amis,3.83,1400032202,9781400032204,eng,306,1182,110,2003-09-09,Vintage,"January 1, 2002",Paperback,Vintage,3.84,3096.0
-18833,Dead Babies,Martin Amis,3.32,067973449X,9780679734499,eng,206,6348,162,1991-04-03,Vintage,,,,3.39,16772.0
+18833,Dead Babies,Martin Amis,3.32,067973449X,9780679734499,eng,206,6348,162,1991-04-03,Vintage,"January 1, 1975",Paperback,Vintage,3.39,16772.0
 18834,Beginning Again: An Autobiography of The Years 1911 to 1918,Leonard Woolf,3.81,0156116804,9780156116800,eng,263,64,8,1989-10-18,Mariner Books,"October 18, 1989",Paperback,Mariner Books,3.74,353.0
 18835,Virginia Woolf: A Biography,Quentin Bell,4.17,0156935805,9780156935807,eng,576,2583,66,1974-03-20,Mariner Books,"January 1, 1971",Paperback,Mariner Books,4.18,7922.0
 18837,Cliffs Notes on Woolf's Mrs. Dalloway,Gary K. Carey,3.09,0764544578,9780764544576,eng,72,10,2,2003-12-12,Cliffs Notes,"December 26, 2003",Paperback,CliffsNotes,3.15,23.0
@@ -5954,7 +5954,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 22347,The Invisibles  Volume 1: Say You Want a Revolution,Grant Morrison/Steve Yeowell/Jill Thompson/Dennis Cramer/Peter Milligan,3.95,1563892677,9781563892677,eng,224,8822,372,1996-06-01,DC Comics,"January 1, 1994",Paperback,Vertigo,3.96,19649.0
 22348,The Mystery Play,Grant Morrison/Jon J. Muth,3.44,1563891891,9781563891892,en-US,80,688,40,1995-08-01,Vertigo,"January 1, 2002",Paperback,Vertigo,3.43,1224.0
 22350,Kid Eternity,Grant Morrison/Duncan Fegredo,3.41,1401209335,9781401209339,eng,144,693,44,2006-02-01,Vertigo,"January 1, 1991",Paperback,Vertigo,3.41,1362.0
-22351,New X-Men  Volume 1: E Is for Extinction,Grant Morrison/Frank Quitely,4.06,0785108114,9780785108115,eng,144,7602,135,2006-09-27,Marvel,,,,4.08,12342.0
+22351,New X-Men  Volume 1: E Is for Extinction,Grant Morrison/Frank Quitely,4.06,0785108114,9780785108115,eng,144,7602,135,2006-09-27,Marvel,"December 15, 2001",Paperback,Marvel Enterprises,4.08,12342.0
 22354,Seven Soldiers of Victory  Volume 1,Grant Morrison/Ryan Sook/Mick Gray/Frazer Irving/J.H. Williams III/Simone Bianchi/Cameron Stewart,3.79,1401209254,9781401209254,eng,224,2046,98,2006-01-04,DC Comics,"January 1, 2006",Paperback,DC Comics,3.81,3419.0
 22355,Doom Patrol  Vol. 1: Crawling from the Wreckage (Doom Patrol  #1),Grant Morrison/Richard Case/Doug Braithwaite/Scott Hanna/Carlos Garzon/John Nyberg,4.08,1563890348,9781563890345,eng,192,5447,235,2000-04-17,Vertigo,"August 1, 1989",Paperback,Vertigo,4.1,11829.0
 22356,The Filth,Grant Morrison/Chris Weston/Gary Erskine,3.75,1401200133,9781401200138,en-US,320,3907,266,2004-06-01,Vertigo,"January 1, 2004",Paperback,Vertigo,3.73,7218.0
@@ -6924,7 +6924,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 26090,The Dissociative Identity Disorder Sourcebook,Deborah Bray Haddock,4.16,0737303948,9780737303940,eng,336,276,19,2001-08-21,McGraw-Hill Education,"January 1, 2001",Paperback,McGraw-Hill Education,4.1,1663.0
 26092,Double Identity,Margaret Peterson Haddix,4.02,0689873743,9780689873744,eng,224,276,52,2005-10-01,Simon  Schuster Books for Young Readers,"October 1, 2005",Hardcover,,3.88,495.0
 26093,Identity,Milan Kundera/Linda Asher,3.68,0060175648,9780060175641,eng,176,266,31,1998-04-21,Harper,"October 29, 1997",Hardcover,,3.51,556.0
-26097,Slowness,Milan Kundera/Linda Asher,3.66,0060928417,9780060928414,eng,156,9760,402,1997-04-11,Harper Perennial,,,,3.72,22629.0
+26097,Slowness,Milan Kundera/Linda Asher,3.66,0060928417,9780060928414,eng,156,9760,402,1997-04-11,Harper Perennial,"January 12, 1995",Paperback,Harper Perennial,3.72,22629.0
 26101,Laughable Loves,Milan Kundera/Suzanne Rappaport,3.87,0571206921,9780571206926,eng,287,14928,470,2000-08-21,Faber & Faber,"January 1, 1970",Paperback,Faber & Faber,3.92,34164.0
 26123,Learned Optimism: How to Change Your Mind and Your Life,Martin E.P. Seligman,4.0,1400078393,9781400078394,eng,319,13891,628,2006-01-03,Vintage,"ary 1, 1990",Paperback,Vintage,3.96,62055.0
 26130,Homer Price,Robert McCloskey,4.08,0142404152,9780142404157,en-US,149,279,24,2005-12-29,Puffin Books,"January 1, 1943",Paperback,,4.06,682.0
@@ -7431,7 +7431,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 28543,Dragonsong (Pern: Harper Hall  #1),Anne McCaffrey,4.24,0553120441,9780553120448,eng,176,393,57,1977-01-01,Bantam,"March 1, 1976",Mass Market Paperback,,4.32,789.0
 28547,Dragonsinger (Harper Hall  #2),Anne McCaffrey,4.28,0689860072,9780689860072,eng,288,34996,586,2003-04-01,Aladdin,"ary 1, 1977",Paperback,Aladdin,4.27,55217.0
 28553,Dragondrums (Harper Hall  #3),Anne McCaffrey,4.07,0689860064,9780689860065,eng,243,28120,411,2003-04-01,Simon & Schuster Aladddin Paperbacks,"January 1, 1979",Paperback,Simon & Schuster Aladddin Paperbacks,4.08,43710.0
-28557,More Twisted: Collected Stories Vol. II,Jeffery Deaver,3.84,1416541187,9781416541189,eng,433,1673,112,2007-01-01,Simon & Schuster,,,,3.85,3759.0
+28557,More Twisted: Collected Stories Vol. II,Jeffery Deaver,3.84,1416541187,9781416541189,eng,433,1673,112,2007-01-01,Simon & Schuster,"December 11, 2006",Hardcover,Simon & Schuster,3.85,3759.0
 28558,The Coffin Dancer (Lincoln Rhyme  #2),Jeffery Deaver,4.16,0743275039,9780743275033,eng,358,38,1,2004-11-01,Simon & Schuster,"August 15, 1998",Hardcover,,4.04,84.0
 28559,The Stone Monkey (Lincoln Rhyme  #4),Jeffery Deaver,3.96,0340734019,9780340734018,eng,511,245,20,2006-11-01,Coronet Books (GB),"March 12, 2002",Paperback,,3.77,634.0
 28560,The Sleeping Doll (Kathryn Dance #1),Jeffery Deaver,3.93,0743260945,9780743260947,eng,428,357,58,2007-06-05,Simon & Schuster,"June 5, 2007",Hardcover,,3.75,945.0
@@ -7832,7 +7832,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 30190,Goddess of Light (Goddess Summoning  #3),P.C. Cast,4.04,0425201961,9780425201961,eng,355,5594,213,2005-04-05,Berkley,"April 5, 2005",Mass Market Paperback,Berkley,4.04,15949.0
 30191,Brighid's Quest (Partholon  #5),P.C. Cast,4.14,0373802420,9780373802425,eng,507,3344,107,2005-11-29,Luna Books,"December 1, 2005",Paperback,Luna,4.16,9582.0
 30193,Goddess of the Rose (Goddess Summoning  #4),P.C. Cast,4.14,0425208915,9780425208915,eng,345,5499,248,2006-02-07,Berkley Sensation,"ary 7, 2006",Paperback,Berkley Sensation,4.15,15064.0
-30194,Goddess of Spring (Goddess Summoning  #2),P.C. Cast,4.21,0425197492,9780425197493,eng,360,7579,446,2004-08-03,Berkley Sensation,"August 3, 2004",Mass Market Paperback,Berkley Sensation,,
+30194,Goddess of Spring (Goddess Summoning  #2),P.C. Cast,4.21,0425197492,9780425197493,eng,360,7579,446,2004-08-03,Berkley Sensation,"August 3, 2004",Mass Market Paperback,Berkley Sensation,4.2,22620.0
 30196,Goddess of the Sea (Goddess Summoning  #1),P.C. Cast,3.87,0425192792,9780425192795,eng,368,7847,439,2003-10-07,Berkley Sensation,"October 7, 2003",Mass Market Paperback,Penguin Group USA Inc,3.87,26348.0
 30199,Mysteria (Mysteria  #1),MaryJanice Davidson/Susan Grant/P.C. Cast/Gena Showalter,3.73,0425211061,9780425211069,eng,340,3046,96,2006-07-05,Berkley Sensation,"July 1, 2006",Mass Market Paperback,Berkley Sensation,3.73,7231.0
 30200,Elphame's Choice (Partholon  #4),P.C. Cast,4.03,0373802137,9780373802135,eng,551,3971,141,2004-11-24,Luna Books,"December 1, 2004",Paperback,Luna,4.07,10640.0
@@ -8226,7 +8226,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 31591,Lorca & Jimenez: Selected Poems,Federico García Lorca/Juan Ramón Jiménez/Robert Bly,4.34,0807062138,9780807062135,eng,208,114,8,1997-04-30,Beacon Press,"Published April 28, 1997",Paperback,Beacon Press,4.34,315.0
 31607,Also sprach Zarathustra: Ein Buch für Alle und Keinen.,Friedrich Nietzsche,4.06,337901706X,9783379017060,ger,371,2,0,2000-07-01,Reclam  Leipzig,"January 1, 1883",Paperback,,3.5,8.0
 31611,Seminar on Nietzsche's Zarathustra,C.G. Jung/James L. Jarrett,4.38,0691017387,9780691017389,eng,352,19,2,1997-11-23,Princeton University Press,"Published November 3, 1997",Paperback,Princeton University Press,4.5,218.0
-31615,The Polar Express,Chris Van Allsburg,4.3,061861169X,9780618611690,en-US,32,88,13,2005-10-19,HMH Books for Young Readers,,,,4.08,186.0
+31615,The Polar Express,Chris Van Allsburg,4.3,061861169X,9780618611690,en-US,32,88,13,2005-10-19,HMH Books for Young Readers,"October 28, 1985",Hardcover,,4.08,186.0
 31619,Trip To The North Pole (The Polar Express: The Movie),Ellen Weiss/Doyle Partners/Robert Zemeckis,3.62,061847790X,9780618477906,eng,128,55,7,2004-10-12,HMH Books for Young Readers,"October 12, 2004",Paperback,Houghton Mifflin Harcourt,3.87,195.0
 31623,Blow Fly (Kay Scarpetta  #12),Patricia Cornwell,3.77,0425198731,9780425198735,eng,467,31942,732,2004-09-07,Berkley,"October 13, 2003",Paperback,Berkley,3.8,62592.0
 31626,The Gift of the Magi and Other Short Stories,O. Henry,4.15,0486270610,9780486270616,eng,96,4616,133,1992-02-05,Dover Publications,"January 1, 1904",Paperback,Dover Publications,4.16,8074.0
@@ -8489,12 +8489,12 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 32585,Hunger,Knut Hamsun/George Egerton,4.05,0486431681,9780486431680,eng,134,28153,1372,2003-11-17,Dover Publications,"January 1, 1890",Paperback,Dover Publications,4.1,91640.0
 32588,Victoria,Knut Hamsun/Oliver Stallybrass,3.74,1557131775,9781557131775,eng,155,47,7,1994-10-01,Sun & Moon Press,"January 1, 1898",Paperback,,3.86,88.0
 32589,The Wanderer,Knut Hamsun/Oliver Stallybrass/Gunnvor Stallybrass,3.96,0285647873,9780285647879,eng,164,696,25,2001-04-30,Condor Books,"January 1, 1909",Paperback,Condor Books,4.06,2467.0
-32590,Pan,Knut Hamsun/Sverre Lyngstad,3.9,0141180676,9780141180670,eng,181,5833,255,1998-09-01,Penguin Classics,"January 1, 1894",,Penguin Publishing Group,3.87,18307.0
+32590,Pan,Knut Hamsun/Sverre Lyngstad,3.9,0141180676,9780141180670,eng,181,5833,255,1998-09-01,Penguin Classics,"January 1, 1894",Paperback,Penguin Publishing Group,3.87,18307.0
 32591,The Last Joy,Knut Hamsun/Sverre Lyngstad,3.77,1931243190,9781931243193,eng,250,129,8,2002-07-01,Green Integer,"January 1, 1912",Paperback,Green Integer,3.88,390.0
 32592,In Wonderland,Knut Hamsun/Sverre Lyngstad,3.6,0970312555,9780970312556,nor,185,86,8,2003-09-01,Ig Publishing,"January 1, 1903",Paperback,Ig Publishing,3.73,342.0
 32609,Guilty as Charged,Scott Turow/Sarah Shankman/Jay Brandon/Jeremiah Healy/Ed Gorman/John Jakes/Maynard F. Thomson/Lia Matera/Susan Dunlap/Bill Pronzini/John Lutz/Andrew Klavan/Marcia Muller/Stuart M. Kaminsky/Carolyn Wheat/Stan Washburn/Valerie Frankel,3.76,0671519166,9780671519162,eng,10,149,2,1996-10-01,Pocket Books,"October 1, 1996",Paperback,Pocket,3.76,478.0
 32610,On the Shoulders of Giants: The Great Works of Physics and Astronomy,Stephen Hawking/Isaac Newton/Nicolaus Copernicus/Albert Einstein/Johannes Kepler/Galileo Galilei,4.2,0762427329,9780762427321,eng,256,4151,33,2006-01-01,Penguin Books,"January 1, 2002",Paperback,Penguin Books,4.21,15987.0
-32625,Visions of Heaven and Hell,Clive Barker,4.32,0847827372,9780847827374,eng,352,661,20,2005-09-27,Rizzoli,"September 27, 2005",Hardcover,Rizzoli,,
+32625,Visions of Heaven and Hell,Clive Barker,4.32,0847827372,9780847827374,eng,352,661,20,2005-09-27,Rizzoli,"September 27, 2005",Hardcover,Rizzoli,4.32,1656.0
 32626,Books of Blood: Volumes One to Three (Books of Blood #1-3),Clive Barker,4.18,0425165582,9780425165584,eng,507,22863,491,1998-10-01,Berkley Books,"January 1, 1984",Paperback,Berkley Books,4.19,55065.0
 32627,Everville (Book of the Art #2),Clive Barker,4.03,0060933151,9780060933159,eng,697,8829,157,1999-11-03,HarperPerennial,"October 27, 1994",Paperback,,4.05,17013.0
 32628,The Great and Secret Show (Book of the Art #1),Clive Barker,4.05,006093316X,9780060933166,eng,658,25955,518,1999-11-03,HarperPerennial,"August 7, 1989",Paperback,HarperPerennial,4.07,51641.0
@@ -8504,216 +8504,216 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 32640,The Inhuman Condition (Books of Blood  #4),Clive Barker,3.96,0743417348,9780743417341,eng,180,6294,111,2001-03-01,Pocket Books,"July 1, 1985",Paperback,Pocket Books,3.97,13145.0
 32649,Notebook of a Return to the Native Land,Aimé Césaire/Annette Smith/Clayton Eshleman,4.09,0819564524,9780819564528,eng,66,941,49,2001-09-24,Wesleyan University Press,"January 1, 1939",Paperback,Wesleyan University Press,4.19,5111.0
 32650,The Return of the Native,Thomas Hardy/Alexander Theroux,3.86,037575718X,9780375757181,eng,448,29586,981,2001-02-13,Modern Library,"January 1, 1878",Paperback,Modern Library,3.87,67346.0
-32656,The Return of the Native,Thomas Hardy/Phillip Mallett,3.86,0393927873,9780393927870,eng,552,44,5,2006-02-14,W. W. Norton & Company,"January 1, 1878",Paperback,,,
-32664,The Stephen King Collection: Stories from Night Shift,Stephen King/John  Glover,4.0,0553527401,9780553527407,eng,9,662,23,2000-05-02,Random House Audio,"January 1, 1978",Audio Cassette,,,
-32667,Blood and Smoke,Stephen King,3.92,0671046179,9780671046170,eng,4,6221,155,2000-01-01,Simon & Schuster Audio,"November 22, 1999",Audio CD,Simon & Schuster Audio,,
-32668,LT's Theory of Pets,Stephen King,3.69,074352005X,9780743520058,eng,1,2824,140,2001-08-01,Simon  Schuster Audio,"June 7, 2001",Audio CD,Simon  Schuster Audio,,
-32679,Carretera maldita,Richard Bachman/Stephen King/Joseph M. Apfelbäume,3.6,8401474728,9788401474729,spa,362,336,37,1999-02-01,Plaza & Janés Editores  S.A.,"March 1, 1981",Paperback,,,
-32680,Silver Bullet,Stephen King/Bernie Wrightson,3.64,0451821289,9780451821287,en-US,255,3551,33,1985-11-12,Signet,"Published November 12, 1985",Paperback,Signet,,
-32682,Patriot Games (Jack Ryan  #1),Tom Clancy,4.14,0425134350,9780425134351,eng,503,170797,984,1992-05-01,Berkley,"August 4, 1987",Mass Market Paperback,Berkley,,
-32686,Legends,Robert Silverberg/Stephen King/Robert Jordan/Terry Goodkind/Anne McCaffrey/Orson Scott Card/Tad Williams/George R.R. Martin/Raymond E. Feist/Terry Pratchett/Ursula K. Le Guin,3.92,0765300354,9780765300355,en-US,717,339,25,2001-09-08,Tor Books,"January 1, 1998",Paperback,,,
-32689,Bare Bones: Conversations on Terror with Stephen King,Tim Underwood/Chuck Miller/Stephen King,4.17,0446390577,9780446390576,eng,224,3162,28,1989-07-01,Warner,"January 1, 1988",Paperback,,,
-32691,Four Past Midnight,Stephen King,3.93,0451213599,9780451213594,eng,768,1430,42,2004-03-02,Signet,"January 1, 1990",Mass Market Paperback,,,
-32692,Gerald's Game,Stephen King,3.51,0831727527,9780831727529,eng,332,117178,2678,1992-09-01,Smithmark Publishers,"January 1, 1992",Hardcover,Smithmark Publishers,,
-32694,Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic 2004 Season,Stewart O'Nan/Stephen King,3.83,0743267532,9780743267533,eng,445,4321,164,2005-09-06,Scribner,"December 1, 2004",Paperback,Scribner,,
-32695,El talismán,Stephen King/Peter Straub/Pilar Giralt Gorina,4.13,8408042432,9788408042433,spa,375,12,1,2003-07-01,Planeta Publishing,"November 8, 1984",Paperback,,,
-32696,El umbral de la noche,Stephen King/Gregorio Vlastelica/Eduardo Goligorsky,4.0,8497594290,9788497594295,spa,417,79,11,2004-04-30,Debolsillo,"January 1, 1978",Mass Market Paperback,,,
-32702,Rabia,Richard Bachman/Stephen King/Hernán Sabaté Vargas,3.78,8427011504,9788427011502,spa,203,91,22,1987-09-01,Martínez Roca,"September 6, 1977",Paperback,,,
+32656,The Return of the Native,Thomas Hardy/Phillip Mallett,3.86,0393927873,9780393927870,eng,552,44,5,2006-02-14,W. W. Norton & Company,"January 1, 1878",Paperback,,3.95,118.0
+32664,The Stephen King Collection: Stories from Night Shift,Stephen King/John  Glover,4.0,0553527401,9780553527407,eng,9,662,23,2000-05-02,Random House Audio,"January 1, 1978",Audio Cassette,,4.22,1579.0
+32667,Blood and Smoke,Stephen King,3.92,0671046179,9780671046170,eng,4,6221,155,2000-01-01,Simon & Schuster Audio,"November 22, 1999",Audio CD,Simon & Schuster Audio,3.9,18134.0
+32668,LT's Theory of Pets,Stephen King,3.69,074352005X,9780743520058,eng,1,2824,140,2001-08-01,Simon  Schuster Audio,"June 7, 2001",Audio CD,Simon  Schuster Audio,3.72,8022.0
+32679,Carretera maldita,Richard Bachman/Stephen King/Joseph M. Apfelbäume,3.6,8401474728,9788401474729,spa,362,336,37,1999-02-01,Plaza & Janés Editores  S.A.,"March 1, 1981",Paperback,,3.19,1422.0
+32680,Silver Bullet,Stephen King/Bernie Wrightson,3.64,0451821289,9780451821287,en-US,255,3551,33,1985-11-12,Signet,"Published November 12, 1985",Paperback,Signet,3.73,5380.0
+32682,Patriot Games (Jack Ryan  #1),Tom Clancy,4.14,0425134350,9780425134351,eng,503,170797,984,1992-05-01,Berkley,"August 4, 1987",Mass Market Paperback,Berkley,4.16,253474.0
+32686,Legends,Robert Silverberg/Stephen King/Robert Jordan/Terry Goodkind/Anne McCaffrey/Orson Scott Card/Tad Williams/George R.R. Martin/Raymond E. Feist/Terry Pratchett/Ursula K. Le Guin,3.92,0765300354,9780765300355,en-US,717,339,25,2001-09-08,Tor Books,"January 1, 1998",Paperback,,3.87,703.0
+32689,Bare Bones: Conversations on Terror with Stephen King,Tim Underwood/Chuck Miller/Stephen King,4.17,0446390577,9780446390576,eng,224,3162,28,1989-07-01,Warner,"January 1, 1988",Paperback,,4.19,7439.0
+32691,Four Past Midnight,Stephen King,3.93,0451213599,9780451213594,eng,768,1430,42,2004-03-02,Signet,"January 1, 1990",Mass Market Paperback,,3.61,2184.0
+32692,Gerald's Game,Stephen King,3.51,0831727527,9780831727529,eng,332,117178,2678,1992-09-01,Smithmark Publishers,"January 1, 1992",Hardcover,Smithmark Publishers,3.57,256692.0
+32694,Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic 2004 Season,Stewart O'Nan/Stephen King,3.83,0743267532,9780743267533,eng,445,4321,164,2005-09-06,Scribner,"December 1, 2004",Paperback,Scribner,3.83,7975.0
+32695,El talismán,Stephen King/Peter Straub/Pilar Giralt Gorina,4.13,8408042432,9788408042433,spa,375,12,1,2003-07-01,Planeta Publishing,"November 8, 1984",Paperback,,4.0,35.0
+32696,El umbral de la noche,Stephen King/Gregorio Vlastelica/Eduardo Goligorsky,4.0,8497594290,9788497594295,spa,417,79,11,2004-04-30,Debolsillo,"January 1, 1978",Mass Market Paperback,,4.22,351.0
+32702,Rabia,Richard Bachman/Stephen King/Hernán Sabaté Vargas,3.78,8427011504,9788427011502,spa,203,91,22,1987-09-01,Martínez Roca,"September 6, 1977",Paperback,,3.71,274.0
 32703,The Diary of Ellen Rimbauer: My Life at Rose Red,Joyce Reardon/Steven Rimbauer/Ridley Pearson,3.67,0786890436,9780786890439,eng,277,7852,352,2001-04-29,Hyperion,"January 1, 2001",Mass Market Paperback,Hyperion,,
-32709,Now and on Earth,Jim Thompson/Stephen King,3.7,0679740139,9780679740131,eng,320,339,21,1994-02-01,Vintage,"January 1, 1942",Paperback,,,
-32714,The Monkey,Stephen King/David Purdham,3.77,0394299035,9780394299037,eng,2,801,44,1989-10-28,Random House Audio,"January 1, 1980",Audio Cassette,Random House Audio,,
-32715,Desperation / The Regulators: Box Set,Stephen King/Richard Bachman,4.07,067077605X,9780670776054,eng,1075,3231,72,1996-10-01,Viking Adult,"January 1, 1996",Hardcover,Viking Adult,,
-32720,Ojos de fuego,Stephen King/Eduardo Goligorsky,3.88,0609810871,9780609810873,spa,528,353,29,2001-09-04,Plaza y Janés,"September 29, 1980",Paperback,,,
-32737,Tevye's Daughters: Collected Stories of Sholom Aleichem,Sholom Aleichem/Frances Butwin,4.17,1929068034,9781929068036,eng,302,146,13,1999-11-01,Sholom Aleichem Family Publications,"January 1, 1894",Paperback,Sholom Aleichem Family Publications,,
-32741,Favorite Tales of Sholom Aleichem,Sholom Aleichem/Ben Shahn/Frances Butwin/Julius Butwin,4.26,0517412942,9780517412947,en-US,692,66,6,1990-11-18,Avenel Books,"January 28, 1858",Hardcover,Avenel Books,,
-32750,Brown Girl  Brownstones,Paule Marshall/Mary Helen Washington/Edwidge Danticat,4.07,1558614982,9781558614987,eng,324,2466,107,2006-08-01,Feminist Press,"January 1, 1959",Paperback,The Feminist Press at CUNY,,
-32760,V.,Thomas Pynchon,3.96,3499137305,9783499137303,ger,544,46,4,1994-08-01,Rowohlt,"August 1, 1963",Paperback,,,
-32765,Gimpel the Fool: And Other Stories,Isaac Bashevis Singer/Saul Bellow,4.16,0374500525,9780374500528,eng,205,37,4,1988-12-31,Farrar Straus Giroux,"January 1, 1953",Paperback,,,
-32767,At the Mountains of Madness,H.P. Lovecraft/China Miéville/S.T. Joshi,3.88,0812974417,9780812974416,eng,224,24866,1608,2005-06-14,Modern Library,"January 1, 1931",Paperback,The Modern Library,,
-32768,At the Mountains of Madness and Other Novels,H.P. Lovecraft/James Turner/S.T. Joshi/August Derleth,4.44,0870540386,9780870540387,eng,458,486,20,1985-12-01,Arkham House Publishers,"January 1, 1966",Hardcover,Arkham House Publishers Inc.,,
-32769,At the Mountains of Madness and Other Tales of Terror,H.P. Lovecraft,4.25,0345329457,9780345329455,eng,184,21719,491,1991-09-13,Del Rey Books,"January 1, 1981",Mass Market Paperback,Del Rey,,
-32773,Mountain Madness (Wilderness  #24),David   Robbins/David Thompson,4.45,0843943998,9780843943993,eng,170,22,2,1998-06-01,Leisure Books,"June 1, 1998",Paperback,Leisure Books,,
-32774,At the Mountains of Madness and Other Novels of Terror,H.P. Lovecraft/August Derleth/E. Hoffmann Price,4.44,0007127774,9780007127771,eng,552,29,5,2002-06-17,Voyager,"January 1, 1964",,,,
-32778,The Aeneid,Virgil/Robert Fitzgerald,3.84,0679413359,9780679413356,eng,483,184,21,1992-06-30,Everyman's Library,"January 1, 20",Hardcover,,,
-32779,The Aeneid (Verse Translation),Virgil/Rolfe Humphries,3.84,0024277800,9780024277800,en-US,368,19,2,1987-01-15,Prentice Hall/Scribner/Macmillan,"January 1, 20",Paperback,,,
-32780,The Iliad,Homer/Andrew Lang,3.86,1904633382,9781904633389,eng,542,64,8,2011-09-01,Collector's Library,"January 1, 661",Hardcover,Barnes & Noble Collector's Library,,
-32781,War and the Iliad,Simone Weil/Rachel Bespaloff/Mary McCarthy/Christopher E.G. Benfey/Hermann Broch,4.04,1590171454,9781590171455,eng,121,532,57,2005-03-31,NYRB Classics,"December 1, 1940",Paperback,New York Review Books,,
-32782,The Iliad,Homer/Victor G. Ambrus/Nick McCarty,3.86,0753453215,9780753453216,eng,95,8,3,2000-09-15,Kingfisher,"January 1, 661",Paperback,Kingfisher,,
-32807,Trojan Odyssey (Dirk Pitt  #17),Clive Cussler,3.94,0425199320,9780425199329,eng,463,15118,318,2004-12-01,G.P. Putnam's Sons,"November 24, 2003",Mass Market Paperback,G.P. Putnam's Sons,,
-32810,The Divine Comedy II: Purgatory,Dante Alighieri/Dorothy L. Sayers/C.W. Scott-Giles,4.02,0140440461,9780140440461,en-US,388,369,33,1981-08-30,Penguin Classics,"January 1, 1321",Paperback,,,
-32811,The Divine Comedy,Dante Alighieri/C.H. Sisson/David H. Higgins,4.07,0192835025,9780192835024,en-US,735,177,10,1998-06-18,Oxford University Press,"January 1, 1320",Paperback,,,
-32812,Paradiso (The Divine Comedy  #3),Dante Alighieri/Dorothy L. Sayers/Barbara Reynolds,3.95,0140441050,9780140441055,eng,400,11566,222,1962-07-30,Penguin Classics,"January 1, 1320",Paperback,Penguin Classics,,
-32813,Modern Reader's Guide to Dante's the Divine Comedy,Joseph Gallagher,4.49,0764804944,9780764804946,eng,256,29,2,1999-05-10,Liguori Publications,"March 1, 1996",Paperback,Liguori Publications,,
-32814,The Canterbury Tales,Geoffrey Chaucer/Nevill Coghill,3.49,0140440224,9780140440225,eng,489,1050,74,1970-07-30,Penguin Books,"January 1, 1400",Paperback,,,
-32816,The Canterbury Tales: Fifteen Tales and the General Prologue,Geoffrey Chaucer/V.A. Kolve/Glending Olson,3.95,0393925870,9780393925876,enm,600,1149,41,2005-08-01,W. W. Norton & Company,"January 1, 1390",Paperback,W. W. Norton & Company,,
-32823,Fanning the Flame: Bible  Cross  and Mission,Chris    Green/Chris Wright/Paul Douglas Gardner,5.0,0310249872,9780310249870,eng,336,1,1,2003-06-17,Zondervan,"July 1, 2003",Paperback,Zondervan,,
-32827,From the Earth to the Moon (Extraordinary Voyages  #4),Jules Verne,3.78,1598184547,9781598184549,eng,136,17325,421,2006-10-01,Aegypan,"January 1, 1865",Paperback,Aegypan,,
-32828,The Mammoth Book of New Jules Verne Adventures: Return to the Center of the Earth and Other Extraordinary Voyages  New Tales by the Heirs of Jules Verne,Mike Ashley/Eric Brown/Keith Brooke/Johan Heliot/Kevin J. Anderson/Sarah A. Hoyt/Justina Robson/Adam Roberts/Paul Di Filippo/Tim Lebbon/Molly Brown/Tony Ballantyne/Stephen Baxter/Richard A. Lupoff/Sharan Newman/Michael Pagel/Liz Williams/Brian Stableford/James Lovegrove/Ian Watson/Peter Criwther/Laurent Genefirt/F. Gwynplaine MacIntyre/Michael Mallory,3.63,0786714956,9780786714957,eng,498,28,4,2005-02-15,Running Press,"January 1, 2005",Paperback,Running Press,,
-32829,Journey to the Center of the Earth (Extraordinary Voyages  #3),Jules Verne,3.86,0553213970,9780553213973,eng,240,107189,2510,2006-04-25,Bantam,"November 25, 1864",Mass Market Paperback,Bantam,,
-32830,20 000 Leagues Under The Sea,Pauline Francis/Jules Verne,3.76,0237526883,9780237526887,eng,48,563,32,2004-08-01,Evans Brothers,"ary 1, 2013",Paperback,Evans Brothers Ltd,,
-32831,The Mysterious Island (Extraordinary Voyages  #12),Jules Verne/Caleb Carr/Jordan Stump,4.11,0812972120,9780812972122,eng,723,30022,948,2004-04-27,Modern Library,"January 1, 1874",Mass Market Paperback,Modern Library,,
-32832,The Lighthouse at the End of the World,Jules Verne,3.64,1589630947,9781589630949,eng,260,1752,40,2001-03-20,Fredonia Books (NL),"January 1, 1905",Paperback,Fredonia Books (NL),,
-32833,The World of Jules Verne,Gonzague Saint Bris/Arthur C. Clarke/Stéphane Heuet/Helen Marx/Saint-Bris Gonzague,4.0,1885586426,9781885586421,eng,85,3,1,2006-11-01,Helen Marx Books,"March 17, 2005",Hardcover,Helen Marx Books,,
-32835,The End of Nana Sahib: The Steam House (Extraordinary Voyages  #20),Jules Verne/Agnes D. Kingston,3.59,1410103277,9781410103277,eng,276,199,9,2003-07-19,Fredonia Books (NL),"January 1, 1880",Paperback,Fredonia Books (NL),,
-32836,Around the World in Eighty Days,Jules Verne/Herbert R. Lottman/Jacqueline Rogers,3.93,0451529774,9780451529770,eng,236,156,17,2005-06-07,Signet,"November 6, 1872",Mass Market Paperback,,,
-32843,Around the World in Eighty Days,Jules Verne/George M. Towle/Bruce Sterling,3.93,0812968565,9780812968569,eng,211,778,35,2003-12-30,Modern Library,"November 6, 1872",Paperback,,,
-32844,The Mysterious Island,Jules Verne/Jordan Stump/Caleb Carr,4.11,0812966422,9780812966428,eng,630,114,14,2002-12-10,Modern Library,"January 1, 1874",Paperback,,,
-32849,Adrift in the Pacific: Two Years Holiday (Extraordinary Voyages  #32),Jules Verne,3.99,1410102157,9781410102157,eng,300,1956,39,2003-04-24,Fredonia Books (NL),"January 1, 1888",Paperback,Fredonia Books (NL),,
-32854,Final Payments,Mary Gordon,3.69,0307276783,9780307276780,eng,304,551,78,2006-06-06,Anchor,"January 1, 1978",Paperback,Anchor,,
-32872,Sliver of Truth (Ridley Jones #2),Lisa Unger,3.68,0307338460,9780307338464,eng,308,3015,347,2007-01-02,Shaye Areheart Books,"January 2, 2007",Hardcover,,,
-32880,The Mothman Prophecies,John A. Keel,3.54,0340824468,9780340824467,eng,352,117,16,2002-03-07,Hodder & Stoughton,"January 1, 1975",Paperback,,,
-32884,Intimate Communion: Awakening Your Sexual Essence,David Deida/Lorrie Bortner,3.99,155874374X,9781558743748,eng,270,265,26,1995-11-01,Health Communications,"November 1, 1995",Paperback,Health Communications,,
-32893,Letter to a Man in the Fire: Does God Exist and Does He Care?,Reynolds Price,3.7,0684856271,9780684856278,eng,112,113,22,2000-10-17,Scribner,"January 1, 1999",Paperback,Scribner,,
-32899,The Promise of Rest,Reynolds Price/Mary Bess Engel,4.0,0684825104,9780684825106,eng,368,253,16,1996-11-05,Scribner,"May 1, 1995",Paperback,Scribner,,
-32900,Perfect Match,Jodi Picoult,3.95,0743418727,9780743418720,eng,368,213,33,2002-05-01,Atria Books,"May 1, 2002",Hardcover,,,
-32913,Demon Box,Ken Kesey,3.56,0140085300,9780140085303,eng,400,1418,55,1987-08-04,Penguin Books,"January 1, 1986",Paperback,Penguin Books,,
-32915,Sailor Song,Ken Kesey,3.58,0140139974,9780140139976,eng,533,2015,105,1993-07-01,Penguin Books,"January 1, 1992",Paperback,Penguin Books,,
-32916,On the Bus: The Complete Guide to the Legendary Trip of Ken Kesey and the Merry Pranksters and the Birth of Counterculture,Paul Perry/Ken Babbs,3.86,156025114X,9781560251149,eng,205,193,10,1997-01-07,Running Press,"January 1, 1990",Paperback,Running Press,,
-32919,The Further Inquiry,Ken Kesey/Ron Bevirt,3.63,0670831743,9780670831746,eng,215,226,3,1990-10-01,Viking Books,"October 1, 1990",Hardcover,Viking Adult,,
-32929,Goodnight Moon,Margaret Wise Brown/Clement Hurd,4.28,0060775858,9780060775858,eng,32,276426,4975,2007-01-23,HarperCollins,"September 3, 1947",Hardcover,HarperCollins,,
-32936,Goodnight Moon 123: A Counting Book (Over the Moon),Margaret Wise Brown/Clement Hurd,3.57,0061125938,9780061125935,eng,32,198,22,2007-07-01,HarperCollins Publishers,"January 1, 2007",Hardcover,HarperCollins,,
-32939,New Rules: Polite Musings from a Timid Observer,Bill Maher,3.71,1594862958,9781594862953,en-US,304,5034,305,2005-07-26,Rodale Books,"August 30, 2005",Hardcover,Rodale Books,,
-32941,True Story,Bill Maher,3.11,0743291352,9780743291354,en-US,304,199,28,2005-10-01,Simon  Schuster,"January 1, 1994",Paperback,Simon & Schuster,,
-32942,Does Anybody Have a Problem With That? The Best of Politically Incorrect,Bill Maher,3.51,0345412818,9780345412812,eng,288,189,9,1997-05-20,Ballantine Books,"January 1, 1996",Paperback,Ballantine Books,,
-32946,The Outsiders,S.E. Hinton,4.09,0141314575,9780141314570,eng,218,2630,258,2003-03-06,Puffin Group,"April 24, 1967",Paperback,,,
-32947,Outsiders Within: Writing on Transracial Adoption,Jane Jeong Trenka/Julia Chinyere Oparah,4.17,0896087646,9780896087644,eng,300,190,20,2006-08-01,South End Press,"August 1, 2006",Paperback,South End Press,,
-32950,Outsiders  Vol. 5: The Good Fight,Judd Winick/Matthew Clark/Art Thibert/Pop Mhan/Ron Randall,3.43,140121195X,9781401211950,eng,192,122,12,2007-01-03,DC Comics,"January 3, 2007",Paperback,DC Comics,,
-32951,Sister Outsider: Essays and Speeches,Audre Lorde,4.49,0895941414,9780895941411,en-GB,190,12105,568,1984-06-01,Crossing Press,"June 1, 1984",Paperback,,,
-32957,Caramelo,Sandra Cisneros,3.9,0679742581,9780679742586,eng,441,9317,700,2003-09-09,Vintage,"September 24, 2002",Paperback,Vintage,,
-32961,The House on Mango Street,Sandra Cisneros,3.63,0739322796,9780739322796,en-US,2,108,21,2005-08-30,Random House Audio,"January 1, 1984",Audio CD,,,
-32964,Selections from Homer’s Iliad,Homer/Allen Rogers Benner/Mark W. Edwards,4.41,0806133635,9780806133638,eng,522,67,7,2001-12-15,University of Oklahoma Press,"January 1, 1903",Paperback,OUP,,
-32966,The Merchant of Venice,William Shakespeare,3.8,0141013958,9780141013954,eng,240,140,8,2005-04-07,Penguin Classics,"January 1, 1596",Paperback,,,
-32975,Nancy Drew: Girl Detective: #1-4,Carolyn Keene,4.02,0689036914,9780689036910,eng,640,2167,30,2004-10-01,Aladdin,"October 1, 2004",Paperback,Aladdin,,
-32977,Nancy's Mysterious Letter (Nancy Drew Mystery Stories  #8),Carolyn Keene/Walter Karig,3.86,1557091625,9781557091628,eng,210,8279,179,1996-04-01,Applewood Books,"January 1, 1932",Hardcover,Applewood Books,,
-32979,The Secret of the Old Clock (Nancy Drew Mystery Stories  #1),Carolyn Keene/Russell H. Tandy/Sara Paretsky,3.99,1557091552,9781557091550,eng,210,53304,2118,1991-09-01,Applewood Books,"January 1, 1930",Hardcover,Applewood Books,,
-32980,The Mystery at the Moss-covered Mansion (Nancy Drew Mystery Stories  #18),Carolyn Keene/Russell H. Tandy/Mildred Benson,3.89,1557092648,9781557092649,eng,215,4920,95,2003-02-01,Applewood Books,"January 1, 1941",Hardcover,Applewood Books,,
-32981,The Mystery of the Brass-Bound Trunk (Nancy Drew Mystery Stories  #17),Carolyn Keene/Mildred Benson,3.89,155709263X,9781557092632,eng,228,4249,89,2001-12-01,Applewood Books,"January 1, 1940",Hardcover,Applewood Books,,
-32986,The Mantle of the Prophet: Religion and Politics in Iran,Roy Mottahedeh,4.08,1851682341,9781851682348,eng,416,412,42,2000-08-15,One World (UK),"September 1, 1985",Paperback,Oneworld Pubns Ltd,,
-32987,The Greatest Generation,Tom Brokaw,4.01,0812975294,9780812975291,eng,464,14233,914,2001-05-01,Random House Trade Paperbacks,"December 1, 1998",Paperback,Random House Trade Paperbacks,,
-32994,Maverick: The Success Story Behind the World's Most Unusual Workplace,Ricardo Semler,4.17,0712678867,9780712678865,eng,336,2979,163,2001-09-06,Random House,"January 1, 1988",Paperback,Random House,,
-33001,Weekend Warriors (Sisterhood  #1),Fern Michaels,4.05,0821775898,9780821775899,eng,304,6783,562,2004-07-01,Kensington,"December 1, 2001",Paperback,Kensington ,,
-33002,The Weekend Novelist,Robert J. Ray/Bret Norris,3.67,0823084507,9780823084500,eng,266,368,36,2005-04-01,Billboard Books,"December 1, 1993",Paperback,Billboard Books,,
-33007,The Week-End Book,Francis Meynell/John Julius Norwich/Francis Maynell,3.67,1585678139,9781585678136,eng,368,31,7,2006-05-04,Harry N. Abrams,"January 1, 1924",Hardcover,Abrams Press,,
-33008,North Carolina Weekends,Lynn Setzer,3.71,0895872730,9780895872739,en-US,353,7,1,2003-10-01,John F. Blair  Publisher,"January 1, 2003",Paperback,John F Blair Pub,,
-33013,Far from the Madding Crowd,Thomas Hardy/Margaret Drabble,3.94,037575797X,9780375757976,eng,465,324,40,2001-12-11,Modern Library,"January 1, 1874",Paperback,,,
-33015,Selected Poems,Thomas Hardy/Robert Mezey,3.96,0140436995,9780140436990,eng,320,1509,30,1998-12-01,Penguin Books,"January 1, 1928",Paperback,Penguin Books,,
-33017,Selected Poetry,Thomas Hardy/Samuel Hynes,3.96,0192834916,9780192834911,eng,304,9,0,1999-05-06,Oxford University Press,"January 1, 1928",Paperback,,,
-33024,Underworld (Underworld  #1),Greg Cox/Danny McBride/Len Wiseman/Kevin Grevioux,4.09,0743480716,9780743480710,eng,384,2031,79,2003-08-26,Pocket Star Books,"January 1, 2003",Mass Market Paperback,Pocket Star,,
-33025,Underworld: The Mysterious Origins of Civilization,Graham Hancock,3.95,1400049512,9781400049516,eng,784,1112,70,2003-10-28,Three Rivers Press,"January 1, 2002",Paperback,Crown,,
-33026,The Dream and the Underworld,James Hillman,4.22,0060906820,9780060906825,en-US,256,746,34,1979-07-25,William Morrow Paperbacks,"January 1, 1975",Paperback,William Morrow Paperbacks,,
-33028,Underworld (Star Wars: The Last of the Jedi  #3),Jude Watson,3.96,0439681367,9780439681360,eng,160,840,23,2005-12-01,Scholastic Paperbacks,"December 1, 2005",Paperback,Scholastic Paperbacks,,
-33029,Star Wars: Underworld - The Yavin Vassilika,Mike Kennedy/Carlos Meglia,3.35,1569716188,9781569716182,eng,120,83,6,2001-10-16,Dark Horse Books,"October 12, 2001",Paperback,Dark Horse,,
-33030,Underworld: Blood Enemy (Underworld  #2),Greg Cox/Len Wiseman/Kevin Grevioux,3.91,0743480724,9780743480727,eng,310,548,26,2004-11-30,Pocket Star,"January 1, 2004",Mass Market Paperback,Pocket Star,,
-33032,Queen of the Underworld,Gail Godwin,2.89,0345483197,9780345483195,eng,368,541,100,2007-01-30,Ballantine Books,"January 1, 2006",Paperback,Ballantine Books,,
-33046,Ve  perro ¡Ve!,P.D. Eastman/Adolfo Pérez Perdomo,4.09,0375823611,9780375823619,spa,24,33,2,2003-02-25,Random House Para Ninos,"January 1, 1961",Board Book,,,
-33052,Murder in the Cathedral,T.S. Eliot,3.76,0156632772,9780156632775,eng,148,6782,309,1964-03-18,Harcourt  Brace Jovanovich/Harvest,"January 1, 1936",Paperback,"Harcourt, Brace Jovanovich/Harvest",,
-33057,Cathedral  Forge  and Waterwheel: Technology and Invention in the Middle Ages,Frances Gies/Joseph Gies,3.86,0060925817,9780060925819,eng,368,649,56,1995-01-01,Harper Perennial,"January 1, 1994",Paperback,Harper Perennial,,
-33064,L'Équilibre du monde,Rohinton Mistry/Françoise Adelstain,4.36,225315086X,9782253150862,fre,890,152,11,2001-06-20,Le Livre de Poche,"January 1, 1995",Paperback,,,
-33075,In the Kitchen with Rosie: Oprah's Favorite Recipes,Rosie Daley/Oprah Winfrey,3.04,0679434046,9780679434047,eng,142,767,31,1994-04-16,Knopf,"January 1, 1994",Hardcover,Knopf,,
-33130,King Richard II,William Shakespeare/Andrew Gurr,3.77,0521532485,9780521532488,eng,252,89,6,2003-05-05,Cambridge University Press,"January 1, 1595",Paperback,,,
-33131,King Richard II,William Shakespeare/Charles R. Forker,3.77,1903436338,9781903436332,eng,593,501,43,2002-03-21,Bloomsbury Arden Shakespeare,"January 1, 1595",Paperback,,,
-33133,King Richard II,William Shakespeare/Andrew Gurr,3.77,0521297656,9780521297653,eng,240,27,3,1984-11-30,Cambridge University Press,"January 1, 1595",Paperback,,,
-33137,Floating in My Mother's Palm,Ursula Hegi/John Collier/Francine Kass,3.82,0684854759,9780684854755,en-US,192,2738,218,1998-07-03,Touchstone,"January 1, 1990",Paperback,,,
-33139,Tearing the Silence: On Being German in America,Ursula Hegi,3.86,068484611X,9780684846118,eng,304,259,34,1998-07-03,Touchstone,"January 1, 1997",Paperback,Touchstone,,
-33144,Paint it Black,Janet Fitch,3.48,0316182745,9780316182744,eng,387,10136,978,2006-09-01,Little Brown and Company,"September 18, 2006",Hardcover,"Little, Brown and Company/Hachette Book Group, Inc.",,
-33151,The Tempest,William Shakespeare/Peter Hulme/William H. Sherman,3.81,0393978192,9780393978193,eng,355,582,30,2003-12-23,W. W. Norton & Company,"January 1, 1611",Paperback,,,
-33152,The Day of the Tempest (Dragonlance: Dragons of a New Age  #2),Jean Rabe,3.65,0786928573,9780786928576,eng,352,1365,16,2002-08-01,Wizards of the Coast,"August 1, 1997",Mass Market Paperback,Wizards of the Coast,,
-33153,A Tempest,Aimé Césaire/Richard Miller,3.56,1559362103,9781559362108,eng,69,1422,76,2002-05-01,Theatre Communications Group,,,,,
-33155,A Midsummer Night's Dream,William Shakespeare/Harold F. Brooks,3.94,1903436605,9781903436608,en-US,312,2820,76,1979-09-06,Arden Shakespeare,"January 1, 1595",Paperback,,,
-33157,A Midsummer Night's Dream (SparkNotes Literature Guide),SparkNotes/William Shakespeare,3.96,1586634046,9781586634049,eng,64,19,2,2002-01-10,SparkNotes,"Published January 1, 2002",Paperback,Spark Pub Group,,
-33158,A Midsummer Night's Dream,William Shakespeare/R.A. Foakes,3.94,0521532477,9780521532471,eng,168,144,10,2003-04-28,Cambridge University Press,"January 1, 1595",Paperback,,,
-33159,Minuit dans le jardin du bien et du mal,John Berendt,3.92,2266075187,9782266075183,fre,388,13,2,1998-06-06,Pocket,"January 13, 1994",Mass Market Paperback,,,
-33169,Les Essais (mis en français moderne par Claude Pinganaud),Michel de Montaigne,4.24,2869595948,9782869595941,fre,806,6,1,2002-09-14,Arléa,"January 1, 1580",Paperback,,,
-33174,Cliffs Notes on Hugo's Les Miserables,Amy L. Marsland,3.76,0822007355,9780822007357,en-GB,120,21,4,1968-11-01,Cliffs Notes,"November 15, 1968",Paperback,CliffsNotes,,
-33175,Les Misérables,Victor Hugo/Norman Denny,4.17,0140444300,9780140444308,eng,1232,3873,459,1982-03-25,Penguin Classics,"January 1, 1862",Paperback,,,
-33179,Hamlet in Purgatory,Stephen Greenblatt,3.94,0691102570,9780691102573,eng,344,219,24,2002-09-15,Princeton University Press,"January 1, 2001",Paperback,Princeton University Press,,
-33180,From Hinton to Hamlet: Building Bridges between Young Adult Literature and the Classics,Sarah K. Herz/Donald R. Gallo,4.01,0313324522,9780313324529,en-US,256,64,9,2005-09-01,Greenwood,"May 30, 1996",Hardcover,Greenwood,,
-33185,Hamlet,William Shakespeare/Burton Raffel/Harold Bloom,4.02,0300101058,9780300101058,eng,249,822,58,2003-09-10,Yale University Press,"January 1, 1601",Paperback,,,
-33186,Hamlet  Prince of Denmark,William Shakespeare/Philip Edwards/Robert Hapgood,4.02,0521532523,9780521532525,eng,270,149,13,2003-04-21,Cambridge University Press/The New Cambridge Shakespeare,"January 1, 1601",Paperback,,,
-33191,Romeo & Juliet,William Shakespeare/Roma Gill,3.74,019832149X,9780198321491,eng,142,237,18,2005-05-26,Oxford University Press,"January 1, 1597",Paperback,,,
-33192,Romeo and Juliet,William Shakespeare/Paul D. Moliken,3.74,1580495788,9781580495783,eng,111,223,20,2003-03-01,Prestwick House,"January 1, 1597",Paperback,,,
-33194,Romeo and Juliet,William Shakespeare/G. Blakemore Evans/Thomas Moisan,3.74,0521532531,9780521532532,eng,278,273,10,2003-05-01,Cambridge University Press,"January 1, 1597",Paperback,,,
-33195,Shakespeare's Romeo and Juliet,William Shakespeare/Karin Jacobson/Sidney Lamb,3.74,0764585746,9780764585746,eng,231,65,3,2000-05-08,Hungry Minds,"January 1, 1597",Paperback,,,
-33197,Romeo and Juliet (SparkNotes Literature Guide),SparkNotes/Brian  Phillips/William Shakespeare,3.91,1586633589,9781586633585,eng,88,52,8,2002-01-10,SparkNotes,"Published January 10, 2002",Paperback,SparkNotes,,
-33198,Romeo and Juliet,William Shakespeare/René Weis,3.74,1903436915,9781903436912,eng,350,219,13,2012-07-15,Bloomsbury Arden Shakespeare,"January 1, 1597",Paperback,,,
-33247,La Petite Fille du Lac,Christina Schwarz/Marie-Hélène Sabard,3.74,222109249X,9782221092491,fre,363,2,0,2003-03-06,Robert Laffont,"January 1, 2000",Paperback,,,
-33263,South of the Border  West of the Sun,Haruki Murakami/Philip Gabriel,3.87,0679767398,9780679767398,eng,213,3778,457,2000-03-14,Vintage,"October 5, 1992",Paperback,,,
-33279,Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer,Stewart Brand,4.1,0465007805,9780465007806,eng,208,526,63,2000-04-06,Basic Books,"January 1, 1999",Paperback,Basic Books,,
-33282,Jessica's Bad Idea (Sweet Valley Twins and Friends  #31),Francine Pascal/Jamie Suzanne,3.46,0553157272,9780553157277,eng,104,318,6,1989-08-01,Bantam,"July 1, 1989",Paperback,Bantam,,
-33288,How to Win Friends and Influence People,Dale Carnegie,4.19,0091906814,9780091906818,eng,268,1842,104,2006-04-06,Vermilion,"October 1, 1936",Paperback,,,
-33291,How to Win Friends and Influence People,Dale Carnegie,4.19,0749307846,9780749307844,en-US,256,210,21,1994-03-31,Cedar Books,"October 1, 1936",Paperback,,,
-33292,How to Win Friends and Influence People for Teen Girls,Donna Dale Carnegie,3.96,0743272773,9780743272773,eng,208,428,44,2005-06-02,Simon  Schuster,"January 1, 2005",Paperback,Touchstone,,
-33293,Naked Economics: Undressing the Dismal Science,Charles Wheelan,4.03,0393324869,9780393324860,eng,288,5719,484,2003-09-17,W. W. Norton  Company,"January 1, 2002",Paperback,,,
-33295,The Naked Warrior: Master the Secrets of the Super-Strong - Using Bodyweight Exercises Only,Pavel Tsatsouline,4.0,0938045555,9780938045557,en-US,218,908,63,2010-01-01,Dragon Door Publications,"January 1, 2003",Paperback,Dragon Door Publications,,
-33297,The Naked Ape: A Zoologist's Study of the Human Animal,Desmond Morris,3.95,0385334303,9780385334303,eng,256,6724,325,1999-04-13,Delta,"January 1, 1967",Paperback,Delta,,
-33308,There's No Toilet Paper . . . on the Road Less Traveled: The Best of Travel Humor and Misadventure,Doug Lansky,3.38,1932361278,9781932361278,eng,216,413,53,2005-11-16,Travelers' Tales,"January 1, 1998",Paperback,Travelers' Tales,,
-33313,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,4.07,0060899220,9780060899226,eng,312,183882,9427,2007-01-09,Ecco/Harper Perennial,"January 1, 2000",Paperback,Ecco/Harper Perennial,,
-33331,More Than You Know: Finding Financial Wisdom in Unconventional Places,Michael J. Mauboussin,4.09,0231138709,9780231138703,eng,268,1359,48,2006-04-21,Columbia University Press,,,,,
-33333,Searching for God Knows What,Donald Miller,3.92,0785263713,9780785263715,eng,246,23657,692,2004-10-11,Thomas Nelson,"ary 29, 2000",Paperback,Thomas Nelson,,
-33342,The More Than Complete Hitchhiker's Guide (Hitchhiker's Guide  #1-4 + short story),Douglas Adams,4.58,0681403225,9780681403222,en-US,624,433,34,1989-11-01,Longmeadow Press,"January 1, 1989",Leather Bound,,,
-33344,Hitchhiker's Guide To The Galaxy: The Filming of the Douglas Adams classic,Robbie Stamp/Paul Simpson,3.9,155704676X,9781557046765,eng,184,155,18,2005-04-22,Newmarket Press,"April 22, 2005",Hardcover,Newmarket Press,,
-33348,Different Seasons,Stephen King,4.35,0708823602,9780708823606,en-GB,560,188,24,1983-10-01,Futura,"January 1, 1982",Paperback,,,
-33353,It's Called a Breakup Because It's Broken: The Smart Girl's Break-Up Buddy,Greg Behrendt/Amiira Ruotola (-Behrendt),4.02,0767921968,9780767921961,eng,276,8606,670,2006-09-05,Harmony,"January 1, 2005",Paperback,Harmony,,
-33356,Jennifer Government,Max Barry,3.66,0349117624,9780349117621,eng,352,10771,921,2004-02-05,Abacus,"October 17, 2002",Paperback,Abacus ,,
-33363,Mama Day,Gloria Naylor,4.17,0679721819,9780679721819,eng,312,8922,559,1989-04-23,Vintage,"ary 1, 1988",Paperback,Vintage,,
-33365,A Feather on the Breath of God,Sigrid Nunez,3.91,0312422733,9780312422738,eng,192,488,66,2005-12-27,Picador,"January 1, 1995",Paperback,Picador,,
-33367,Mitz The Marmoset of Bloomsbury,Sigrid Nunez,3.92,193336856X,9781933368566,eng,128,134,32,2007-02-15,Soft Skull Press,"April 21, 1998",Paperback,,,
-33411,War with the Newts,Karel Čapek/M. Weatherall/R. Weatherall/Ivan Klíma,4.17,0810114682,9780810114685,eng,348,170,22,1996-10-07,Northwestern University Press,"January 1, 1936",Paperback,,,
-33418,Parallel Worlds: A Journey through Creation  Higher Dimensions  and the Future of the Cosmos,Michio Kaku,4.18,1400033721,9781400033720,eng,361,15096,452,2006-02-14,Anchor,"January 1, 2004",Paperback,Anchor,,
-33436,Key Lime Pie Murder (Hannah Swensen  #9),Joanne Fluke,3.85,0758210183,9780758210180,eng,342,10361,531,2007-07-31,Kensington Publishing Corporation,"January 1, 2007",Hardcover,Kensington Publishing Corporation,,
-33437,Cherry Cheesecake Murder (Hannah Swensen  #8),Joanne Fluke,3.91,0758202954,9780758202956,eng,382,12503,532,2007-02-01,Kensington Publishing Corporation,"March 1, 2006",Paperback,Kensington Pub Corp,,
-33438,Peach Cobbler Murder (Hannah Swensen  #7),Joanne Fluke,3.92,0758201559,9780758201553,eng,384,11633,554,2006-02-01,Kensington,"March 1, 2005",Mass Market Paperback,Kensington Books,,
-33439,Strawberry Shortcake Murder (Hannah Swensen  #2),Joanne Fluke,3.85,1575667215,9781575667218,eng,320,14668,881,2002-02-02,Kensington,"ary 1, 2001",Paperback,,,
-33440,Lemon Meringue Pie Murder (Hannah Swensen  #4),Joanne Fluke,3.87,0758215045,9780758215048,eng,352,12820,637,2004-02-01,Kensington,"January 1, 2003",Paperback,Kensington,,
-33441,Fluke: Or  I Know Why the Winged Whale Sings,Christopher Moore,3.75,006056668X,9780060566685,eng,321,35450,1953,2004-06-15,Harper,,,,,
-33442,Sugar Cookie Murder (Hannah Swensen  #6),Joanne Fluke,3.75,0758206828,9780758206824,eng,380,11510,691,2005-10-01,Kensington Publishing Corporation,,,,,
-33443,Chocolate Chip Cookie Murder (Hannah Swensen  #1),Joanne Fluke,3.71,0758213506,9780758213501,eng,436,31829,1971,2006-09-01,Kensington,,,,,
-33445,Blueberry Muffin Murder (Hannah Swensen  #3),Joanne Fluke,3.87,1575667223,9781575667225,eng,310,13669,694,2003-02-01,Kensington,"ary 1, 2001",Paperback,Kensington,,
-33446,The Wolf Shall Dwell With the Lamb: A Spirituality for Leadership in a Multicultural Community,Eric H.F. Law,3.77,082724231X,9780827242319,eng,144,115,21,1993-01-01,Chalice Press,"January 1, 1993",Paperback,Chalice Press,,
-33447,Focus: The Future of Your Company Depends on It,Al Ries/Laura Ries,4.06,0060799900,9780060799908,eng,320,480,28,2005-09-27,Harper Business,"January 1, 1996",Paperback,Harper Business,,
-33448,Positioning: The Battle for Your Mind,Al Ries/Jack Trout,4.04,0071359168,9780071359160,en-US,246,126,9,2001-01-18,McGraw-Hill Education,"January 1, 1980",Hardcover,,,
-33449,The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk,Al Ries/Jack Trout,4.05,0887306667,9780887306662,en-US,143,13851,462,1994-04-27,Harper Business,"January 1, 1993",Paperback,HarperBusiness,,
-33451,Horse Sense: How to Pull Ahead on the Business Track,Al Ries/Jack Trout,3.82,0452267641,9780452267640,eng,240,40,5,1992-03-01,Plume,"November 1, 1990",Paperback,Plume,,
-33453,You Suck (A Love Story  #2),Christopher Moore,3.83,0060590297,9780060590291,eng,328,42028,2416,2007-01-16,William Morrow,"January 1, 2007",Hardcover,William Morrow,,
-33454,Bloodsucking Fiends (A Love Story  #1),Christopher Moore,3.94,0060735414,9780060735418,eng,300,52843,1868,2004-06-01,HarperCollins,"September 1, 1995",Paperback,HarperCollins,,
-33455,Island of the Sequined Love Nun,Christopher Moore,3.8,0060735449,9780060735449,eng,325,27534,1247,2004-05-25,Harper Perennial,"August 1, 1997",Paperback,Harper Perennial,,
-33456,A Dirty Job (Grim Reaper  #1),Christopher Moore,4.07,0060590270,9780060590277,en-US,387,90947,5477,2006-03-21,William Morrow,"March 21, 2006",Hardcover,William Morrow,,
-33457,Practical Demonkeeping (Pine Cove  #1),Christopher Moore,3.83,0060735422,9780060735425,eng,256,37206,1353,2004-05-25,Perennial / William Morrow / HarperCollins,"May 25, 1992",Paperback,Perennial / William Morrow / HarperCollins,,
-33458,The Lust Lizard of Melancholy Cove (Pine Cove  #2),Christopher Moore,3.87,0060735457,9780060735456,en-US,304,29113,1203,2004-05-25,William Morrow Paperbacks,"April 1, 1999",Paperback,William Morrow Paperbacks,,
-33464,Granta 7,Bill Buford/Clive Sinclair/Graham Swift/Martin Amis/Rose Tremain/A.N. Wilson/Pat Barker/Julian Barnes/Ursula Bentley/William Boyd/Buchi Emecheta/Alan Judd/Maggie Gee/Kazuo Ishiguro/Adam Mars-Jones/Ian McEwan/Shiva Naipaul/Philip Norman/Christopher Priest/Salman Rushdie/Lisa St. Aubin de Terán,3.94,0140140824,9780140140828,eng,320,2,1,2013-04-01,Granta Books,"October 1, 1983",Paperback,Granta Magazine,,
-33473,Will Eisner's New York: Life in the Big City (The New York Tetralogy  #1-4),Will Eisner/Neil Gaiman,4.37,039306106X,9780393061062,eng,421,1299,71,2006-10-17,W. W. Norton  Company,,,,,
-33474,Graphic Storytelling and Visual Narrative,Will Eisner,4.08,0961472820,9780961472825,en-US,164,1789,30,1996-10-01,Poorhouse Press,,,,,
-33477,The Best of the Spirit,Will Eisner/Neil Gaiman,3.92,1401207553,9781401207557,eng,187,786,95,2005-11-01,DC Comics,"November 1, 2005",Paperback,DC Comics,,
-33478,The Plot: The Secret Story of the Protocols of the Elders of Zion,Will Eisner/Stephen Eric Bronner/Umberto Eco/Sergei Nilus,3.74,0393328600,9780393328608,eng,160,1109,134,2006-05-17,W. W. Norton  Company,"January 1, 2005",Paperback,W. W. Norton & Company,,
-33481,Will Eisner Sketchbook,Will Eisner,4.31,1569719608,9781569719602,eng,200,42,2,2004-02-03,Dark Horse Comics,"September 1, 1996",Hardcover,Dark Horse,,
-33484,The Conquering Sword of Conan (Conan the Cimmerian  #3),Robert E. Howard/Gregory Manchess/Patrice Louinet,4.33,0345461533,9780345461537,eng,416,3697,83,2005-11-29,Del Rey,"November 29, 2005",Paperback,Random House Worlds,,
-33488,Conan and the Demons of Khitai,Akira Yoshida/Pat Lee/Paul Lee/C.B. Cebulski,3.31,159307543X,9781593075439,eng,90,130,16,2006-07-25,Dark Horse Books,"January 1, 2006",Paperback,Dark Horse,,
-33489,Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG),Sandy Petersen/Lynn Willis,4.45,1568821816,9781568821818,eng,320,7011,39,2005-03-30,Chaosium,,,,,
-33490,The Call of Cthulhu and Other Weird Stories,H.P. Lovecraft,4.22,0141187069,9780141187068,en-GB,420,809,74,2002-07-25,Penguin Books,,,,,
-33491,The Keeper's Companion 2: Prohibition  Firearms  Tomes  & Creatures (Call of Cthulhu RPG),Lynn Willis/Brian M. Sammons/Adam Gauntlett/William Dietze/Greg Henrikson/Charles P. Zaglanis/J. Gordon Olmstead-Dean/M.J. Lempert/James Crowder,3.71,1568821867,9781568821863,eng,170,41,1,2002-12-01,Chaosium,,,,,
-33492,Secrets of New York (Call of Cthulhu RPG),William    Jones,3.63,1568821808,9781568821801,eng,180,27,2,2005-06-12,Chaosium,"June 30, 2005",Paperback,Chaosium Inc.,,
-33493,The Keeper's Companion Vol. 1 (Call of Cthulhu RPG),Keith Herber/Brian M. Sammons/William Dietze/Chaosium Inc.,3.92,1568821441,9781568821443,eng,208,65,1,2003-09-15,Chaosium,"November 1, 2000",Paperback,"Chaosium, Inc.",,
-33494,Secrets of San Francisco: A 1920s Sourcebook for the City by the Bay (Call of Cthulhu RPG),Cody Goodfellow,3.86,1568821875,9781568821870,eng,189,18,0,2006-04-01,Chaosium,"January 1, 2003",Paperback,Chaosium,,
-33496,Miskatonic University: Dire Secrets & Campus Life (Call of Cthulhu RPG),Sam Johnson/Sandy Antunes,4.12,1568821409,9781568821405,eng,242,38,0,2005-10-12,Chaosium,"January 1, 1995",Paperback,Chaosium,,
-33497,Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG),Sandy Petersen/Lynn Willis,4.45,1568821484,9781568821481,eng,288,34,1,2000-01-01,Chaosium,"May 15, 1981",Hardcover,,,
-33498,Shadows of Yog-Sothoth (Call of Cthulhu RPG),Sandy Petersen,3.9,1568821743,9781568821740,eng,180,63,2,2004-08-15,Chaosium,"December 1, 1982",Paperback,Chaosium Inc.,,
-33501,Song of Cthulhu: Tales of the Spheres Beyond Sound,Stephen Mark Rainey/H.P. Lovecraft/Ramsey Campbell/Edward P. Berglund/Fred Chappel/Caitlín R. Kiernan/Thomas F. Montelone/E.A. Lustig/Brian McNaughton/William R. Trotter,3.67,1568821174,9781568821177,eng,211,45,4,2005-12-03,Chaosium,"July 1, 2001",Paperback,Chaosium,,
-33507,Twenty Thousand Leagues Under the Sea (Extraordinary Voyages  #6),Jules Verne/Anthony Bonner,3.88,076072850X,9780760728505,eng,394,142879,3087,2002-04-01,Barnes & Noble,,,,,
-33512,One Thousand White Women: The Journals of May Dodd (One Thousand White Women  #1),Jim Fergus,3.88,0312199430,9780312199432,eng,434,100949,7615,1999-02-15,St. Martin's Griffin,"March 15, 1998",Paperback,St. Martin's Griffin,,
-33513,The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good,William Easterly,3.83,0143038826,9780143038825,eng,436,4473,232,2007-03-01,Penguin Books,,,,,
-33514,The Elements of Style,William Strunk Jr./E.B. White,4.19,0205313426,9780205313426,en-US,128,53669,2526,1999-09-03,Pearson,,,,,
-33532,Dracula,Bram Stoker,3.99,014062063X,9780140620634,eng,449,1683,120,1994-04-28,Penguin Books,"May 26, 1897",Paperback,,,
-33536,Happy Hour at Casa Dracula (Casa Dracula  #1),Marta Acosta,3.59,1416520384,9781416520382,en-US,314,2000,238,2006-07-04,Pocket Books,"July 4, 2006",Paperback,Gallery Books,,
-33537,Frankenstein,Mary Wollstonecraft Shelley/Susan J. Wolfson,3.79,0321399536,9780321399533,eng,431,230,28,2006-07-01,Pearson,"January 1, 1818",Paperback,,,
-33538,World War One British Poets: Brooke  Owen  Sassoon  Rosenberg and Others,Candace Ward,4.02,0486295680,9780486295688,eng,71,469,40,1997-04-22,Dover Publications,"April 22, 1997",Paperback,,,
-33539,World War II: A Short History,Michael J. Lyons,3.9,0130977691,9780130977694,en-US,343,72,6,2003-06-19,Routledge,"January 1, 1989",Paperback,Routledge,,
-33541,A Short History of World War I,James L. Stokesbury,3.95,0688001297,9780688001292,eng,352,353,43,1981-02-01,William Morrow Paperbacks,,,,,
-33543,Collected Stories  Vol. 2,Richard Matheson/Stanley Wiater/Jack Finney/George Clayton Johnson,4.32,1887368795,9781887368797,eng,453,185,11,2005-03-25,Gauntlet Press,"ary 28, 2005",Paperback,Gauntlet Pr,,
-33544,Nightmare At 20 000 Feet,Richard Matheson/Stephen King,4.09,0312878273,9780312878276,eng,336,6502,272,2002-01-05,Tor Books,,,,,
-33546,Earthbound,Logan Swanson/Richard Matheson,3.25,0765311712,9780765311719,eng,223,527,60,2005-04-16,Tor Books,"January 1, 1982",Paperback,Tor Books,,
-33547,Hell House,Richard Matheson,3.79,0727860992,9780727860996,eng,301,29779,1488,2004-07-01,Severn House Publishers,,,,,
-33550,Noir: Three Novels of Suspense,Richard Matheson,3.69,0765311402,9780765311405,eng,385,150,14,2005-10-01,Forge Books,"January 1, 1997",Paperback,Forge Books,,
-33551,7 Steps to Midnight,Richard Matheson,3.48,0765308371,9780765308375,en-US,320,423,44,2003-07-18,Forge Books,"January 1, 1993",Paperback,Forge Books,,
+32709,Now and on Earth,Jim Thompson/Stephen King,3.7,0679740139,9780679740131,eng,320,339,21,1994-02-01,Vintage,"January 1, 1942",Paperback,,3.7,1095.0
+32714,The Monkey,Stephen King/David Purdham,3.77,0394299035,9780394299037,eng,2,801,44,1989-10-28,Random House Audio,"January 1, 1980",Audio Cassette,Random House Audio,3.79,3779.0
+32715,Desperation / The Regulators: Box Set,Stephen King/Richard Bachman,4.07,067077605X,9780670776054,eng,1075,3231,72,1996-10-01,Viking Adult,"January 1, 1996",Hardcover,Viking Adult,4.21,12732.0
+32720,Ojos de fuego,Stephen King/Eduardo Goligorsky,3.88,0609810871,9780609810873,spa,528,353,29,2001-09-04,Plaza y Janés,"September 29, 1980",Paperback,,3.82,2475.0
+32737,Tevye's Daughters: Collected Stories of Sholom Aleichem,Sholom Aleichem/Frances Butwin,4.17,1929068034,9781929068036,eng,302,146,13,1999-11-01,Sholom Aleichem Family Publications,"January 1, 1894",Paperback,Sholom Aleichem Family Publications,4.15,798.0
+32741,Favorite Tales of Sholom Aleichem,Sholom Aleichem/Ben Shahn/Frances Butwin/Julius Butwin,4.26,0517412942,9780517412947,en-US,692,66,6,1990-11-18,Avenel Books,"January 28, 1858",Hardcover,Avenel Books,4.28,286.0
+32750,Brown Girl  Brownstones,Paule Marshall/Mary Helen Washington/Edwidge Danticat,4.07,1558614982,9781558614987,eng,324,2466,107,2006-08-01,Feminist Press,"January 1, 1959",Paperback,The Feminist Press at CUNY,4.1,11733.0
+32760,V.,Thomas Pynchon,3.96,3499137305,9783499137303,ger,544,46,4,1994-08-01,Rowohlt,"August 1, 1963",Paperback,,3.85,108.0
+32765,Gimpel the Fool: And Other Stories,Isaac Bashevis Singer/Saul Bellow,4.16,0374500525,9780374500528,eng,205,37,4,1988-12-31,Farrar Straus Giroux,"January 1, 1953",Paperback,,4.02,91.0
+32767,At the Mountains of Madness,H.P. Lovecraft/China Miéville/S.T. Joshi,3.88,0812974417,9780812974416,eng,224,24866,1608,2005-06-14,Modern Library,"January 1, 1931",Paperback,The Modern Library,3.87,79868.0
+32768,At the Mountains of Madness and Other Novels,H.P. Lovecraft/James Turner/S.T. Joshi/August Derleth,4.44,0870540386,9780870540387,eng,458,486,20,1985-12-01,Arkham House Publishers,"January 1, 1966",Hardcover,Arkham House Publishers Inc.,4.46,875.0
+32769,At the Mountains of Madness and Other Tales of Terror,H.P. Lovecraft,4.25,0345329457,9780345329455,eng,184,21719,491,1991-09-13,Del Rey Books,"January 1, 1981",Mass Market Paperback,Del Rey,4.26,47796.0
+32773,Mountain Madness (Wilderness  #24),David   Robbins/David Thompson,4.45,0843943998,9780843943993,eng,170,22,2,1998-06-01,Leisure Books,"June 1, 1998",Paperback,Leisure Books,4.48,57.0
+32774,At the Mountains of Madness and Other Novels of Terror,H.P. Lovecraft/August Derleth/E. Hoffmann Price,4.44,0007127774,9780007127771,eng,552,29,5,2002-06-17,Voyager,"January 1, 1964",Paperback,,3.83,54.0
+32778,The Aeneid,Virgil/Robert Fitzgerald,3.84,0679413359,9780679413356,eng,483,184,21,1992-06-30,Everyman's Library,"January 1, 20",Hardcover,,4.13,569.0
+32779,The Aeneid (Verse Translation),Virgil/Rolfe Humphries,3.84,0024277800,9780024277800,en-US,368,19,2,1987-01-15,Prentice Hall/Scribner/Macmillan,"January 1, 20",Paperback,,3.82,67.0
+32780,The Iliad,Homer/Andrew Lang,3.86,1904633382,9781904633389,eng,542,64,8,2011-09-01,Collector's Library,"January 1, 661",Hardcover,Barnes & Noble Collector's Library,4.11,132.0
+32781,War and the Iliad,Simone Weil/Rachel Bespaloff/Mary McCarthy/Christopher E.G. Benfey/Hermann Broch,4.04,1590171454,9781590171455,eng,121,532,57,2005-03-31,NYRB Classics,"December 1, 1940",Paperback,New York Review Books,4.08,4721.0
+32782,The Iliad,Homer/Victor G. Ambrus/Nick McCarty,3.86,0753453215,9780753453216,eng,95,8,3,2000-09-15,Kingfisher,"January 1, 661",Paperback,Kingfisher,3.09,33.0
+32807,Trojan Odyssey (Dirk Pitt  #17),Clive Cussler,3.94,0425199320,9780425199329,eng,463,15118,318,2004-12-01,G.P. Putnam's Sons,"November 24, 2003",Mass Market Paperback,G.P. Putnam's Sons,3.94,26430.0
+32810,The Divine Comedy II: Purgatory,Dante Alighieri/Dorothy L. Sayers/C.W. Scott-Giles,4.02,0140440461,9780140440461,en-US,388,369,33,1981-08-30,Penguin Classics,"January 1, 1321",Paperback,,4.07,1383.0
+32811,The Divine Comedy,Dante Alighieri/C.H. Sisson/David H. Higgins,4.07,0192835025,9780192835024,en-US,735,177,10,1998-06-18,Oxford University Press,"January 1, 1320",Paperback,,4.06,459.0
+32812,Paradiso (The Divine Comedy  #3),Dante Alighieri/Dorothy L. Sayers/Barbara Reynolds,3.95,0140441050,9780140441055,eng,400,11566,222,1962-07-30,Penguin Classics,"January 1, 1320",Paperback,Penguin Classics,3.94,31998.0
+32813,Modern Reader's Guide to Dante's the Divine Comedy,Joseph Gallagher,4.49,0764804944,9780764804946,eng,256,29,2,1999-05-10,Liguori Publications,"March 1, 1996",Paperback,Liguori Publications,4.27,106.0
+32814,The Canterbury Tales,Geoffrey Chaucer/Nevill Coghill,3.49,0140440224,9780140440225,eng,489,1050,74,1970-07-30,Penguin Books,"January 1, 1400",Paperback,,3.64,2838.0
+32816,The Canterbury Tales: Fifteen Tales and the General Prologue,Geoffrey Chaucer/V.A. Kolve/Glending Olson,3.95,0393925870,9780393925876,enm,600,1149,41,2005-08-01,W. W. Norton & Company,"January 1, 1390",Paperback,W. W. Norton & Company,3.96,2032.0
+32823,Fanning the Flame: Bible  Cross  and Mission,Chris    Green/Chris Wright/Paul Douglas Gardner,5.0,0310249872,9780310249870,eng,336,1,1,2003-06-17,Zondervan,"July 1, 2003",Paperback,Zondervan,5.0,10.0
+32827,From the Earth to the Moon (Extraordinary Voyages  #4),Jules Verne,3.78,1598184547,9781598184549,eng,136,17325,421,2006-10-01,Aegypan,"January 1, 1865",Paperback,Aegypan,3.8,46265.0
+32828,The Mammoth Book of New Jules Verne Adventures: Return to the Center of the Earth and Other Extraordinary Voyages  New Tales by the Heirs of Jules Verne,Mike Ashley/Eric Brown/Keith Brooke/Johan Heliot/Kevin J. Anderson/Sarah A. Hoyt/Justina Robson/Adam Roberts/Paul Di Filippo/Tim Lebbon/Molly Brown/Tony Ballantyne/Stephen Baxter/Richard A. Lupoff/Sharan Newman/Michael Pagel/Liz Williams/Brian Stableford/James Lovegrove/Ian Watson/Peter Criwther/Laurent Genefirt/F. Gwynplaine MacIntyre/Michael Mallory,3.63,0786714956,9780786714957,eng,498,28,4,2005-02-15,Running Press,"January 1, 2005",Paperback,Running Press,3.6,208.0
+32829,Journey to the Center of the Earth (Extraordinary Voyages  #3),Jules Verne,3.86,0553213970,9780553213973,eng,240,107189,2510,2006-04-25,Bantam,"November 25, 1864",Mass Market Paperback,Bantam,3.87,257521.0
+32830,20 000 Leagues Under The Sea,Pauline Francis/Jules Verne,3.76,0237526883,9780237526887,eng,48,563,32,2004-08-01,Evans Brothers,"ary 1, 2013",Paperback,Evans Brothers Ltd,3.75,1063.0
+32831,The Mysterious Island (Extraordinary Voyages  #12),Jules Verne/Caleb Carr/Jordan Stump,4.11,0812972120,9780812972122,eng,723,30022,948,2004-04-27,Modern Library,"January 1, 1874",Mass Market Paperback,Modern Library,4.14,76887.0
+32832,The Lighthouse at the End of the World,Jules Verne,3.64,1589630947,9781589630949,eng,260,1752,40,2001-03-20,Fredonia Books (NL),"January 1, 1905",Paperback,Fredonia Books (NL),3.71,5809.0
+32833,The World of Jules Verne,Gonzague Saint Bris/Arthur C. Clarke/Stéphane Heuet/Helen Marx/Saint-Bris Gonzague,4.0,1885586426,9781885586421,eng,85,3,1,2006-11-01,Helen Marx Books,"March 17, 2005",Hardcover,Helen Marx Books,4.33,28.0
+32835,The End of Nana Sahib: The Steam House (Extraordinary Voyages  #20),Jules Verne/Agnes D. Kingston,3.59,1410103277,9781410103277,eng,276,199,9,2003-07-19,Fredonia Books (NL),"January 1, 1880",Paperback,Fredonia Books (NL),3.62,1072.0
+32836,Around the World in Eighty Days,Jules Verne/Herbert R. Lottman/Jacqueline Rogers,3.93,0451529774,9780451529770,eng,236,156,17,2005-06-07,Signet,"November 6, 1872",Mass Market Paperback,,3.9,350.0
+32843,Around the World in Eighty Days,Jules Verne/George M. Towle/Bruce Sterling,3.93,0812968565,9780812968569,eng,211,778,35,2003-12-30,Modern Library,"November 6, 1872",Paperback,,3.84,2504.0
+32844,The Mysterious Island,Jules Verne/Jordan Stump/Caleb Carr,4.11,0812966422,9780812966428,eng,630,114,14,2002-12-10,Modern Library,"January 1, 1874",Paperback,,4.0,425.0
+32849,Adrift in the Pacific: Two Years Holiday (Extraordinary Voyages  #32),Jules Verne,3.99,1410102157,9781410102157,eng,300,1956,39,2003-04-24,Fredonia Books (NL),"January 1, 1888",Paperback,Fredonia Books (NL),4.03,4894.0
+32854,Final Payments,Mary Gordon,3.69,0307276783,9780307276780,eng,304,551,78,2006-06-06,Anchor,"January 1, 1978",Paperback,Anchor,3.71,1509.0
+32872,Sliver of Truth (Ridley Jones #2),Lisa Unger,3.68,0307338460,9780307338464,eng,308,3015,347,2007-01-02,Shaye Areheart Books,"January 2, 2007",Hardcover,,3.67,7111.0
+32880,The Mothman Prophecies,John A. Keel,3.54,0340824468,9780340824467,eng,352,117,16,2002-03-07,Hodder & Stoughton,"January 1, 1975",Paperback,,3.39,278.0
+32884,Intimate Communion: Awakening Your Sexual Essence,David Deida/Lorrie Bortner,3.99,155874374X,9781558743748,eng,270,265,26,1995-11-01,Health Communications,"November 1, 1995",Paperback,Health Communications,4.06,2385.0
+32893,Letter to a Man in the Fire: Does God Exist and Does He Care?,Reynolds Price,3.7,0684856271,9780684856278,eng,112,113,22,2000-10-17,Scribner,"January 1, 1999",Paperback,Scribner,3.72,269.0
+32899,The Promise of Rest,Reynolds Price/Mary Bess Engel,4.0,0684825104,9780684825106,eng,368,253,16,1996-11-05,Scribner,"May 1, 1995",Paperback,Scribner,4.01,546.0
+32900,Perfect Match,Jodi Picoult,3.95,0743418727,9780743418720,eng,368,213,33,2002-05-01,Atria Books,"May 1, 2002",Hardcover,,3.82,437.0
+32913,Demon Box,Ken Kesey,3.56,0140085300,9780140085303,eng,400,1418,55,1987-08-04,Penguin Books,"January 1, 1986",Paperback,Penguin Books,3.58,3317.0
+32915,Sailor Song,Ken Kesey,3.58,0140139974,9780140139976,eng,533,2015,105,1993-07-01,Penguin Books,"January 1, 1992",Paperback,Penguin Books,3.6,4667.0
+32916,On the Bus: The Complete Guide to the Legendary Trip of Ken Kesey and the Merry Pranksters and the Birth of Counterculture,Paul Perry/Ken Babbs,3.86,156025114X,9781560251149,eng,205,193,10,1997-01-07,Running Press,"January 1, 1990",Paperback,Running Press,3.94,675.0
+32919,The Further Inquiry,Ken Kesey/Ron Bevirt,3.63,0670831743,9780670831746,eng,215,226,3,1990-10-01,Viking Books,"October 1, 1990",Hardcover,Viking Adult,3.64,662.0
+32929,Goodnight Moon,Margaret Wise Brown/Clement Hurd,4.28,0060775858,9780060775858,eng,32,276426,4975,2007-01-23,HarperCollins,"September 3, 1947",Hardcover,HarperCollins,4.3,582152.0
+32936,Goodnight Moon 123: A Counting Book (Over the Moon),Margaret Wise Brown/Clement Hurd,3.57,0061125938,9780061125935,eng,32,198,22,2007-07-01,HarperCollins Publishers,"January 1, 2007",Hardcover,HarperCollins,3.61,497.0
+32939,New Rules: Polite Musings from a Timid Observer,Bill Maher,3.71,1594862958,9781594862953,en-US,304,5034,305,2005-07-26,Rodale Books,"August 30, 2005",Hardcover,Rodale Books,3.7,7424.0
+32941,True Story,Bill Maher,3.11,0743291352,9780743291354,en-US,304,199,28,2005-10-01,Simon  Schuster,"January 1, 1994",Paperback,Simon & Schuster,3.05,658.0
+32942,Does Anybody Have a Problem With That? The Best of Politically Incorrect,Bill Maher,3.51,0345412818,9780345412812,eng,288,189,9,1997-05-20,Ballantine Books,"January 1, 1996",Paperback,Ballantine Books,3.51,457.0
+32946,The Outsiders,S.E. Hinton,4.09,0141314575,9780141314570,eng,218,2630,258,2003-03-06,Puffin Group,"April 24, 1967",Paperback,,4.08,4754.0
+32947,Outsiders Within: Writing on Transracial Adoption,Jane Jeong Trenka/Julia Chinyere Oparah,4.17,0896087646,9780896087644,eng,300,190,20,2006-08-01,South End Press,"August 1, 2006",Paperback,South End Press,4.21,1223.0
+32950,Outsiders  Vol. 5: The Good Fight,Judd Winick/Matthew Clark/Art Thibert/Pop Mhan/Ron Randall,3.43,140121195X,9781401211950,eng,192,122,12,2007-01-03,DC Comics,"January 3, 2007",Paperback,DC Comics,3.47,280.0
+32951,Sister Outsider: Essays and Speeches,Audre Lorde,4.49,0895941414,9780895941411,en-GB,190,12105,568,1984-06-01,Crossing Press,"June 1, 1984",Paperback,,4.53,138055.0
+32957,Caramelo,Sandra Cisneros,3.9,0679742581,9780679742586,eng,441,9317,700,2003-09-09,Vintage,"September 24, 2002",Paperback,Vintage,3.93,30888.0
+32961,The House on Mango Street,Sandra Cisneros,3.63,0739322796,9780739322796,en-US,2,108,21,2005-08-30,Random House Audio,"January 1, 1984",Audio CD,,3.68,175.0
+32964,Selections from Homer’s Iliad,Homer/Allen Rogers Benner/Mark W. Edwards,4.41,0806133635,9780806133638,eng,522,67,7,2001-12-15,University of Oklahoma Press,"January 1, 1903",Paperback,OUP,4.43,166.0
+32966,The Merchant of Venice,William Shakespeare,3.8,0141013958,9780141013954,eng,240,140,8,2005-04-07,Penguin Classics,"January 1, 1596",Paperback,,3.53,242.0
+32975,Nancy Drew: Girl Detective: #1-4,Carolyn Keene,4.02,0689036914,9780689036910,eng,640,2167,30,2004-10-01,Aladdin,"October 1, 2004",Paperback,Aladdin,4.05,4170.0
+32977,Nancy's Mysterious Letter (Nancy Drew Mystery Stories  #8),Carolyn Keene/Walter Karig,3.86,1557091625,9781557091628,eng,210,8279,179,1996-04-01,Applewood Books,"January 1, 1932",Hardcover,Applewood Books,3.87,19383.0
+32979,The Secret of the Old Clock (Nancy Drew Mystery Stories  #1),Carolyn Keene/Russell H. Tandy/Sara Paretsky,3.99,1557091552,9781557091550,eng,210,53304,2118,1991-09-01,Applewood Books,"January 1, 1930",Hardcover,Applewood Books,4.0,126996.0
+32980,The Mystery at the Moss-covered Mansion (Nancy Drew Mystery Stories  #18),Carolyn Keene/Russell H. Tandy/Mildred Benson,3.89,1557092648,9781557092649,eng,215,4920,95,2003-02-01,Applewood Books,"January 1, 1941",Hardcover,Applewood Books,3.92,11179.0
+32981,The Mystery of the Brass-Bound Trunk (Nancy Drew Mystery Stories  #17),Carolyn Keene/Mildred Benson,3.89,155709263X,9781557092632,eng,228,4249,89,2001-12-01,Applewood Books,"January 1, 1940",Hardcover,Applewood Books,3.9,10279.0
+32986,The Mantle of the Prophet: Religion and Politics in Iran,Roy Mottahedeh,4.08,1851682341,9781851682348,eng,416,412,42,2000-08-15,One World (UK),"September 1, 1985",Paperback,Oneworld Pubns Ltd,4.09,2258.0
+32987,The Greatest Generation,Tom Brokaw,4.01,0812975294,9780812975291,eng,464,14233,914,2001-05-01,Random House Trade Paperbacks,"December 1, 1998",Paperback,Random House Trade Paperbacks,4.01,30743.0
+32994,Maverick: The Success Story Behind the World's Most Unusual Workplace,Ricardo Semler,4.17,0712678867,9780712678865,eng,336,2979,163,2001-09-06,Random House,"January 1, 1988",Paperback,Random House,4.08,11074.0
+33001,Weekend Warriors (Sisterhood  #1),Fern Michaels,4.05,0821775898,9780821775899,eng,304,6783,562,2004-07-01,Kensington,"December 1, 2001",Paperback,Kensington ,4.02,18296.0
+33002,The Weekend Novelist,Robert J. Ray/Bret Norris,3.67,0823084507,9780823084500,eng,266,368,36,2005-04-01,Billboard Books,"December 1, 1993",Paperback,Billboard Books,3.68,1560.0
+33007,The Week-End Book,Francis Meynell/John Julius Norwich/Francis Maynell,3.67,1585678139,9781585678136,eng,368,31,7,2006-05-04,Harry N. Abrams,"January 1, 1924",Hardcover,Abrams Press,3.76,122.0
+33008,North Carolina Weekends,Lynn Setzer,3.71,0895872730,9780895872739,en-US,353,7,1,2003-10-01,John F. Blair  Publisher,"January 1, 2003",Paperback,John F Blair Pub,3.63,27.0
+33013,Far from the Madding Crowd,Thomas Hardy/Margaret Drabble,3.94,037575797X,9780375757976,eng,465,324,40,2001-12-11,Modern Library,"January 1, 1874",Paperback,,3.96,778.0
+33015,Selected Poems,Thomas Hardy/Robert Mezey,3.96,0140436995,9780140436990,eng,320,1509,30,1998-12-01,Penguin Books,"January 1, 1928",Paperback,Penguin Books,3.98,2953.0
+33017,Selected Poetry,Thomas Hardy/Samuel Hynes,3.96,0192834916,9780192834911,eng,304,9,0,1999-05-06,Oxford University Press,"January 1, 1928",Paperback,,4.13,68.0
+33024,Underworld (Underworld  #1),Greg Cox/Danny McBride/Len Wiseman/Kevin Grevioux,4.09,0743480716,9780743480710,eng,384,2031,79,2003-08-26,Pocket Star Books,"January 1, 2003",Mass Market Paperback,Pocket Star,4.07,6003.0
+33025,Underworld: The Mysterious Origins of Civilization,Graham Hancock,3.95,1400049512,9781400049516,eng,784,1112,70,2003-10-28,Three Rivers Press,"January 1, 2002",Paperback,Crown,3.94,5976.0
+33026,The Dream and the Underworld,James Hillman,4.22,0060906820,9780060906825,en-US,256,746,34,1979-07-25,William Morrow Paperbacks,"January 1, 1975",Paperback,William Morrow Paperbacks,4.2,4906.0
+33028,Underworld (Star Wars: The Last of the Jedi  #3),Jude Watson,3.96,0439681367,9780439681360,eng,160,840,23,2005-12-01,Scholastic Paperbacks,"December 1, 2005",Paperback,Scholastic Paperbacks,3.92,2278.0
+33029,Star Wars: Underworld - The Yavin Vassilika,Mike Kennedy/Carlos Meglia,3.35,1569716188,9781569716182,eng,120,83,6,2001-10-16,Dark Horse Books,"October 12, 2001",Paperback,Dark Horse,3.21,233.0
+33030,Underworld: Blood Enemy (Underworld  #2),Greg Cox/Len Wiseman/Kevin Grevioux,3.91,0743480724,9780743480727,eng,310,548,26,2004-11-30,Pocket Star,"January 1, 2004",Mass Market Paperback,Pocket Star,3.91,2260.0
+33032,Queen of the Underworld,Gail Godwin,2.89,0345483197,9780345483195,eng,368,541,100,2007-01-30,Ballantine Books,"January 1, 2006",Paperback,Ballantine Books,2.88,987.0
+33046,Ve  perro ¡Ve!,P.D. Eastman/Adolfo Pérez Perdomo,4.09,0375823611,9780375823619,spa,24,33,2,2003-02-25,Random House Para Ninos,"January 1, 1961",Board Book,,4.27,110.0
+33052,Murder in the Cathedral,T.S. Eliot,3.76,0156632772,9780156632775,eng,148,6782,309,1964-03-18,Harcourt  Brace Jovanovich/Harvest,"January 1, 1936",Paperback,"Harcourt, Brace Jovanovich/Harvest",3.73,21715.0
+33057,Cathedral  Forge  and Waterwheel: Technology and Invention in the Middle Ages,Frances Gies/Joseph Gies,3.86,0060925817,9780060925819,eng,368,649,56,1995-01-01,Harper Perennial,"January 1, 1994",Paperback,Harper Perennial,3.87,3215.0
+33064,L'Équilibre du monde,Rohinton Mistry/Françoise Adelstain,4.36,225315086X,9782253150862,fre,890,152,11,2001-06-20,Le Livre de Poche,"January 1, 1995",Paperback,,4.44,1003.0
+33075,In the Kitchen with Rosie: Oprah's Favorite Recipes,Rosie Daley/Oprah Winfrey,3.04,0679434046,9780679434047,eng,142,767,31,1994-04-16,Knopf,"January 1, 1994",Hardcover,Knopf,3.05,1270.0
+33130,King Richard II,William Shakespeare/Andrew Gurr,3.77,0521532485,9780521532488,eng,252,89,6,2003-05-05,Cambridge University Press,"January 1, 1595",Paperback,,3.81,150.0
+33131,King Richard II,William Shakespeare/Charles R. Forker,3.77,1903436338,9781903436332,eng,593,501,43,2002-03-21,Bloomsbury Arden Shakespeare,"January 1, 1595",Paperback,,3.84,1538.0
+33133,King Richard II,William Shakespeare/Andrew Gurr,3.77,0521297656,9780521297653,eng,240,27,3,1984-11-30,Cambridge University Press,"January 1, 1595",Paperback,,3.97,74.0
+33137,Floating in My Mother's Palm,Ursula Hegi/John Collier/Francine Kass,3.82,0684854759,9780684854755,en-US,192,2738,218,1998-07-03,Touchstone,"January 1, 1990",Paperback,,3.82,5965.0
+33139,Tearing the Silence: On Being German in America,Ursula Hegi,3.86,068484611X,9780684846118,eng,304,259,34,1998-07-03,Touchstone,"January 1, 1997",Paperback,Touchstone,3.85,737.0
+33144,Paint it Black,Janet Fitch,3.48,0316182745,9780316182744,eng,387,10136,978,2006-09-01,Little Brown and Company,"September 18, 2006",Hardcover,"Little, Brown and Company/Hachette Book Group, Inc.",3.49,22791.0
+33151,The Tempest,William Shakespeare/Peter Hulme/William H. Sherman,3.81,0393978192,9780393978193,eng,355,582,30,2003-12-23,W. W. Norton & Company,"January 1, 1611",Paperback,,3.8,1016.0
+33152,The Day of the Tempest (Dragonlance: Dragons of a New Age  #2),Jean Rabe,3.65,0786928573,9780786928576,eng,352,1365,16,2002-08-01,Wizards of the Coast,"August 1, 1997",Mass Market Paperback,Wizards of the Coast,3.7,2725.0
+33153,A Tempest,Aimé Césaire/Richard Miller,3.56,1559362103,9781559362108,eng,69,1422,76,2002-05-01,Theatre Communications Group,"January 28, 1969",Paperback,Theatre Communications Group,3.61,4905.0
+33155,A Midsummer Night's Dream,William Shakespeare/Harold F. Brooks,3.94,1903436605,9781903436608,en-US,312,2820,76,1979-09-06,Arden Shakespeare,"January 1, 1595",Paperback,,4.0,7287.0
+33157,A Midsummer Night's Dream (SparkNotes Literature Guide),SparkNotes/William Shakespeare,3.96,1586634046,9781586634049,eng,64,19,2,2002-01-10,SparkNotes,"Published January 1, 2002",Paperback,Spark Pub Group,4.1,67.0
+33158,A Midsummer Night's Dream,William Shakespeare/R.A. Foakes,3.94,0521532477,9780521532471,eng,168,144,10,2003-04-28,Cambridge University Press,"January 1, 1595",Paperback,,3.95,320.0
+33159,Minuit dans le jardin du bien et du mal,John Berendt,3.92,2266075187,9782266075183,fre,388,13,2,1998-06-06,Pocket,"January 13, 1994",Mass Market Paperback,,4.06,60.0
+33169,Les Essais (mis en français moderne par Claude Pinganaud),Michel de Montaigne,4.24,2869595948,9782869595941,fre,806,6,1,2002-09-14,Arléa,"January 1, 1580",Paperback,,3.88,28.0
+33174,Cliffs Notes on Hugo's Les Miserables,Amy L. Marsland,3.76,0822007355,9780822007357,en-GB,120,21,4,1968-11-01,Cliffs Notes,"November 15, 1968",Paperback,CliffsNotes,3.83,76.0
+33175,Les Misérables,Victor Hugo/Norman Denny,4.17,0140444300,9780140444308,eng,1232,3873,459,1982-03-25,Penguin Classics,"January 1, 1862",Paperback,,4.34,10224.0
+33179,Hamlet in Purgatory,Stephen Greenblatt,3.94,0691102570,9780691102573,eng,344,219,24,2002-09-15,Princeton University Press,"January 1, 2001",Paperback,Princeton University Press,3.93,1254.0
+33180,From Hinton to Hamlet: Building Bridges between Young Adult Literature and the Classics,Sarah K. Herz/Donald R. Gallo,4.01,0313324522,9780313324529,en-US,256,64,9,2005-09-01,Greenwood,"May 30, 1996",Hardcover,Greenwood,4.03,182.0
+33185,Hamlet,William Shakespeare/Burton Raffel/Harold Bloom,4.02,0300101058,9780300101058,eng,249,822,58,2003-09-10,Yale University Press,"January 1, 1601",Paperback,,4.15,2435.0
+33186,Hamlet  Prince of Denmark,William Shakespeare/Philip Edwards/Robert Hapgood,4.02,0521532523,9780521532525,eng,270,149,13,2003-04-21,Cambridge University Press/The New Cambridge Shakespeare,"January 1, 1601",Paperback,,4.27,312.0
+33191,Romeo & Juliet,William Shakespeare/Roma Gill,3.74,019832149X,9780198321491,eng,142,237,18,2005-05-26,Oxford University Press,"January 1, 1597",Paperback,,3.61,524.0
+33192,Romeo and Juliet,William Shakespeare/Paul D. Moliken,3.74,1580495788,9781580495783,eng,111,223,20,2003-03-01,Prestwick House,"January 1, 1597",Paperback,,3.46,403.0
+33194,Romeo and Juliet,William Shakespeare/G. Blakemore Evans/Thomas Moisan,3.74,0521532531,9780521532532,eng,278,273,10,2003-05-01,Cambridge University Press,"January 1, 1597",Paperback,,3.73,583.0
+33195,Shakespeare's Romeo and Juliet,William Shakespeare/Karin Jacobson/Sidney Lamb,3.74,0764585746,9780764585746,eng,231,65,3,2000-05-08,Hungry Minds,"January 1, 1597",Paperback,,3.81,130.0
+33197,Romeo and Juliet (SparkNotes Literature Guide),SparkNotes/Brian  Phillips/William Shakespeare,3.91,1586633589,9781586633585,eng,88,52,8,2002-01-10,SparkNotes,"Published January 10, 2002",Paperback,SparkNotes,3.81,143.0
+33198,Romeo and Juliet,William Shakespeare/René Weis,3.74,1903436915,9781903436912,eng,350,219,13,2012-07-15,Bloomsbury Arden Shakespeare,"January 1, 1597",Paperback,,4.06,710.0
+33247,La Petite Fille du Lac,Christina Schwarz/Marie-Hélène Sabard,3.74,222109249X,9782221092491,fre,363,2,0,2003-03-06,Robert Laffont,"January 1, 2000",Paperback,,3.0,23.0
+33263,South of the Border  West of the Sun,Haruki Murakami/Philip Gabriel,3.87,0679767398,9780679767398,eng,213,3778,457,2000-03-14,Vintage,"October 5, 1992",Paperback,,3.79,7493.0
+33279,Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer,Stewart Brand,4.1,0465007805,9780465007806,eng,208,526,63,2000-04-06,Basic Books,"January 1, 1999",Paperback,Basic Books,4.1,2613.0
+33282,Jessica's Bad Idea (Sweet Valley Twins and Friends  #31),Francine Pascal/Jamie Suzanne,3.46,0553157272,9780553157277,eng,104,318,6,1989-08-01,Bantam,"July 1, 1989",Paperback,Bantam,3.47,813.0
+33288,How to Win Friends and Influence People,Dale Carnegie,4.19,0091906814,9780091906818,eng,268,1842,104,2006-04-06,Vermilion,"October 1, 1936",Paperback,,4.14,5275.0
+33291,How to Win Friends and Influence People,Dale Carnegie,4.19,0749307846,9780749307844,en-US,256,210,21,1994-03-31,Cedar Books,"October 1, 1936",Paperback,,4.05,1018.0
+33292,How to Win Friends and Influence People for Teen Girls,Donna Dale Carnegie,3.96,0743272773,9780743272773,eng,208,428,44,2005-06-02,Simon  Schuster,"January 1, 2005",Paperback,Touchstone,3.91,1859.0
+33293,Naked Economics: Undressing the Dismal Science,Charles Wheelan,4.03,0393324869,9780393324860,eng,288,5719,484,2003-09-17,W. W. Norton  Company,"January 1, 2002",Paperback,,3.96,12978.0
+33295,The Naked Warrior: Master the Secrets of the Super-Strong - Using Bodyweight Exercises Only,Pavel Tsatsouline,4.0,0938045555,9780938045557,en-US,218,908,63,2010-01-01,Dragon Door Publications,"January 1, 2003",Paperback,Dragon Door Publications,3.98,3136.0
+33297,The Naked Ape: A Zoologist's Study of the Human Animal,Desmond Morris,3.95,0385334303,9780385334303,eng,256,6724,325,1999-04-13,Delta,"January 1, 1967",Paperback,Delta,3.97,19504.0
+33308,There's No Toilet Paper . . . on the Road Less Traveled: The Best of Travel Humor and Misadventure,Doug Lansky,3.38,1932361278,9781932361278,eng,216,413,53,2005-11-16,Travelers' Tales,"January 1, 1998",Paperback,Travelers' Tales,3.41,977.0
+33313,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,4.07,0060899220,9780060899226,eng,312,183882,9427,2007-01-09,Ecco/Harper Perennial,"January 1, 2000",Paperback,Ecco/Harper Perennial,4.15,476376.0
+33331,More Than You Know: Finding Financial Wisdom in Unconventional Places,Michael J. Mauboussin,4.09,0231138709,9780231138703,eng,268,1359,48,2006-04-21,Columbia University Press,"January 1, 2006",Hardcover,Columbia University Press,4.08,6062.0
+33333,Searching for God Knows What,Donald Miller,3.92,0785263713,9780785263715,eng,246,23657,692,2004-10-11,Thomas Nelson,"ary 29, 2000",Paperback,Thomas Nelson,3.91,41938.0
+33342,The More Than Complete Hitchhiker's Guide (Hitchhiker's Guide  #1-4 + short story),Douglas Adams,4.58,0681403225,9780681403222,en-US,624,433,34,1989-11-01,Longmeadow Press,"January 1, 1989",Leather Bound,,4.57,794.0
+33344,Hitchhiker's Guide To The Galaxy: The Filming of the Douglas Adams classic,Robbie Stamp/Paul Simpson,3.9,155704676X,9781557046765,eng,184,155,18,2005-04-22,Newmarket Press,"April 22, 2005",Hardcover,Newmarket Press,4.36,2033.0
+33348,Different Seasons,Stephen King,4.35,0708823602,9780708823606,en-GB,560,188,24,1983-10-01,Futura,"January 1, 1982",Paperback,,4.13,514.0
+33353,It's Called a Breakup Because It's Broken: The Smart Girl's Break-Up Buddy,Greg Behrendt/Amiira Ruotola (-Behrendt),4.02,0767921968,9780767921961,eng,276,8606,670,2006-09-05,Harmony,"January 1, 2005",Paperback,Harmony,3.96,23339.0
+33356,Jennifer Government,Max Barry,3.66,0349117624,9780349117621,eng,352,10771,921,2004-02-05,Abacus,"October 17, 2002",Paperback,Abacus ,3.67,22539.0
+33363,Mama Day,Gloria Naylor,4.17,0679721819,9780679721819,eng,312,8922,559,1989-04-23,Vintage,"ary 1, 1988",Paperback,Vintage,4.19,23470.0
+33365,A Feather on the Breath of God,Sigrid Nunez,3.91,0312422733,9780312422738,eng,192,488,66,2005-12-27,Picador,"January 1, 1995",Paperback,Picador,4.0,4018.0
+33367,Mitz The Marmoset of Bloomsbury,Sigrid Nunez,3.92,193336856X,9781933368566,eng,128,134,32,2007-02-15,Soft Skull Press,"April 21, 1998",Paperback,,3.82,462.0
+33411,War with the Newts,Karel Čapek/M. Weatherall/R. Weatherall/Ivan Klíma,4.17,0810114682,9780810114685,eng,348,170,22,1996-10-07,Northwestern University Press,"January 1, 1936",Paperback,,4.13,416.0
+33418,Parallel Worlds: A Journey through Creation  Higher Dimensions  and the Future of the Cosmos,Michio Kaku,4.18,1400033721,9781400033720,eng,361,15096,452,2006-02-14,Anchor,"January 1, 2004",Paperback,Anchor,4.21,70783.0
+33436,Key Lime Pie Murder (Hannah Swensen  #9),Joanne Fluke,3.85,0758210183,9780758210180,eng,342,10361,531,2007-07-31,Kensington Publishing Corporation,"January 1, 2007",Hardcover,Kensington Publishing Corporation,3.83,25770.0
+33437,Cherry Cheesecake Murder (Hannah Swensen  #8),Joanne Fluke,3.91,0758202954,9780758202956,eng,382,12503,532,2007-02-01,Kensington Publishing Corporation,"March 1, 2006",Paperback,Kensington Pub Corp,3.89,28133.0
+33438,Peach Cobbler Murder (Hannah Swensen  #7),Joanne Fluke,3.92,0758201559,9780758201553,eng,384,11633,554,2006-02-01,Kensington,"March 1, 2005",Mass Market Paperback,Kensington Books,3.9,27861.0
+33439,Strawberry Shortcake Murder (Hannah Swensen  #2),Joanne Fluke,3.85,1575667215,9781575667218,eng,320,14668,881,2002-02-02,Kensington,"ary 1, 2001",Paperback,,3.82,36794.0
+33440,Lemon Meringue Pie Murder (Hannah Swensen  #4),Joanne Fluke,3.87,0758215045,9780758215048,eng,352,12820,637,2004-02-01,Kensington,"January 1, 2003",Paperback,Kensington,3.85,31359.0
+33441,Fluke: Or  I Know Why the Winged Whale Sings,Christopher Moore,3.75,006056668X,9780060566685,eng,321,35450,1953,2004-06-15,Harper,"June 3, 2003",Paperback,HarperCollins Publishers,3.76,58357.0
+33442,Sugar Cookie Murder (Hannah Swensen  #6),Joanne Fluke,3.75,0758206828,9780758206824,eng,380,11510,691,2005-10-01,Kensington Publishing Corporation,"October 1, 2004",Paperback,Kensington Pub Corp,3.72,29090.0
+33443,Chocolate Chip Cookie Murder (Hannah Swensen  #1),Joanne Fluke,3.71,0758213506,9780758213501,eng,436,31829,1971,2006-09-01,Kensington,"April 1, 2000",Hardcover,,3.72,58279.0
+33445,Blueberry Muffin Murder (Hannah Swensen  #3),Joanne Fluke,3.87,1575667223,9781575667225,eng,310,13669,694,2003-02-01,Kensington,"ary 1, 2001",Paperback,Kensington,3.86,33194.0
+33446,The Wolf Shall Dwell With the Lamb: A Spirituality for Leadership in a Multicultural Community,Eric H.F. Law,3.77,082724231X,9780827242319,eng,144,115,21,1993-01-01,Chalice Press,"January 1, 1993",Paperback,Chalice Press,3.87,362.0
+33447,Focus: The Future of Your Company Depends on It,Al Ries/Laura Ries,4.06,0060799900,9780060799908,eng,320,480,28,2005-09-27,Harper Business,"January 1, 1996",Paperback,Harper Business,4.0,2313.0
+33448,Positioning: The Battle for Your Mind,Al Ries/Jack Trout,4.04,0071359168,9780071359160,en-US,246,126,9,2001-01-18,McGraw-Hill Education,"January 1, 1980",Hardcover,,4.03,342.0
+33449,The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk,Al Ries/Jack Trout,4.05,0887306667,9780887306662,en-US,143,13851,462,1994-04-27,Harper Business,"January 1, 1993",Paperback,HarperBusiness,4.05,60629.0
+33451,Horse Sense: How to Pull Ahead on the Business Track,Al Ries/Jack Trout,3.82,0452267641,9780452267640,eng,240,40,5,1992-03-01,Plume,"November 1, 1990",Paperback,Plume,3.97,279.0
+33453,You Suck (A Love Story  #2),Christopher Moore,3.83,0060590297,9780060590291,eng,328,42028,2416,2007-01-16,William Morrow,"January 1, 2007",Hardcover,William Morrow,3.84,68451.0
+33454,Bloodsucking Fiends (A Love Story  #1),Christopher Moore,3.94,0060735414,9780060735418,eng,300,52843,1868,2004-06-01,HarperCollins,"September 1, 1995",Paperback,HarperCollins,3.95,105237.0
+33455,Island of the Sequined Love Nun,Christopher Moore,3.8,0060735449,9780060735449,eng,325,27534,1247,2004-05-25,Harper Perennial,"August 1, 1997",Paperback,Harper Perennial,3.8,46560.0
+33456,A Dirty Job (Grim Reaper  #1),Christopher Moore,4.07,0060590270,9780060590277,en-US,387,90947,5477,2006-03-21,William Morrow,"March 21, 2006",Hardcover,William Morrow,4.04,207419.0
+33457,Practical Demonkeeping (Pine Cove  #1),Christopher Moore,3.83,0060735422,9780060735425,eng,256,37206,1353,2004-05-25,Perennial / William Morrow / HarperCollins,"May 25, 1992",Paperback,Perennial / William Morrow / HarperCollins,3.83,71539.0
+33458,The Lust Lizard of Melancholy Cove (Pine Cove  #2),Christopher Moore,3.87,0060735457,9780060735456,en-US,304,29113,1203,2004-05-25,William Morrow Paperbacks,"April 1, 1999",Paperback,William Morrow Paperbacks,3.87,52381.0
+33464,Granta 7,Bill Buford/Clive Sinclair/Graham Swift/Martin Amis/Rose Tremain/A.N. Wilson/Pat Barker/Julian Barnes/Ursula Bentley/William Boyd/Buchi Emecheta/Alan Judd/Maggie Gee/Kazuo Ishiguro/Adam Mars-Jones/Ian McEwan/Shiva Naipaul/Philip Norman/Christopher Priest/Salman Rushdie/Lisa St. Aubin de Terán,3.94,0140140824,9780140140828,eng,320,2,1,2013-04-01,Granta Books,"October 1, 1983",Paperback,Granta Magazine,3.0,25.0
+33473,Will Eisner's New York: Life in the Big City (The New York Tetralogy  #1-4),Will Eisner/Neil Gaiman,4.37,039306106X,9780393061062,eng,421,1299,71,2006-10-17,W. W. Norton  Company,"October 17, 2006",Hardcover,W. W. Norton & Company,4.38,2940.0
+33474,Graphic Storytelling and Visual Narrative,Will Eisner,4.08,0961472820,9780961472825,en-US,164,1789,30,1996-10-01,Poorhouse Press,"ary 1, 1996",Paperback,Poorhouse Pr,4.08,4127.0
+33477,The Best of the Spirit,Will Eisner/Neil Gaiman,3.92,1401207553,9781401207557,eng,187,786,95,2005-11-01,DC Comics,"November 1, 2005",Paperback,DC Comics,3.94,1754.0
+33478,The Plot: The Secret Story of the Protocols of the Elders of Zion,Will Eisner/Stephen Eric Bronner/Umberto Eco/Sergei Nilus,3.74,0393328600,9780393328608,eng,160,1109,134,2006-05-17,W. W. Norton  Company,"January 1, 2005",Paperback,W. W. Norton & Company,3.8,2955.0
+33481,Will Eisner Sketchbook,Will Eisner,4.31,1569719608,9781569719602,eng,200,42,2,2004-02-03,Dark Horse Comics,"September 1, 1996",Hardcover,Dark Horse,4.47,123.0
+33484,The Conquering Sword of Conan (Conan the Cimmerian  #3),Robert E. Howard/Gregory Manchess/Patrice Louinet,4.33,0345461533,9780345461537,eng,416,3697,83,2005-11-29,Del Rey,"November 29, 2005",Paperback,Random House Worlds,4.34,6938.0
+33488,Conan and the Demons of Khitai,Akira Yoshida/Pat Lee/Paul Lee/C.B. Cebulski,3.31,159307543X,9781593075439,eng,90,130,16,2006-07-25,Dark Horse Books,"January 1, 2006",Paperback,Dark Horse,3.38,230.0
+33489,Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG),Sandy Petersen/Lynn Willis,4.45,1568821816,9781568821818,eng,320,7011,39,2005-03-30,Chaosium,"May 15, 1981",Paperback,Chaosium,4.46,10448.0
+33490,The Call of Cthulhu and Other Weird Stories,H.P. Lovecraft,4.22,0141187069,9780141187068,en-GB,420,809,74,2002-07-25,Penguin Books,"January 1, 1926",Paperback,,3.92,2369.0
+33491,The Keeper's Companion 2: Prohibition  Firearms  Tomes  & Creatures (Call of Cthulhu RPG),Lynn Willis/Brian M. Sammons/Adam Gauntlett/William Dietze/Greg Henrikson/Charles P. Zaglanis/J. Gordon Olmstead-Dean/M.J. Lempert/James Crowder,3.71,1568821867,9781568821863,eng,170,41,1,2002-12-01,Chaosium,"September 1, 2002",Paperback,Chaosium,3.71,101.0
+33492,Secrets of New York (Call of Cthulhu RPG),William    Jones,3.63,1568821808,9781568821801,eng,180,27,2,2005-06-12,Chaosium,"June 30, 2005",Paperback,Chaosium Inc.,3.55,92.0
+33493,The Keeper's Companion Vol. 1 (Call of Cthulhu RPG),Keith Herber/Brian M. Sammons/William Dietze/Chaosium Inc.,3.92,1568821441,9781568821443,eng,208,65,1,2003-09-15,Chaosium,"November 1, 2000",Paperback,"Chaosium, Inc.",3.88,151.0
+33494,Secrets of San Francisco: A 1920s Sourcebook for the City by the Bay (Call of Cthulhu RPG),Cody Goodfellow,3.86,1568821875,9781568821870,eng,189,18,0,2006-04-01,Chaosium,"January 1, 2003",Paperback,Chaosium,3.69,77.0
+33496,Miskatonic University: Dire Secrets & Campus Life (Call of Cthulhu RPG),Sam Johnson/Sandy Antunes,4.12,1568821409,9781568821405,eng,242,38,0,2005-10-12,Chaosium,"January 1, 1995",Paperback,Chaosium,4.14,108.0
+33497,Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG),Sandy Petersen/Lynn Willis,4.45,1568821484,9781568821481,eng,288,34,1,2000-01-01,Chaosium,"May 15, 1981",Hardcover,,4.47,68.0
+33498,Shadows of Yog-Sothoth (Call of Cthulhu RPG),Sandy Petersen,3.9,1568821743,9781568821740,eng,180,63,2,2004-08-15,Chaosium,"December 1, 1982",Paperback,Chaosium Inc.,3.93,185.0
+33501,Song of Cthulhu: Tales of the Spheres Beyond Sound,Stephen Mark Rainey/H.P. Lovecraft/Ramsey Campbell/Edward P. Berglund/Fred Chappel/Caitlín R. Kiernan/Thomas F. Montelone/E.A. Lustig/Brian McNaughton/William R. Trotter,3.67,1568821174,9781568821177,eng,211,45,4,2005-12-03,Chaosium,"July 1, 2001",Paperback,Chaosium,3.57,165.0
+33507,Twenty Thousand Leagues Under the Sea (Extraordinary Voyages  #6),Jules Verne/Anthony Bonner,3.88,076072850X,9780760728505,eng,394,142879,3087,2002-04-01,Barnes & Noble,"March 20, 1869",Hardcover,Barnes & Noble,3.92,360733.0
+33512,One Thousand White Women: The Journals of May Dodd (One Thousand White Women  #1),Jim Fergus,3.88,0312199430,9780312199432,eng,434,100949,7615,1999-02-15,St. Martin's Griffin,"March 15, 1998",Paperback,St. Martin's Griffin,3.88,201948.0
+33513,The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good,William Easterly,3.83,0143038826,9780143038825,eng,436,4473,232,2007-03-01,Penguin Books,"March 14, 2006",Paperback,Penguin Books,3.84,17662.0
+33514,The Elements of Style,William Strunk Jr./E.B. White,4.19,0205313426,9780205313426,en-US,128,53669,2526,1999-09-03,Pearson,"January 1, 1918",Hardcover,Allyn & Bacon,4.15,152472.0
+33532,Dracula,Bram Stoker,3.99,014062063X,9780140620634,eng,449,1683,120,1994-04-28,Penguin Books,"May 26, 1897",Paperback,,3.84,3698.0
+33536,Happy Hour at Casa Dracula (Casa Dracula  #1),Marta Acosta,3.59,1416520384,9781416520382,en-US,314,2000,238,2006-07-04,Pocket Books,"July 4, 2006",Paperback,Gallery Books,3.54,4447.0
+33537,Frankenstein,Mary Wollstonecraft Shelley/Susan J. Wolfson,3.79,0321399536,9780321399533,eng,431,230,28,2006-07-01,Pearson,"January 1, 1818",Paperback,,3.96,461.0
+33538,World War One British Poets: Brooke  Owen  Sassoon  Rosenberg and Others,Candace Ward,4.02,0486295680,9780486295688,eng,71,469,40,1997-04-22,Dover Publications,"April 22, 1997",Paperback,,4.03,1112.0
+33539,World War II: A Short History,Michael J. Lyons,3.9,0130977691,9780130977694,en-US,343,72,6,2003-06-19,Routledge,"January 1, 1989",Paperback,Routledge,3.76,224.0
+33541,A Short History of World War I,James L. Stokesbury,3.95,0688001297,9780688001292,eng,352,353,43,1981-02-01,William Morrow Paperbacks,"ary 1, 1981",Paperback,William Morrow Paperbacks,3.9,862.0
+33543,Collected Stories  Vol. 2,Richard Matheson/Stanley Wiater/Jack Finney/George Clayton Johnson,4.32,1887368795,9781887368797,eng,453,185,11,2005-03-25,Gauntlet Press,"ary 28, 2005",Paperback,Gauntlet Pr,4.24,537.0
+33544,Nightmare At 20 000 Feet,Richard Matheson/Stephen King,4.09,0312878273,9780312878276,eng,336,6502,272,2002-01-05,Tor Books,"January 1, 2002",Paperback,Tor Books,4.07,19149.0
+33546,Earthbound,Logan Swanson/Richard Matheson,3.25,0765311712,9780765311719,eng,223,527,60,2005-04-16,Tor Books,"January 1, 1982",Paperback,Tor Books,3.28,1158.0
+33547,Hell House,Richard Matheson,3.79,0727860992,9780727860996,eng,301,29779,1488,2004-07-01,Severn House Publishers,"January 1, 1971",Hardcover,Severn House,3.76,104691.0
+33550,Noir: Three Novels of Suspense,Richard Matheson,3.69,0765311402,9780765311405,eng,385,150,14,2005-10-01,Forge Books,"January 1, 1997",Paperback,Forge Books,3.71,481.0
+33551,7 Steps to Midnight,Richard Matheson,3.48,0765308371,9780765308375,en-US,320,423,44,2003-07-18,Forge Books,"January 1, 1993",Paperback,Forge Books,3.47,976.0
 33554,Duel,Richard Matheson/Ray Bradbury,4.04,0312878265,9780312878269,eng,400,1824,71,2003-01-04,Tor Books,"January 1, 1971",Paperback,Tor Books,4.04,5663.0
 33555,What Dreams May Come,Richard Matheson,3.95,0765308703,9780765308702,eng,288,9298,830,2004-01-01,Tor Books,"September 1, 1978",Paperback,Tor Books,3.96,27839.0
 33557,Richard Matheson's Hell House  Book 2,Ian Edginton/Simon Fraser,4.5,1932382720,9781932382723,eng,48,8,0,2005-03-15,IDW Publishing,"March 16, 2005",Paperback,IDW Publishing,4.71,27.0
@@ -9277,7 +9277,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 36422,The Liberty Bell (Symbols of America),Debra Hess,3.83,0761417133,9780761417132,eng,40,4,0,2003-01-01,Cavendish Square Publishing,"January 1, 2003",Library Binding,Cavendish Square,3.6,12.0
 36423,The Statue of Liberty (Symbols of America),Debra Hess,4.0,0761417079,9780761417071,eng,40,1,0,2003-01-01,Cavendish Square Publishing,"January 28, 2003",Library Binding,Cavendish Square,3.67,9.0
 36424,The White House (Symbols of America),Debra Hess,4.0,0761417125,9780761417125,eng,40,3,2,2004-01-01,Cavendish Square Publishing,"January 1, 2003",Library Binding,Cavendish Square,4.0,13.0
-36425,The American Flag (Symbols of America),Debra Hess,4.0,0761417095,9780761417095,eng,39,3,0,2004-01-01,Cavendish Square Publishing,,,,4.0,13.0
+36425,The American Flag (Symbols of America),Debra Hess,4.0,0761417095,9780761417095,eng,39,3,0,2004-01-01,Cavendish Square Publishing,"January 1, 2003",Library Binding,Cavendish Square,4.0,13.0
 36434,Touched with Fire: Manic-Depressive Illness and the Artistic Temperament,Kay Redfield Jamison,4.02,068483183X,9780684831831,en-US,384,4209,199,1996-10-18,Free Press,"January 1, 1993",Paperback,Free Press,4.02,18401.0
 36438,Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression,Frederick K. Goodwin/Kay Redfield Jamison,4.4,0195135792,9780195135794,en-GB,1262,107,3,2007-03-01,Oxford University Press  USA,"January 1, 1990",Hardcover,Oxford University Press,4.26,856.0
 36447,The Bone Yard,Paul J. Mikol/Dean Koontz/F. Paul Wilson/Sheri S. Tepper/Ray Garton,4.01,0425127265,9780425127261,eng,329,265,4,1991-05-01,Berkley,"January 1, 1988",Mass Market Paperback,Berkley,3.99,891.0
@@ -9545,7 +9545,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 37877,Mandala Sand Art Kit,Walter Foster Creative Team,1.0,1560107669,9781560107668,eng,8,1,0,2004-01-01,Walter Foster Publishing,"January 1, 2004",Hardcover,Walter Foster Pub,1.0,9.0
 37892,The Death Shift: The True Story of Nurse Genene and the Texas Baby Murders,Peter Elkind,3.78,0451401964,9780451401960,eng,400,118,11,1990-05-01,Onyx,"January 1, 1989",Mass Market Paperback,Onyx,3.72,753.0
 37900,Turn of the Cards (Wild Cards  #12),George R.R. Martin/Victor Milán,3.69,0553561529,9780553561524,eng,432,567,18,1993-01-01,Spectra,"January 1, 1993",Mass Market Paperback,Spectra,3.67,2054.0
-37902,Turn of the Cards,Georgina Grey,3.0,0449239691,9780449239698,eng,0,3,1,1979-05-12,Fawcett Coventry,,,,3.0,19.0
+37902,Turn of the Cards,Georgina Grey,3.0,0449239691,9780449239698,eng,0,3,1,1979-05-12,Fawcett Coventry,"January 1, 1979",Mass Market Paperback,Fawcett Coventry,3.0,19.0
 37905,Dr. Seuss (First Biographies),Cheryl Carlson,4.33,0736850910,9780736850919,eng,24,14,1,2005-01-01,Capstone Press,"January 1, 2005",Paperback,,4.36,20.0
 37909,Go Jump in the Pool! (Macdonald Hall  #2),Gordon Korman,4.16,0590442090,9780590442091,eng,192,1419,38,1991-01-01,Scholastic,"January 1, 1979",Paperback,Scholastic Paperbacks,4.18,2560.0
 37911,Shipwreck (Island I),Gordon Korman/Holter Graham,3.8,0439023319,9780439023313,eng,0,103,14,2007-02-01,Scholastic Audio Books,"June 1, 2001",Audio CD,,3.84,126.0
@@ -9744,7 +9744,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 38936,Lori's Little Secret (Bravo Family  #15) (Bravo Family Ties Miniseries  #3),Christine Rimmer,3.76,0373246838,9780373246830,eng,248,101,6,2005-05-01,Silhouette,"May 1, 2005",Mass Market Paperback,Harlequin Special Edition,3.63,305.0
 38951,The Day My Butt Went Psycho,Andy Griffiths/Miles Thompson,3.73,0439424690,9780439424691,eng,220,1853,232,2003-04-01,Scholastic  Inc.,"September 1, 2001",Paperback,"Scholastic, Inc.",3.73,4220.0
 38955,Just Disgusting!,Andy Griffiths/Terry Denton,3.83,0330363689,9780330363686,eng,180,70,3,2002-08-01,Pan Australia,"August 1, 2002",Paperback,,3.8,212.0
-38970,Thorn in Her Side (The Princess School  #7),Jane B. Mason/Sarah Hines Stephens,3.88,0439798736,9780439798730,eng,144,214,8,2006-01-01,Scholastic Paperbacks,,,,3.86,612.0
+38970,Thorn in Her Side (The Princess School  #7),Jane B. Mason/Sarah Hines Stephens,3.88,0439798736,9780439798730,eng,144,214,8,2006-01-01,Scholastic Paperbacks,"January 1, 2006",Paperback,Scholastic Paperbacks,3.86,612.0
 38977,The Princess of the Chalet School,Elinor M. Brent-Dyer,4.08,000690601X,9780006906018,eng,159,465,21,2000-01-01,HarperCollins,"January 1, 1927",Paperback,HarperCollins,4.1,1060.0
 38980,The Princess Diaries (The Princess Diaries  #1),Meg Cabot,3.78,0613371658,9780613371650,eng,283,216359,4137,2001-07-01,Turtleback,"May 30, 2000",Library Binding,Turtleback,3.81,371941.0
 38986,Let Down Your Hair,Jane B. Mason/Sarah Hines Stephens,3.83,043962939X,9780439629393,eng,144,450,12,2004-12-01,Scholastic Paperbacks,"December 1, 2004",Paperback,Scholastic Paperbacks,3.85,971.0
@@ -9853,7 +9853,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 39580,The American Campaign: U.S. Presidential Campaigns and the National Vote,James E. Campbell,5.0,089096940X,9780890969403,eng,314,0,0,2000-05-01,Texas A&M University Press,"April 1, 2000",Paperback,,0.0,3.0
 39582,The Anglo-Saxons,James Campbell/Eric John/Patrick Wormald,4.04,0140143955,9780140143959,eng,272,550,28,1991-03-28,Penguin,"July 1, 1982",Paperback,Penguin Books,4.05,2483.0
 39585,The Final Frontiersman: Heimo Korth and His Family  Alone in Alaska's Arctic Wilderness,James   Campbell,4.21,074345314X,9780743453141,en-US,320,1179,141,2005-09-13,Atria Books,"January 1, 2004",Paperback,Atria Books,4.17,4510.0
-39622,The Untamed One (Wild Wulfs of London  #2),Ronda Thompson,4.01,0312935749,9780312935740,eng,320,925,42,2006-05-02,St. Martin's Paperbacks,,,,4.01,1844.0
+39622,The Untamed One (Wild Wulfs of London  #2),Ronda Thompson,4.01,0312935749,9780312935740,eng,320,925,42,2006-05-02,St. Martin's Paperbacks,"May 1, 2006",Mass Market Paperback,St. Martin's Paperbacks,4.01,1844.0
 39623,The Cursed One (Wild Wulfs of London  #3),Ronda Thompson,4.02,0312935757,9780312935757,eng,305,1006,46,2006-11-28,St. Martin's Paperbacks,"January 1, 2006",Mass Market Paperback,St Martins Pr,4.02,1988.0
 39624,The Dark One (Wild Wulfs of London  #1),Ronda Thompson,3.87,0312935730,9780312935733,eng,341,1734,98,2005-11-01,St. Martin's Press,"November 1, 2005",Mass Market Paperback,St. Martin's Paperbacks,3.88,4424.0
 39625,Call of the Moon,Ronda Thompson,3.74,0505525151,9780505525154,eng,352,126,8,2009-01-01,Love Spell,"November 1, 2002",Paperback,Love Spell,3.73,397.0
@@ -9974,7 +9974,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_
 40159,The King of Attolia (The Queen's Thief  #3),Megan Whalen Turner,4.37,006083577X,9780060835774,eng,387,28480,2309,2006-01-24,Greenwillow Books,"January 24, 2006",Hardcover,Greenwillow Books,4.38,61400.0
 40160,Firebirds: An Anthology of Original Fantasy and Science Fiction,Sharyn November/Lloyd Alexander/Emma Bull/Charles Vess/Michael Cadnum/Kara Dalkey/Nancy Farmer/Nina Kiriki Hoffman/Diana Wynne Jones/Patricia A. McKillip/Garth Nix/Meredith Ann Pierce/Delia Sherman/Sherwood Smith/Nancy Springer/Megan Whalen Turner/Elizabeth Wein/Laurel Winter,3.96,0142403202,9780142403204,eng,432,3464,153,2005-05-05,Firebird,"September 29, 2003",Paperback,Firebird,3.96,6862.0
 40174,Herzog on Herzog,Paul Cronin,4.45,0571207081,9780571207084,eng,352,1373,93,2003-07-09,Farrar  Straus and Giroux,"July 1, 2003",Paperback,"Farrar, Straus and Giroux",4.45,5026.0
-40180,Vesco,Arthur Herzog III,4.0,0595272096,9780595272099,eng,408,6,3,2003-03-11,iUniverse,,,,3.71,27.0
+40180,Vesco,Arthur Herzog III,4.0,0595272096,9780595272099,eng,408,6,3,2003-03-11,iUniverse,"January 1, 1987",Paperback,iUniverse,3.71,27.0
 40184,Encore Provence: New Adventures in the South of France,Peter Mayle,4.0,0679762698,9780679762690,eng,240,9980,254,2000-04-25,Vintage,"October 1, 1992",Paperback,Vintage,4.02,16944.0
 40187,Confessions of a French Baker: Breadmaking Secrets  Tips  and Recipes,Peter Mayle/Gerard Auzet,3.64,140004474X,9781400044740,en-US,91,405,52,2005-10-25,Alfred A. Knopf,"January 1, 2005",Hardcover,Knopf,3.67,1315.0
 40189,A Year in Provence,Peter Mayle,3.96,0679731148,9780679731146,eng,207,54963,2554,1991-06-04,Vintage,"December 31, 1989",Paperback,Vintage,3.99,126449.0
