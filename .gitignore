@@ -1,2 +1,3 @@
 # ignore all files in private dir
 private/
+__pycache__/
