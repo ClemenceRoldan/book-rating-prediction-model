@@ -16,13 +16,17 @@ driver = None
 DEBUG = True
 
 def myprint(*args, **kwargs):
+    """this function is used to control printing througout the code
+        if DEBUG is set to True then print, if False then do not print
+    """
     
     global DEBUG 
     if DEBUG: # if false does not print
         print(*args, **kwargs)
 
 def connect_driver(): 
-    # connect to driver
+    """function to connect to driver, in our case Chrome driver
+    """
     
     global driver
 
@@ -33,10 +37,20 @@ def connect_driver():
     myprint('OK')
     
 def driver_quit():
-    # quit driver
+    """function to quit the driver
+    """
     driver.quit()
 
 def getPage(url, timeout=8):
+    """function to load a specific page (url)
+
+    Args:
+        url (str): the url of the page to connect to
+        timeout (int): time in seconds to wait for a page to load before throwing an error. Defaults to 8.
+
+    Returns:
+        bool: True if page load is successful else False
+    """
     myprint('Getting Page :', url, ' ...> ', end='')
     
     try:
@@ -55,15 +69,25 @@ def getPage(url, timeout=8):
         print(f"Error occurred: {e}")
         return False
 
-def driver_pages():
-    myprint('browser_pages : ', driver.window_handles)
-
 def is_logged_in():
+    """function to check if the login to website was successful
+
+    Returns:
+        bool: True if login is successful else False
+    """
     if driver.get_cookie('sess-at-main') == None:
         return False
     return True
 
 def login(creds_path='../private/credentials.yaml'):
+    """function to login to a specific website
+
+    Args:
+        creds_path (str): yaml file that holds the credentials "username: USERNAME" and "password: PASSWORD"
+
+    Returns:
+        int: 1 is login is successful, 0 if login failed, -1 incase of exception
+    """
     
     global driver
     login_url = r"https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in&siteState=8ee875637040e51dac0713257c042f88"
@@ -105,13 +129,23 @@ def login(creds_path='../private/credentials.yaml'):
         return -1
 
 def get_avgRating_shelvesAdded(book_id):
+    """function to get the average rating and added to shelves of a specific book edition
+
+    Args:
+        book_id (int): the id of the book
+
+    Returns:
+        dict: dictionary that stores the values of the average rating (avg_rating) and added to shelves (added_to_shelves) of the book
+    """
     
     url = f"https://www.goodreads.com/book/stats?id={book_id}&just_this_edition=yep"
     myprint('Getting AvgRating & ShelvesAdded :')
     
+    # connect to page
     time.sleep(random.uniform(2, 8))
     val = getPage(url)
     
+    # if connection to page fails
     if not val:
         myprint(f"Connecting to {url} failed !!! \n try to connect again ...")
         
@@ -134,24 +168,24 @@ def get_avgRating_shelvesAdded(book_id):
     
     myprint('---> AvgRating : ', end='')
     
-    try:
+    try: # trying getting the average rate
         avg_rating = polling2.poll(lambda: driver.find_element(By.CLASS_NAME, value="infoBoxRowItem.avgRating"), step=6, timeout=15)
         avg_rating = avg_rating.text.strip()
         avg_rating = float(avg_rating)
         myprint(avg_rating)
-    except Exception as e: 
+    except Exception as e: # incacse of exception set avg_rating to np.nan
         myprint(f"!!!!! Could not get the average ratings due to the following exception: {e} !!!!!")
         myprint("!!!!! avg_rating will be set to nan !!!!!")
         avg_rating = np.nan
     
     myprint('---> ShelvesAdded : ', end='')
     
-    try:
+    try: # trying to get added_to_shelves
         added_to_shelves = polling2.poll(lambda: driver.find_element(By.XPATH, '//div[@class="infoBoxRowTitle" and text()="Added to shelves"]/following-sibling::div[@class="infoBoxRowItem"]'), step=8, timeout=15)
         added_to_shelves = added_to_shelves.text.strip().replace(',','')
         added_to_shelves = int(added_to_shelves)
         myprint(added_to_shelves)
-    except Exception as e: 
+    except Exception as e: # incase of exception set added_to_shelves to np.nan
         myprint(f"!!!!! Could not get added to shelves due to the following exception: {e} !!!!!")
         myprint("!!!!! added_to_shelves will be set to nan !!!!!")
         added_to_shelves = np.nan
@@ -163,6 +197,11 @@ def get_avgRating_shelvesAdded(book_id):
 
 
 def get_publisher():
+    """function to get the publisher of a specific book
+
+    Returns:
+        str|np.nan: a string representing the publisher or np.nan incase getting the publisher failed
+    """
     
     try:
         script_element = polling2.poll(lambda: driver.find_element(By.ID,"__NEXT_DATA__"), step=4, timeout=10)
@@ -187,6 +226,11 @@ def get_publisher():
 
 
 def get_pagesFormat():
+    """function to get the pages format of a book (e.g. paperback, hardcover, CD, ebook etc.)
+
+    Returns:
+        str|np.nan: a string representing the pages format or np.nan incase getting the pages format failed
+    """
     
     try:
         pagesFormat = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="pagesFormat"]'), step=7, timeout=12)
@@ -200,6 +244,11 @@ def get_pagesFormat():
 
 
 def get_firstPublished():
+    """function to get the first published date of a book
+
+    Returns:
+        str|np.nan: a string representing the first published date or np.nan incase getting the first published date failed
+    """
     
     try:
         firstPublished = polling2.poll(lambda: driver.find_element(By.XPATH, '//p[@data-testid="publicationInfo"]'), step=5, timeout=13)
@@ -211,13 +260,23 @@ def get_firstPublished():
     return firstPublished
 
 def get_publisher_pagesFormat_firstPublished(book_id):
+    """function to get the publisher, pages format and first published date of a specific book edition
+
+    Args:
+        book_id (int): the id of the book
+
+    Returns:
+        dict: dictionary that stores the values of the publisher, pages format (page_format) and first published date (first_published) of the book
+    """
     
     url = f"https://www.goodreads.com/book/show/{book_id}"
     myprint('Getting publisher, pageFormat * firstPublished :')
     
+    # connect to page
     time.sleep(2)
     val = getPage(url)
     
+    # if connection to page fails
     if not val:
         
         print(f"Connecting to {url} failed !!! \n try to connect again ...")
@@ -261,13 +320,28 @@ def get_publisher_pagesFormat_firstPublished(book_id):
 
 
 def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=5, max_throttle_delay=10):
-    # Load the last scraped index if it exists
+    """function to scrape the new features for all book_id in a specific df
+
+    Args:
+        df (pd.DataFrame): the pandas DataFrame used to add the new features to, it should have 'bookID' column in it
+        start_index (int, optional): the DataFrame index to start scraping from. Defaults to 0.
+        batch_size (int, optional): the size of the batch to process. Defaults to 100.
+        min_throttle_delay (int, optional): minimum timeout in seconds to wait. Defaults to 5.
+        max_throttle_delay (int, optional): maximum timeout in seconds to wait. Defaults to 10.
+
+    Returns:
+        pd.DataFrame: the updated df
+    """
+    # Load the last scraped index if it exists - this file stores the last index reached after apply the scraper. 
+    # Important incase of unexpected interruptions
     last_index_file = "last_scraped_index.txt"
     
+    # if last_index_file does not exist create a new one
     if exists(last_index_file):
         with open(last_index_file, "r") as file:
             start_index = int(file.read())
-            
+    
+    # if the new .csv file to store the updated df does not exist, create a new one        
     if not exists("booksRating_extraFeats.csv"):
         df = df.assign(first_published=np.nan,
                    book_format=np.nan,
@@ -286,7 +360,9 @@ def scrape_by_dfIDs(df, start_index=0, batch_size=100, min_throttle_delay=5, max
     # Iterate over each row in the DataFrame starting from the last scraped index
     for index in range(start_index, len(df), batch_size):
         breaker = False
+        
         batch_df = df.iloc[index:index+batch_size]
+        
         for batch_index, row in batch_df.iterrows():
             throttle_delay = random.uniform(min_throttle_delay, max_throttle_delay)
 
