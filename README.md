@@ -45,7 +45,7 @@ The project includes three main notebooks:
 
 - **DataAnalysis.ipynb**: includes analysis of the dataset, exploring its features, and gaining insights into the data. The data used was the df_ml_ds_final1.csv found in the data file. It is the dataset that was resulted from the data cleaning and feature engineering done in the DataCleaningFeatEng.ipynb notebook
 
-- **DataCleaningFeatEng.ipynb**: shows the steps taken towards cleaning the dataset and performing feature engineering to prepare it for regression models. This notebook resulted in the final dataset df_ml_ds_final1.csv datasets found in the data folder, which was used for the data analysis and average ratings prediction
+- **DataCleaningFeatEng.ipynb**: shows the steps taken towards cleaning the dataset and performing feature engineering to prepare it for regression models. This notebook resulted in the final dataset df_ml_ds_final1.csv dataset found in the data folder, which was used for the data analysis and average ratings prediction
 
 - **Regression.ipynb**: applies and compares basic Linear Regression and Ensemble Tree-Based Regression models to predict book ratings based on the processed dataset.
 
