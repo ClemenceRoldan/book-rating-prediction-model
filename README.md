@@ -1,5 +1,5 @@
 # Book Rating Prediction Model
-Predicting Book Ratings is a university group project developed by Kheirie Kaderi, Clemence Roldan, and Mohamed Al Jalanji for Machine Learning with Python course at Data ScienceTech Insitute. The project aims to predict book ratings and recommend new books using regression models.
+Predicting Book Ratings is a university group project developed by Kheirie Kaderi, Clemence Roldan, and Mohamed Al Jalanji for Machine Learning with Python course at Data ScienceTech Insitute. The project aims to predict book ratings using regression models.
 ## Table of Contents
 - [About](#about)
 - [Installation](#installation)
@@ -10,7 +10,7 @@ Predicting Book Ratings is a university group project developed by Kheirie Kader
 ## About
 This project aims to use machine learning techniques to predict a specific book's rating.
 
-The raw dataset (books.csv) was provided by Data ScienceTech Institute as part of the Python for Machine Learning course given in Autumn 2023. It is a collection of Goodreads books, sourced from real user information. This dataset offers versatility and can be utilized for various tasks, such as predicting book ratings or recommending new reads.
+The raw dataset (books.csv) was provided by Data ScienceTech Institute as part of the Python for Machine Learning course given in Autumn 2023. It is a collection of Goodreads books, sourced from real user information. This dataset offers versatility and can be utilized for various tasks, such as predicting book ratings.
 
 Below is the information regarding the dataset features:
 
@@ -43,9 +43,9 @@ pip install -r requirements.txt
 
 The project includes three main notebooks:
 
-- **DataAnalysis.ipynb**: includes analysis of the dataset, exploring its features, and gaining insights into the data.
-
-- **DataCleaningFeatEng.ipynb**: shows the steps taken towards cleaning the dataset and performing feature engineering to prepare it for regression models. This notebook resulted in the books_updated.csv and dataframe_forML.csv datasets.
+- **DataCleaningFeatEng.ipynb**: shows the steps taken towards cleaning the dataset and performing feature engineering to prepare it for regression models. This notebook resulted in the final dataset df_ml_ds_final1.csv dataset found in the data folder, which was used in the data analysis and for average ratings prediction.
+  
+- **DataAnalysis.ipynb**: includes analysis of the dataset, exploring its features, and gaining insights into the data. The data used was the df_ml_ds_final1.csv found in the data file. It is the dataset that was resulted from the data cleaning and feature engineering done in the DataCleaningFeatEng.ipynb notebook.
 
 - **Regression.ipynb**: applies and compares basic Linear Regression and Ensemble Tree-Based Regression models to predict book ratings based on the processed dataset.
 
