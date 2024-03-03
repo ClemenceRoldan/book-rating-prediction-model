@@ -1,3 +1,4 @@
-# ignore all files in private dir
+# ignore all files in the following dir
 private/
 __pycache__/
+data_hidden/
