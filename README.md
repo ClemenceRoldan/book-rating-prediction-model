@@ -4,6 +4,7 @@ Predicting Book Ratings is a university group project developed by Kheirie Kader
 - [About](#about)
 - [Installation](#installation)
 - [Notebooks](#notebooks)
+- [Data](#data)
 - [Utils](#utils)
 - [Scraper](#scraper)
 
