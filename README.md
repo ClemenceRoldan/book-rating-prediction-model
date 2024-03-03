@@ -4,6 +4,7 @@ Predicting Book Ratings is a university group project developed by Kheirie Kader
 - [About](#about)
 - [Installation](#installation)
 - [Notebooks](#notebooks)
+- [Data](#data)
 - [Utils](#utils)
 - [Scraper](#scraper)
 
@@ -51,6 +52,20 @@ The project includes three main notebooks:
 
 Further details and explanation are found in the notebooks.
 
+## Data
+
+The Data folder holds important files, which are: 
+
+- **books.csv**: the original dataset
+  
+- **books_updated**: the updated version of the original dataset after resolving the column separator issue (refer to the beginning of "Data Cleaning: Raw Data" section in DataCleaningFeatEng.ipynb).
+  
+- **countries.csv**: this file was used to incorporate new features such as publisher_country and coordinates into the dataset.
+  
+- **genre.csv**: an updated version of the books_updated.csv resulting from the initial section execution of DataCleaningFeatEng.ipynb (specifically, the "Data Cleaning: Raw Data" section).
+  
+- **df_ml_ds_final1.csv**: The final dataset obtained after completing the entire execution of DataCleaningFeatEng.ipynb. This dataset was used in both DataAnalysis.ipynb and Regression.ipynb notebooks.
+  
 ## Utils
 
 The `utils.py` file contains useful functions that were used in data preprocessing and feature engineering.
