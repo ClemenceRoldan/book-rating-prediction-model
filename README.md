@@ -1,5 +1,5 @@
 # Book Rating Prediction Model
-Predicting Book Ratings is a university group project developed by Kheirie Kaderi, Clemence Roldan, and Mohamed Al Jalanji for Machine Learning with Python course at Data ScienceTech Insitute. The project aims to predict book ratings and recommend new books using regression models.
+Predicting Book Ratings is a university group project developed by Kheirie Kaderi, Clemence Roldan, and Mohamed Al Jalanji for Machine Learning with Python course at Data ScienceTech Insitute. The project aims to predict book ratings using regression models.
 ## Table of Contents
 - [About](#about)
 - [Installation](#installation)
