@@ -10,7 +10,7 @@ Predicting Book Ratings is a university group project developed by Kheirie Kader
 ## About
 This project aims to use machine learning techniques to predict a specific book's rating.
 
-The raw dataset (books.csv) was provided by Data ScienceTech Institute as part of the Python for Machine Learning course given in Autumn 2023. It is a collection of Goodreads books, sourced from real user information. This dataset offers versatility and can be utilized for various tasks, such as predicting book ratings or recommending new reads.
+The raw dataset (books.csv) was provided by Data ScienceTech Institute as part of the Python for Machine Learning course given in Autumn 2023. It is a collection of Goodreads books, sourced from real user information. This dataset offers versatility and can be utilized for various tasks, such as predicting book ratings.
 
 Below is the information regarding the dataset features:
 
